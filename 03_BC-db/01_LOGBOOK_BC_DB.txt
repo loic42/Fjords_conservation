@@ -1,0 +1,106 @@
+###############################################################
+# Objective: Create a 12S database for BC waters
+# 1) We used OBIS to create a list of fish in BC and Alaska, as well as a list of fish from Matt Lemay
+# 2) Using this list, we filtered the MIDORI database (13/04/2023)
+# 3) Then remove/add sequences manually
+# ==> When running a new dataset with BARQUE, unnanotated sequences are retrieved and cluster into OTUS
+# using SWARM. These sequences are then blast agains nr.
+# NB: add only blast hits that are documented in BC waters, and that have at least one hits > 97% in ncbi (for 12S)
+# When possible, add voucher sequences
+# WHEN ADDING/REMOVE A SEQUENCE, UPDATE THIS FILE, 01_midori_12S_BC.fasta and 01_midori_12S_BC_list.xlsx
+###############################################################
+
+- 20/04/2023: modification by Loïc Jacquemot
+- Add Merluccius productus voucher sequence (present in LCA but not in BARQUE)
+- Replace Thaleichthys pacificus sequence from MIDORI to a voucher sequence (alignment were bad with the one from MIDORI)
+==> This show that even MIDORI can contains badly annotated sequences
+==> 576 species
+
+
+- 05/05/2023: modification by Loïc Jacquemot
+Compare BARQUE results with Matt's list. Verify the hits that are not in the list and remove the one absent from BC 
+(also looking at sp distribution in Fishbase, Worms...)
+- Remove Ammodytes tobianus (European species)
+- remove Clupea harengus sequence (atlantic species)
+- remove Gadus morhua (atlantic cod)
+- remove Lumpenus fabricii (Atlantic, not in Matt's list)
+- remove Lycodapus_microchir (Japanese species)
+- remove Careproctus rastrinus (Sea of Japan)
+- remove Glyptocephalus stelleri (Sea of Japan)
+- remove Hemilepidotus papilio (Arctic)
+- remove Lycodes polaris (Arctic)
+- remove Salvelinus alpinus (absent from lower BC, see Taylor 2016)
+==>567 species
+
+
+17-05-2023: modification by Loïc Jacquemot
+Compare with LCA results (using Hakai script) and add sequence absent from DB but present in BC coast
+- Thaleichthys pacificus: add voucher sequence here (LC091603.1)
+- Polypera greeni: add voucher sequence here (LC104577.1)
+- Phanerodon vacca: add voucher sequence here (LC091972.1)
+- Lycodopsis_pacificus: add voucher sequence here (LC104685.1)
+- Artedius_harringtoni: add voucher sequence here
+
+25-07-2023: modification by Loïc Jacquemot
+- add Gasterosteus aculeatus (LC091881.1) Stickleback sequence from voucher specimen, Was missing in DB
+- add Hydrolagus colliei (LC091549.1)
+
+11-09-2023: modification by Loïc Jacquemot
+Blast unnanotated sequences from spring fjord samples
+- add Beringraja rhina (LC091566.1) (Northeast Pacific)
+- replace Apodichthys flavidus sequence (old sequence: U90407.1 from 1997 study, only one hit in NCBI with the sp;
+new sequence: from Miya 2015, voucher specimen, LC092023.1)
+- add Syngnathus leptorhynchus voucher sequence (LC091883.1)
+- replace Gobiesox_maeandricus sequence (KY656390.1) by a voucher sequence (LC092040.1)
+
+12-09-2023: modification by Loïc Jacquemot
+- remove Squalus acanthias to keep only Squalus suckleyi (pacific and atlantic species has been shown to be different. see Ebert et al. (2010))
+
+20-09-2023: modification by Loïc Jacquemot
+- remove Phoca hispina (ringed seals, only Arctic) and Ursus maritimus (white bear)
+
+17-11-2023: modification by Loïc Jacquemot
+- removed Phoca largha, not in BC
+
+13-03-2024: modification by Loïc Jacquemot - blast unnanotated sequence from WInter/Spring and Historical fjords samples
+- add Nautichthys oculofasciatus (LC091950.1)
+- add Clinidae_Gibbonsia_metzi (U90364.1)
+- add Clinidae_Gibbonsia_montereyensis (U90365.1)
+
+05-04-2024: modification by Loïc Jacquemot
+- remove Lycodinae_Bothrocara_hollandi, no evidence that it is present in Canada
+
+16-05-2024: modification by Loïc Jacquemot
+- remove Arctic cod (Boreogadus saida), not present in BC
+
+24-05-2024: modification by Loïc Jacquemot
+- remove Myoxocephalus_octodecemspinosus, Atlantic species
+
+26-02-2025 modification by Loïc Jacquemot
+- add 3 sequences of O. mykiss (Steelhead) directly from the barque 12S database (was removed because mostly freshwater)
+
+09-04-2025 modification by Loïc Jacquemot
+- remove Lycodes reticulatus based on FishBase distribution only in Arctic and Atlantic
+- remove Liparis fabricii based on FishBase distribution only in Arctic and Atlantic
+- remove Paraliparis grandis based on FishBase distribution only in Arctic and Atlantic
+
+10-04-2025 modification by Loïc Jacquemot, comparaison with annotation with global MIDORI database
+# plot top 25 unique sequence annotated with MIDORI global and add the pacific species
+- Added Pacific white sided dolphin (Delphinidae_Lagenorhynchus_obliquidens) (Was removed because marine mammal)
+- Added Cutthroat trout (Oncorhynchus_Oncorhynchus_clarkii) (was removed because mostly freshwater)
+
+# 17-04-2025
+# double check all names in the database using the CheckName tool on FishBase: https://www.fishbase.ca/tools/upload/CheckName.php
+- Change Beringraja rhina to Caliraja rhina
+- Change Leucoraja erinacea by Leucoraja erinaceus
+- Remove Salvelinus fontinalis x Salvelinus malma sequence
+- Change Nannobrachium regale to Lampanyctus regalis
+- Change Thunnus thynnus thynnus to Thunnus thynnus
+- Change polypera greeni to Liparis greeni
+- Remove Platichthys stellatus x Parophrys vetulus sequence
+- Change Embassichthys bathybius to Microstomus bathybius
+- Change Symphurus atricaudus to Symphurus atricauda
+- Change Lycodopsis pacificus to Lycodes pacificus
+
+# 01-05-2024 Modification by Loïc Jacquemot
+- removal of Ammodytes hexapterus sequence, species restricted to northern Alaska, Arctic and Western Pacific Ocean (see Pietsch and Orr 2015)
