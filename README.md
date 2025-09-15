@@ -1,5 +1,5 @@
 # Fjords_conservation
-Processing and analysis of 12S MiFish-U eDNA data for paper on fjord conservation.
+Processing and analysis of 12S MiFish-U eDNA data collected in 5 fjords of British COlumbia (2023).
 To learn more: https://fjedna.shinyapps.io/census-app1/
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="www/Figure1_map.png">
@@ -10,8 +10,10 @@ To learn more: https://fjedna.shinyapps.io/census-app1/
 to come
 
 # Folders
-00_data: contains raw table file generated from the BARQUE pipeline. Fastq sequences were annotated with MIDORI and a custom database centered on British Columbia species of fish.
-01_tables: contains the processed table produced by 01_eDNA_table_manip - BARQUE - 12S.R
+00_data: raw table files generated from the BARQUE pipeline. Fastq sequences were annotated with MIDORI and a custom database centered on British Columbia fish species.
+01_tables: processed tables produced by 01_eDNA_table_manip - BARQUE - 12S.R
+02_BC-db: BC-centered regional database
+
 
 # Files
 01_Metadata_all.csv: Full metadata
