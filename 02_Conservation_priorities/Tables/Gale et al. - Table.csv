@@ -1,0 +1,126 @@
+Common_Name,scientificName,Trophic_Level,Max_Size_(cm;_Total_or_standard_length);_fish_only,Vulnerability_Category,Vulnerable_Species,Upper_level_Predators,Forage_Species,Nutrient_Transporting_Species,Habitat_forming_Species,Any_CC,Global_CC,National_CC,Regional_CC,Recommended_CP
+Arrowtooth,Atheresthes stomias,4.2,84,H,2,2,-,*,-,*,*,*,*,X
+Butter Sole,Isopsetta isolepis,3.6,55,L-M,0,1,-,*,-,*,*,*,*,-
+Dover Sole,Microstomus pacificus,3.2,76,H-VH,2,1,-,*,-,*,*,*,*,X
+English Sole,Parophrys vetulus,3.4,57,M,1,1,-,*,-,*,*,*,*,-
+Flathead Sole,Hippoglossoides elassodon,3.7,52,M,1,0,-,*,-,*,*,*,*,-
+Pacific Halibut,Hippoglossus stenolepis,4.1,267,VH,2,2,-,1,-,*,*,*,*,X
+Pacific Sanddab,Citharichthys sordidus,3.5,41,L-M,0,0,-,*,-,*,*,*,*,-
+Petrale Sole,Eopsetta jordani,4.1,70,H,2,1,-,0,-,0,0,*,*,X
+Rex Sole,Glyptocephalus zachirus,3.3,60,H,2,1,-,0,-,*,*,*,*,X
+Rock Sole,Lepidopsetta bilineata,3.2,60,H,2,1,-,0,-,*,*,*,*,X
+Sand Sole,Psettichthys melanostictus,4.1,63,M,1,1,-,0,-,*,*,*,*,-
+Slender Sole,Lyopsetta exilis,3.5,35,M-H,1,0,-,*,-,0,0,*,*,-
+Speckled Sanddab,Citharichthys stigmaeus,3.4,17,L,0,0,-,*,-,*,*,*,*,-
+Starry Flounder,Platichthys stellatus,3.6,91,M-H,1,1,-,*,-,0,0,*,*,-
+Capelin,Mallotus villosus,3.2,25.2,L,0,0,2,*,-,0,0,*,*,X
+Eulachon,Thaleichthys pacificus,3.3,34,L-M,0,0,2,2,-,2,0,2,2,X
+Longfin Smelt,Spirinchus thaleichthys,3.2,20,L-M,0,0,1*,1*,-,0,0,*,*,-
+Northern Anchovy,Engraulis mordax,3.1,24.8,L-M,0,0,1*,*,-,0,0,*,*,-
+Pacific Herring,Clupea pallasii,3.2,46,L-M,0,0,2,2,-,*,*,*,*,X
+Pacific Sand Lance,Ammodytes hexapterus,3.1,30,L-M,0,0,2,0,-,*,*,*,*,X
+Pacific Sardine,Sardinops sagax,2.8,39.5,L-M,0,0,1*,1,-,1,*,1,*,X
+Pacific Saury,Cololabis saira,3.7,40,L-M,0,0,1*,1*,-,*,*,*,*,-
+Surf Smelt,Hypomesus pretiosus,3.4,30.5,L-M,0,0,2,*,-,0,0,*,*,X
+Cabezon,Scorpaenichthys marmoratus,3.6,99,M,1,1,-,0,-,*,*,*,*,-
+Kelp Greenling,Hexagrammos decagrammus,3.6,61,M-H,1,0,-,0,-,*,*,*,*,-
+Lingcod,Ophiodon elongatus,4.3,152,H,2,2,-,*,-,*,*,*,*,X
+Northern Ronquil,Ronquilus jordani,3.1,20,L,0,0,-,*,-,0,0,*,*,-
+Pacific Sandfish,Trichodon trichodon,4,30.5,L-M,0,0,1,*,*,*,*,*,*,-
+Prowfish,Zaprora silenus,3.7,88,M-H,1,1,-,*,-,0,0,*,*,-
+Sablefish,Anoplopoma fimbria,3.8*,120,H,2,2,-,1,-,*,*,*,*,X
+Wolf-eel,Anarrhichthys ocellatus,3.5,240,VH,2,1,-,*,-,0,0,*,*,X
+Northern Lampfish,Stenobrachius leucopsarus,3.1,13,L-M,0,0,2,*,-,*,*,*,*,X
+Northern Smoothtongue,Leuroglossus schmidti,3.1,20,M-H,1,0,2,*,-,*,*,*,*,X
+Chinook Salmon,Oncorhynchus tshawytscha,4.4,150,H-VH,2,2,1,2,-,0,*,0,0,X
+Chum Salmon,Oncorhynchus keta,3.7,100,M-H,1,1,1,2,-,0,*,0,0,X
+Coho Salmon,Oncorhynchus kisutch,4.2,108,M-H,1,2,1,2,-,0,*,0,0,X
+Cutthroat Trout,Oncorhynchus clarkii,3.8,99,M,1,2,1*,1,-,0,*,0,0,X
+Pink Salmon,Oncorhynchus gorbuscha,4.5,76,M,1,1,1*,2,-,0,*,0,0,X
+Sockeye Salmon,Oncorhynchus nerka,3.6,84,L-M,0,1,1,2,-,0,0,0,0,X
+Steelhead,Oncorhynchus mykiss,4.1,122,M,1,2,1*,1,-,0,*,0,0,X
+Dolly Varden,Salvelinus malma lordi,4.4,127,H-VH,2,2,*,*,-,*,*,*,*,X
+Albacore Tuna,Thunnus alalunga,4.3,140,H,2,2,-,1,-,1,1,*,*,X
+Jack Mackerel,Trachurus symmetricus,3.6,81,L-M,0,1,1*,1,-,0,0,*,*,-
+Ocean Sunfish,Mola mola,3.7,333,VH,2,1,-,1,-,2,2,*,*,X
+Pacific Chub Mackerel,Scomber japonicus,3.4,64,L-M,0,1,1*,1*,-,0,0,*,*,-
+Pacific Pomfret,Brama japonica,4.4,61,M,1,1,-,1*,-,*,*,*,*,-
+Black Rockfish,Sebastes melanops,4.4,63,H-VH,2,1,1*,*,-,*,*,*,*,X
+Blackspotted Rockfish,Sebastes melanostictus,3.9,54,H-VH,2,2,1*,*,-,1,*,1,*,X
+Bocaccio,Sebastes paucispinis,3.5*,91,H,2,2,1*,*,-,2,2,2,*,X
+Canary Rockfish,Sebastes pinniger,3.8,76,H,2,1,1*,*,-,2,*,2,*,X
+China Rockfish,Sebastes nebulosus,3.9,45,H,2,0,1*,0,-,*,*,*,*,X
+Copper Rockfish,Sebastes caurinus,4.1,58,H,2,1,1*,0,-,*,*,*,*,X
+Darkblotched Rockfish,Sebastes crameri,3.8,58,H-VH,2,1,1*,*,-,1,*,1,*,X
+Dusky Rockfish,Sebastes variabilis,3.8,43.1,M-H,1,0,1*,*,-,*,*,*,*,-
+Greenstriped Rockfish,Sebastes elongatus,3.7,39,H,2,0,1*,*,-,*,*,*,*,X
+Pacific Ocean Perch,Sebastes alutus,3.5,53,H,2,0,1*,0,-,*,*,*,*,X
+Quillback Rockfish,Sebastes maliger,3.8,61,H,2,1,1*,0,-,2,*,2,*,X
+Redbanded Rockfish,Sebastes babcocki,3.8,64,M-H,1,1,1*,*,-,*,*,*,*,-
+Redstripe Rockfish,Sebastes proriger,3.8,61,H,2,1,1*,*,-,*,*,*,*,X
+Rosethorn Rockfish,Sebastes helvomaculatus,3.7,41,H-VH,2,0,1*,*,-,*,*,*,*,X
+Rougheye Rockfish,Sebastes aleutianus,3.5*,97,H-VH,2,2,1*,*,-,1,*,1,*,X
+Sharpchin Rockfish,Sebastes zacentrus,3.7,39,M-H,1,0,1*,*,-,*,*,*,*,-
+Shortraker Rockfish,Sebastes borealis,4.3,108,H-VH,2,2,1*,*,-,*,*,*,*,X
+Silvergray Rockfish,Sebastes brevispinis,3.8,71,H-VH,2,1,1*,*,-,*,*,*,*,X
+Tiger Rockfish,Sebastes nigrocinctus,3.5,61,H-VH,2,1,1*,*,-,*,*,*,*,X
+Vermilion Rockfish,Sebastes miniatus,3.9,91,H,2,1,1*,*,-,*,*,*,*,X
+Widow Rockfish,Sebastes entomelas,3.7,60,H,2,1,1*,*,-,*,*,*,*,X
+Yelloweye Rockfish,Sebastes ruberrimus,4.4,104,H-VH,2,2,1*,*,-,1,*,1,*,X
+Yellowmouth Rockfish,Sebastes reedi,3.8,58,H,2,1,1*,*,-,2,*,2,*,X
+Yellowtail Rockfish,Sebastes flavidus,4.2,66,H,2,1,1*,*,-,*,*,*,*,X
+Longspine Thornyhead,Sebastolobus altivelis,3.3,39,H,2,0,1*,0,-,1,*,1,*,X
+Shortspine Thornyhead,Sebastolobus alascanus,3.6,80,H-VH,2,1,1*,0,-,2,2,*,*,X
+Pacific Cod,Gadus macrocephalus,4.2,119,M-H,1,2,0,0,-,*,*,*,*,X
+Pacific Hake,Merluccius productus,4.4,91,H,2,2,1,1,-,0,0,*,*,X
+Pacific Tomcod,Microgadus proximus,3.6,30.5,L-M,0,0,1*,*,-,0,0,*,*,-
+Walleye Pollock,Theragra chalcogramma,3.6,91,M-H,1,2,2,*,-,*,*,*,*,X
+Green Sturgeon,Acipenser medirostris,3.5,270,VH,2,1,-,1,-,2,1,1,2,X
+Kelp Perch,Brachyistius frenatus,3.5,22,L,0,0,1*,*,-,*,*,*,*,-
+Pile Perch,Rhacochilus vacca,3.4,44,L-M,0,0,1*,*,-,0,0,*,*,-
+Shiner perch,Cymatogaster aggregata,3,20,L,0,0,2,*,-,0,0,*,*,X
+Striped Seaperch,Embiotoca lateralis,3.3,38,M,1,0,1*,*,-,*,*,*,*,-
+Brown Cat Shark,Apristurus brunneus,3.6,69,M-H,1,1,-,*,-,*,*,*,*,-
+Bluntnose Sixgill Shark,Hexanchus griseus,4.5,482,VH,2,2,-,0,-,1,1,1,*,X
+Pacific Sleeper Shark,Somniosus pacificus,4.4,430,VH,2,2,-,*,-,*,*,*,*,X
+Spiny Dogfish,Squalus suckleyi,4.4,130,H-VH,2,2,-,1,-,1,0,1,*,X
+Basking Shark,Cetorhinus maximus,3.2,1520,VH,2,1,-,1,-,2,2,2,*,X
+Blue Shark,Prionace glauca,4.4,400,VH,2,2,-,1,-,1,1,*,*,X
+Salmon Shark,Lamna ditropis,4.5,305,H,2,2,-,1,-,0,0,*,*,X
+Big Skate,Raja binoculata,3.9,244,VH,2,2,-,0,-,1,1,*,*,X
+Longnose Skate,Raja rhina,4,180,VH,2,2,-,*,-,0,0,*,*,X
+Roughtail Skate,Bathyraja trachura,4,91,H-VH,2,2,-,*,-,0,0,*,*,X
+Sandpaper skate,Bathyraja interrupta,3.4,86,H,2,1,-,*,-,0,0,*,*,X
+Dall's Porpoise,Phocoenoides dalli,4.5,*,M,2,2,-,0,-,0,0,0,0,X
+Harbour Porpoise,Phocoena phocoena,4.5,-,M,2,2,-,0,-,1,0,1,1,X
+N. Right Whale Dolphin,Lissodelphis borealis,*,-,VH,2,0,-,1,-,0,0,0,0,X
+Pacific White-sided Dolphin,Lagenorhynchus obliquidens,*,-,M,2,2,-,1,-,0,0,0,0,X
+Risso's Dolphin,Grampus griseus,4.4,-,M,2,2,-,1,-,0,0,*,0,X
+Northern Resident Orca,Orcinus orca,4.6,-,H-VH,2,2,-,1,-,2,*,2,2,X
+Offshore Population Orca,Orcinus orca,4.6,-,H-VH,2,2,-,1,-,2,*,2,2,X
+Southern Resident Orca,Orcinus orca,4.6,-,H-VH,2,2,-,1,-,2,*,2,2,X
+Transient Orca,Orcinus orca,4.6,-,H-VH,2,2,-,1,-,2,*,2,2,X
+California Sea Lion,Zalophus californianus,4.5,-,VH,2,2,-,1,-,0,0,0,0,X
+Harbour Seal,Phoca vitulina,4.5,-,H,2,2,-,0,-,0,0,0,0,X
+Northern Elephant Seal,Mirounga angustirostris,*,-,VH,2,2,-,1,-,2,0,0,2,X
+Northern Fur Seal,Callorhinus ursinus,4.5,-,M-H,2,2,-,1,-,2,2,2,2,X
+Steller Sea Lion,Eumetopias jubatus,4.4,-,H,2,2,-,1,-,1,1,1,1,X
+Sea Otter,Enhydra lutris,3.9,-,M-H,2,2,-,0,-,2,2,1,1,X
+Blue Whale,Balaenoptera musculus,3.3,-,VH,2,0,-,1,-,2,2,2,2,X
+Common Minke Whale,Balaenoptera acutorostrata,4.3,-,H,2,2,-,1,-,0,0,0,0,X
+Fin Whale,Balaenoptera physalus,4,-,VH,2,0,-,1,-,2,2,2,2,X
+Grey Whale,Eschrichtius robustus,3.3,-,H,2,1,-,1,-,1,0,1,1,X
+Humpback Whale,Megaptera novaeangliae,3.9,-,H,2,1,-,1,-,2,0,2,1,X
+North Pacific Right Whale,Eubalaena japonica,*,*,-,2,0,-,1,-,2,2,2,2,X
+Sei Whale,Balaenoptera borealis,4,-,VH,2,0,-,1,-,2,2,2,2,X
+Sperm Whale,Physeter macrocephalus,4.5,-,H,2,2,-,1,-,2,2,*,1,X
+Leatherback,Dermochelys coriacea,*,*,VH,2,1,-,1,-,2,2,2,2,X
+Black Corals,Antipatharia,*,*,-,2,0,0,0,2,-,-,-,-,X
+Hard or Stony Corals,Scleractinia,*,-,-,2,0,0,0,2,-,-,-,-,X
+Sea Pens,Pennatulacea,*,*,-,2,0,0,0,2,-,-,-,-,X
+Soft Corals,Alcyonacea,*,-,-,2,0,0,0,2,-,-,-,-,X
+Goose Barnacle,Pollicipes polymerus,*,-,-,1,0,1,0,2,*,*,*,*,X
+Brown Box Crab,Lopholithodes foraminatus,*,-,-,*,0,0,0,0,*,*,*,*,-
+"Deepwater Grooved Tanner
+Crab",Chionoecetes tanneri,*,-,-,2,0,0,0,0,*,*,*,*,X
+Dungeness Crab,Metacarcinus magister,4.0*,-,-,2,1,0,0,0,*,*,*,*,X

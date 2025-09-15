@@ -1,0 +1,147 @@
+"","Phylum","Class","Order","Family","Genus","Species","scientificName","RI","BU","TO","HS","IA","Somme","Spring","Summer","Fall","Winter","Somme.1","Common.Name","Trophic.Level","Max.Size..cm..Total.or.standard.length...fish.only","Vulnerability.Category","X1.1.S1..Vulnerable.Species","X1.2.S1..Upper.level.Predators","X1.2.S2..Forage.Species","X1.2.S3..Nutrient.Transporting.Species","X1.2.S4..Habitat.forming.Species","X1.5.S1.Any.CC","Global.CC","National.CC","Regional.CC","Recommended.CP"
+"1","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Agonopsis","vulsa","Agonopsis vulsa",0,0,1,1,1,3,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Alectrias","alectrolophus","Alectrias alectrolophus",1,0,1,0,0,2,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Chordata","Actinopteri","Clupeiformes","Clupeidae","Alosa","sapidissima","Alosa sapidissima",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Chordata","Actinopteri","Trachiniformes","Ammodytidae","Ammodytes","hexapterus","Ammodytes hexapterus",1,1,1,0,0,3,0,0,1,1,2,"Pacific Sand Lance","3.1","30","L-M","0",0,"2","0","-","*","*","*","*","X"
+"5","Chordata","Actinopteri","Trachiniformes","Ammodytidae","Ammodytes","personatus","Ammodytes personatus",1,0,1,1,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Chordata","Actinopteri","Scorpaeniformes","Anarhichadidae","Anarrhichthys","ocellatus","Anarrhichthys ocellatus",1,1,1,1,1,5,1,0,1,1,3,"Wolf-eel","3.5","240","VH","2",1,"-","*","-","0","0","*","*","X"
+"7","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Anisarchus","medius","Anisarchus medius",1,0,1,0,1,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Anoplarchus","purpurescens","Anoplarchus purpurescens",0,1,0,0,1,2,0,1,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Chordata","Actinopteri","Scorpaeniformes","Anoplopomatidae","Anoplopoma","fimbria","Anoplopoma fimbria",0,1,1,1,1,4,1,0,0,1,2,"Sablefish","3.8*","120","H","2",2,"-","1","-","*","*","*","*","X"
+"10","Chordata","Actinopteri","Scorpaeniformes","Pholidae","Apodichthys","flavidus","Apodichthys flavidus",1,0,1,1,1,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Chordata","Actinopteri","Scorpaeniformes","Pholidae","Apodichthys","fucorum","Apodichthys fucorum",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Artedius","fenestralis","Artedius fenestralis",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Artedius","harringtoni","Artedius harringtoni",1,1,1,1,1,5,0,1,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Artedius","lateralis","Artedius lateralis",0,1,0,1,1,3,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Ascelichthys","rhodorus","Ascelichthys rhodorus",1,1,1,1,1,5,1,1,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Atheresthes","evermanni","Atheresthes evermanni",0,1,1,1,0,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Chordata","Actinopteri","Scorpaeniformes","Aulorhynchidae","Aulorhynchus","flavidus","Aulorhynchus flavidus",1,0,1,1,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Chordata","Mammalia","Artiodactyla","Balaenopteridae","Balaenoptera","musculus","Balaenoptera musculus",0,1,1,0,0,2,0,0,0,1,1,"Blue Whale","3.3","-","VH","2",0,"-","1","-","2","2","2","2","X"
+"19","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Bathyagonus","pentacanthus","Bathyagonus pentacanthus",0,0,0,1,1,2,1,1,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Chordata","Actinopteri","Gadiformes","Gadidae","Boreogadus","saida","Boreogadus saida",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Chordata","Actinopteri","Scorpaeniformes","Zoarcidae","Bothrocara","hollandi","Bothrocara hollandi",1,0,0,1,1,3,0,1,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Chordata","Actinopteri","Ovalentaria","Embiotocidae","Brachyistius","frenatus","Brachyistius frenatus",1,0,1,1,1,4,1,1,0,1,3,"Kelp Perch","3.5","22","L","0",0,"1*","*","-","*","*","*","*","-"
+"23","Chordata","Actinopteri","Ophidiiformes","Bythitidae","Brosmophycis","marginata","Brosmophycis marginata",1,1,1,0,0,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Careproctus","simus","Careproctus simus",1,1,0,0,0,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Chordata","Actinopteri","Cypriniformes","Catostomidae","Catostomus","catostomus","Catostomus catostomus",0,0,0,1,0,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Chesnonia","verrucosa","Chesnonia verrucosa",0,0,0,1,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Chordata","Actinopteri","Pleuronectiformes","Paralichthyidae","Citharichthys","sordidus","Citharichthys sordidus",1,1,1,1,0,4,1,0,0,0,1,"Pacific Sanddab","3.5","41","L-M","0",0,"-","*","-","*","*","*","*","-"
+"28","Chordata","Actinopteri","Pleuronectiformes","Paralichthyidae","Citharichthys","stigmaeus","Citharichthys stigmaeus",1,1,1,1,1,5,1,0,0,1,2,"Speckled Sanddab","3.4","17","L","0",0,"-","*","-","*","*","*","*","-"
+"29","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Clinocottus","acuticeps","Clinocottus acuticeps",1,1,1,0,1,4,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Clinocottus","globiceps","Clinocottus globiceps",0,0,1,1,1,3,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Chordata","Actinopteri","Clupeiformes","Clupeidae","Clupea","pallasii","Clupea pallasii",1,0,1,1,1,4,1,1,1,1,4,"Pacific Herring","3.2","46","L-M","0",0,"2","2","-","*","*","*","*","X"
+"32","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Cottus","aleuticus","Cottus aleuticus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Cottus","asper","Cottus asper",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Chordata","Actinopteri","Scorpaeniformes","Cryptacanthodidae","Cryptacanthodes","giganteus","Cryptacanthodes giganteus",1,1,1,1,0,4,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Chordata","Actinopteri","Ovalentaria","Embiotocidae","Cymatogaster","aggregata","Cymatogaster aggregata",1,1,1,1,1,5,1,1,1,1,4,"Shiner perch","3","20","L","0",0,"2","*","-","0","0","*","*","X"
+"36","Chordata","Actinopteri","Scorpaeniformes","Psychrolutidae","Dasycottus","setiger","Dasycottus setiger",1,1,0,0,0,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Chordata","Mammalia","Artiodactyla","Delphinidae","Delphinus","delphis","Delphinus delphis",1,1,1,1,0,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Chordata","Actinopteri","Myctophiformes","Myctophidae","Diaphus","theta","Diaphus theta",0,1,1,1,0,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Chordata","Actinopteri","Ovalentaria","Embiotocidae","Embiotoca","lateralis","Embiotoca lateralis",1,1,1,0,1,4,1,0,1,1,3,"Striped Seaperch","3.3","38","M","1",0,"1*","*","-","*","*","*","*","-"
+"40","Chordata","Actinopteri","Clupeiformes","Engraulidae","Engraulis","mordax","Engraulis mordax",1,0,1,1,1,4,1,1,1,1,4,"Northern Anchovy","3.1","24.8","L-M","0",0,"1*","*","-","0","0","*","*","-"
+"41","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Enophrys","bison","Enophrys bison",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Eumesogrammus","praecisus","Eumesogrammus praecisus",1,0,1,1,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Chordata","Mammalia","Carnivora","Otariidae","Eumetopias","jubatus","Eumetopias jubatus",0,1,0,1,0,2,1,0,0,0,1,"Steller Sea Lion","4.4","-","H","2",2,"-","1","-","1","1","1","1","X"
+"44","Chordata","Actinopteri","Gadiformes","Gadidae","Gadus","chalcogrammus","Gadus chalcogrammus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Chordata","Actinopteri","Gadiformes","Gadidae","Gadus","macrocephalus","Gadus macrocephalus",1,1,1,1,1,5,1,1,1,1,4,"Pacific Cod","4.2","119","M-H","1",2,"0","0","-","*","*","*","*","X"
+"46","Chordata","Actinopteri","Scorpaeniformes","Gasterosteidae","Gasterosteus","aculeatus","Gasterosteus aculeatus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Chordata","Actinopteri","Blenniiformes","Clinidae","Gibbonsia","metzi","Gibbonsia metzi",0,1,1,0,1,3,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Chordata","Actinopteri","Blenniiformes","Clinidae","Gibbonsia","montereyensis","Gibbonsia montereyensis",0,0,0,0,1,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Chordata","Actinopteri","Gobiesociformes","Gobiesocidae","Gobiesox","maeandricus","Gobiesox maeandricus",1,0,1,1,1,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Hemilepidotus","hemilepidotus","Hemilepidotus hemilepidotus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Hemilepidotus","jordani","Hemilepidotus jordani",1,1,0,1,0,3,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Chordata","Actinopteri","Scorpaeniformes","Hexagrammidae","Hexagrammos","decagrammus","Hexagrammos decagrammus",1,0,1,1,1,4,1,1,0,1,3,"Kelp Greenling","3.6","61","M-H","1",0,"-","0","-","*","*","*","*","-"
+"53","Chordata","Actinopteri","Scorpaeniformes","Hexagrammidae","Hexagrammos","lagocephalus","Hexagrammos lagocephalus",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","Chordata","Elasmobranchii","Hexanchiformes","Hexanchidae","Hexanchus","griseus","Hexanchus griseus",0,1,0,1,0,2,0,0,0,1,1,"Bluntnose Sixgill Shark","4.5","482","VH","2",2,"-","0","-","1","1","1","*","X"
+"55","Chordata","Holocephali","Chimaeriformes","Chimaeridae","Hydrolagus","colliei","Hydrolagus colliei",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Hypsagonus","quadricornis","Hypsagonus quadricornis",1,1,1,0,0,3,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Icelinus","borealis","Icelinus borealis",0,0,1,1,0,2,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Icelinus","burchami","Icelinus burchami",0,1,1,0,0,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Icelinus","filamentosus","Icelinus filamentosus",1,0,1,1,0,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Icelinus","fimbriatus","Icelinus fimbriatus",0,0,0,1,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Jordania","zonope","Jordania zonope",1,0,1,1,1,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Chordata","Actinopteri","Gobiiformes","Oxudercidae","Lepidogobius","lepidus","Lepidogobius lepidus",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Lepidopsetta","bilineata","Lepidopsetta bilineata",1,1,1,1,1,5,1,1,1,1,4,"Rock Sole","3.2","60","H","2",1,"-","0","-","*","*","*","*","X"
+"64","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Lepidopsetta","polyxystra","Lepidopsetta polyxystra",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Chordata","Actinopteri","Perciformes","Centrarchidae","Lepomis","gibbosus","Lepomis gibbosus",0,1,1,0,1,3,1,1,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Leptoclinus","maculatus","Leptoclinus maculatus",1,0,1,1,1,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Leptocottus","armatus","Leptocottus armatus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","Chordata","Actinopteri","Argentiniformes","Bathylagidae","Leuroglossus","schmidti","Leuroglossus schmidti",1,1,1,1,1,5,1,1,1,1,4,"Northern Smoothtongue","3.1","20","M-H","1",0,"2","*","-","*","*","*","*","X"
+"69","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Liparis","cyclopus","Liparis cyclopus",1,0,1,1,1,4,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Liparis","fabricii","Liparis fabricii",1,1,0,0,0,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Liparis","florae","Liparis florae",1,0,1,0,1,3,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Liparis","gibbus","Liparis gibbus",1,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Liparis","mucosus","Liparis mucosus",0,0,1,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Lipariscus","nanus","Lipariscus nanus",1,1,0,0,1,3,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Lumpenella","longirostris","Lumpenella longirostris",1,1,0,0,0,2,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Lumpenus","sagitta","Lumpenus sagitta",1,1,1,1,1,5,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Chordata","Actinopteri","Scorpaeniformes","Zoarcidae","Lycodapus","mandibularis","Lycodapus mandibularis",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Chordata","Actinopteri","Scorpaeniformes","Zoarcidae","Lycodapus","parviceps","Lycodapus parviceps",1,1,1,0,1,4,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Chordata","Actinopteri","Scorpaeniformes","Zoarcidae","Lycodes","reticulatus","Lycodes reticulatus",1,0,1,1,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Chordata","Actinopteri","Perciformes","Zoarcidae","Lycodopsis","pacificus","Lycodopsis pacificus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Lyopsetta","exilis","Lyopsetta exilis",1,1,1,1,1,5,1,1,1,1,4,"Slender Sole","3.5","35","M-H","1",0,"-","*","-","0","0","*","*","-"
+"82","Chordata","Actinopteri","Osmeriformes","Osmeridae","Mallotus","villosus","Mallotus villosus",1,1,1,1,1,5,1,0,1,1,3,"Capelin","3.2","25.2","L","0",0,"2","*","-","0","0","*","*","X"
+"83","Chordata","Mammalia","Artiodactyla","Balaenopteridae","Megaptera","novaeangliae","Megaptera novaeangliae",1,1,0,1,0,3,1,0,0,1,2,"Humpback Whale","3.9","-","H","2",1,"-","1","-","2","0","2","1","X"
+"84","Chordata","Actinopteri","Gadiformes","Merlucciidae","Merluccius","productus","Merluccius productus",1,1,1,1,1,5,1,1,1,1,4,"Pacific Hake","4.4","91","H","2",2,"1","1","-","0","0","*","*","X"
+"85","Chordata","Actinopteri","Gadiformes","Gadidae","Microgadus","proximus","Microgadus proximus",1,1,0,1,1,4,1,0,0,1,2,"Pacific Tomcod","3.6","30.5","L-M","0",0,"1*","*","-","0","0","*","*","-"
+"86","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Microstomus","pacificus","Microstomus pacificus",0,0,1,1,0,2,1,1,0,1,3,"Dover Sole","3.2","76","H-VH","2",1,"-","*","-","*","*","*","*","X"
+"87","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Myoxocephalus","octodecemspinosus","Myoxocephalus octodecemspinosus",1,0,1,0,0,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Myoxocephalus","polyacanthocephalus","Myoxocephalus polyacanthocephalus",1,1,1,1,0,4,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Nautichthys","oculofasciatus","Nautichthys oculofasciatus",1,1,1,1,1,5,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Nectoliparis","pelagicus","Nectoliparis pelagicus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Oligocottus","maculosus","Oligocottus maculosus",1,1,1,0,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Chordata","Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","gorbuscha","Oncorhynchus gorbuscha",1,1,1,1,1,5,1,1,1,1,4,"Pink Salmon","4.5","76","M","1",1,"1*","2","-","0","*","0","0","X"
+"93","Chordata","Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","keta","Oncorhynchus keta",1,1,1,1,1,5,1,1,1,1,4,"Chum Salmon","3.7","100","M-H","1",1,"1","2","-","0","*","0","0","X"
+"94","Chordata","Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","kisutch","Oncorhynchus kisutch",1,1,1,1,1,5,0,0,1,1,2,"Coho Salmon","4.2","108","M-H","1",2,"1","2","-","0","*","0","0","X"
+"95","Chordata","Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","nerka","Oncorhynchus nerka",1,1,1,1,1,5,1,1,1,1,4,"Sockeye Salmon","3.6","84","L-M","0",1,"1","2","-","0","0","0","0","X"
+"96","Chordata","Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","tshawytscha","Oncorhynchus tshawytscha",1,1,1,1,1,5,1,1,0,1,3,"Chinook Salmon","4.4","150","H-VH","2",2,"1","2","-","0","*","0","0","X"
+"97","Chordata","Actinopteri","Scorpaeniformes","Hexagrammidae","Ophiodon","elongatus","Ophiodon elongatus",1,1,1,1,1,5,1,1,1,1,4,"Lingcod","4.3","152","H","2",2,"-","*","-","*","*","*","*","X"
+"98","Chordata","Actinopteri","Osmeriformes","Osmeridae","Osmerus","mordax","Osmerus mordax",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Chordata","Actinopteri","Scorpaeniformes","Hexagrammidae","Oxylebius","pictus","Oxylebius pictus",0,1,0,1,0,2,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Paraliparis","grandis","Paraliparis grandis",1,1,0,0,0,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Paraliparis","rosaceus","Paraliparis rosaceus",1,0,0,0,0,1,0,0,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Parophrys","vetulus","Parophrys vetulus",1,0,1,1,1,4,1,1,1,1,4,"English Sole","3.4","57","M","1",1,"-","*","-","*","*","*","*","-"
+"103","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Percis","japonica","Percis japonica",1,1,1,1,0,4,1,0,1,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","Chordata","Actinopteri","Ovalentaria","Embiotocidae","Phanerodon","furcatus","Phanerodon furcatus",1,0,1,0,0,2,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Chordata","Actinopteri","Ovalentaria","Embiotocidae","Phanerodon","vacca","Phanerodon vacca",1,0,1,1,1,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","Chordata","Mammalia","Carnivora","Phocidae","Phoca","vitulina","Phoca vitulina",1,0,1,1,1,4,1,0,0,1,2,"Harbour Seal","4.5","-","H","2",2,"-","0","-","0","0","0","0","X"
+"107","Chordata","Mammalia","Artiodactyla","Phocoenidae","Phocoena","phocoena","Phocoena phocoena",1,1,1,0,0,3,1,0,0,0,1,"Harbour Porpoise","4.5","-","M","2",2,"-","0","-","1","0","1","1","X"
+"108","Chordata","Actinopteri","Scorpaeniformes","Pholidae","Pholis","clemensi","Pholis clemensi",1,1,1,1,1,5,1,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Chordata","Actinopteri","Scorpaeniformes","Pholidae","Pholis","laeta","Pholis laeta",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Chordata","Actinopteri","Scorpaeniformes","Pholidae","Pholis","ornata","Pholis ornata",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Phytichthys","chirus","Phytichthys chirus",0,1,1,1,1,4,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Platichthys","stellatus","Platichthys stellatus",1,1,1,1,1,5,1,1,1,1,4,"Starry Flounder","3.6","91","M-H","1",1,"-","*","-","0","0","*","*","-"
+"113","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Pleuronectes","quadrituberculatus","Pleuronectes quadrituberculatus",1,1,0,0,1,3,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Chordata","Actinopteri","Pleuronectiformes","Pleuronectidae","Pleuronichthys","coenosus","Pleuronichthys coenosus",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Podothecus","accipenserinus","Podothecus accipenserinus",1,1,1,0,0,3,1,1,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Polypera","greeni","Polypera greeni",0,1,0,0,1,2,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Poroclinus","rothrocki","Poroclinus rothrocki",1,0,0,0,1,2,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Chordata","Actinopteri","Scorpaeniformes","Psychrolutidae","Psychrolutes","sigalutes","Psychrolutes sigalutes",1,1,1,1,1,5,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Chordata","Actinopteri","Scorpaeniformes","Ptilichthyidae","Ptilichthys","goodei","Ptilichthys goodei",0,1,1,0,0,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Radulinus","asprellus","Radulinus asprellus",1,0,0,0,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Chordata","Actinopteri","Scorpaeniformes","Rhamphocottidae","Rhamphocottus","richardsonii","Rhamphocottus richardsonii",0,0,1,0,0,1,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Rhinoliparis","attenuatus","Rhinoliparis attenuatus",0,1,0,0,1,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Chordata","Actinopteri","Scorpaeniformes","Liparidae","Rhinoliparis","barbulifer","Rhinoliparis barbulifer",1,0,0,0,0,1,0,0,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Chordata","Actinopteri","Gobiesociformes","Gobiesocidae","Rimicola","muscarum","Rimicola muscarum",0,0,0,0,1,1,1,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Chordata","Actinopteri","Scorpaeniformes","Bathymasteridae","Ronquilus","jordani","Ronquilus jordani",1,1,1,1,1,5,1,0,0,1,2,"Northern Ronquil","3.1","20","L","0",0,"-","*","-","0","0","*","*","-"
+"126","Chordata","Actinopteri","Salmoniformes","Salmonidae","Salmo","salar","Salmo salar",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Chordata","Actinopteri","Salmoniformes","Salmonidae","Salvelinus","confluentus","Salvelinus confluentus",1,1,1,0,0,3,0,0,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Chordata","Actinopteri","Salmoniformes","Salmonidae","Salvelinus","malma","Salvelinus malma",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Chordata","Actinopteri","Clupeiformes","Clupeidae","Sardinops","sagax","Sardinops sagax",1,1,0,0,0,2,0,0,0,1,1,"Pacific Sardine","2.8","39.5","L-M","0",0,"1*","1","-","1","*","1","*","X"
+"130","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Scorpaenichthys","marmoratus","Scorpaenichthys marmoratus",1,0,1,1,1,4,1,1,0,1,3,"Cabezon","3.6","99","M","1",1,"-","0","-","*","*","*","*","-"
+"131","Chordata","Actinopteri","Scorpaeniformes","Scorpaenidae","Sebastes","auriculatus","Sebastes auriculatus",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Chordata","Actinopteri","Scorpaeniformes","Scorpaenidae","Sebastes","maliger","Sebastes maliger",1,1,1,1,1,5,1,1,1,1,4,"Quillback Rockfish","3.8","61","H","2",1,"1*","0","-","2","*","2","*","X"
+"133","Chordata","Actinopteri","Scorpaeniformes","Scorpaenidae","Sebastes","nigrocinctus","Sebastes nigrocinctus",1,1,1,1,1,5,1,1,1,1,4,"Tiger Rockfish","3.5","61","H-VH","2",1,"1*","*","-","*","*","*","*","X"
+"134","Chordata","Actinopteri","Scorpaeniformes","Scorpaenidae","Sebastolobus","macrochir","Sebastolobus macrochir",1,1,1,1,0,4,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Chordata","Elasmobranchii","Squaliformes","Squalidae","Squalus","suckleyi","Squalus suckleyi",1,0,1,1,1,4,1,1,0,0,2,"Spiny Dogfish","4.4","130","H-VH","2",2,"-","1","-","1","0","1","*","X"
+"136","Chordata","Actinopteri","Myctophiformes","Myctophidae","Stenobrachius","leucopsarus","Stenobrachius leucopsarus",1,1,1,1,1,5,1,1,1,1,4,"Northern Lampfish","3.1","13","L-M","0",0,"2","*","-","*","*","*","*","X"
+"137","Chordata","Actinopteri","Myctophiformes","Myctophidae","Stenobrachius","nannochir","Stenobrachius nannochir",1,1,1,1,1,5,1,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","Chordata","Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","leptorhynchus","Syngnathus leptorhynchus",1,1,1,1,1,5,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Chordata","Actinopteri","Myctophiformes","Myctophidae","Tarletonbeania","taylori","Tarletonbeania taylori",0,1,0,1,0,2,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Chordata","Actinopteri","Osmeriformes","Osmeridae","Thaleichthys","pacificus","Thaleichthys pacificus",1,0,1,1,1,4,1,0,1,1,3,"Eulachon","3.3","34","L-M","0",0,"2","2","-","2","0","2","2","X"
+"141","Chordata","Actinopteri","Scorpaeniformes","Cottidae","Trichocottus","brashnikovi","Trichocottus brashnikovi",0,1,0,1,0,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Chordata","Actinopteri","Scorpaeniformes","Trichodontidae","Trichodon","trichodon","Trichodon trichodon",1,1,0,0,0,2,1,0,0,0,1,"Pacific Sandfish","4","30.5","L-M","0",0,"1","*","*","*","*","*","*","-"
+"143","Chordata","Actinopteri","Scorpaeniformes","Agonidae","Xeneretmus","latifrons","Xeneretmus latifrons",0,0,0,1,1,2,1,1,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Xiphister","atropurpureus","Xiphister atropurpureus",0,0,1,0,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Chordata","Actinopteri","Scorpaeniformes","Stichaeidae","Xiphister","mucosus","Xiphister mucosus",1,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Chordata","Actinopteri","Scorpaeniformes","Zaproridae","Zaprora","silenus","Zaprora silenus",1,1,1,1,0,4,1,0,0,1,2,"Prowfish","3.7","88","M-H","1",1,"-","*","-","0","0","*","*","-"

@@ -1,0 +1,147 @@
+scientificName,Score,Conservation_status,Global,National,Regional,Nutrient_Transporting_Species,Forage_species,Vulnerability_Fishing,Upper-level_predator,Vulnerability_Climate,IUCN status,Schooling,SchoolingFrequency,SchoolingLifestage,Troph SE,Troph Estimate,Max length-male,Max length-male type,Max length-female,Max length-female type,Trophic Level,Max Size,Vulnerabilit-fisheries,Vulnerability-fisheries category,Vulnerability-climate,Vulnerability-climate category,IUCN Criteria,IUCN date assessed,Migration pattern
+Clupea pallasii,2,,,,,,2,1,0,0,DD,VRAI,,,0.19,No,46,TL,,,3.16,46,49.32,Moderate to high,22.1,Low,,21-Feb-19,non-migratory
+Engraulis mordax,2,,,,,,2,0,0,0,DD,FAUX,,,0.28,No,24.8,SL,,,3.1,24.8,23.89,Low,21.79,Low,,08-May-20,
+Ammodytes personatus,2,,,,,,2,0,0,0,N.E.,FAUX,,,0.06,Yes,15,SL,,,3.14,15,13.87,Low,16.74,Low,,,oceanodromous
+Mallotus villosus,2,,,,,,2,0,0,0,N.E.,VRAI,always,juveniles and adults,0.09,No,20,TL,25.2,TL,3.15,25.2,27.37,Low to moderate,23.85,Low,,,anadromous
+Atheresthes evermanni,2,,,,,,0,2,2,1,LC,FAUX,,,0.2,No,100,SL,,,4.3,100,64.07,High,44.37,Moderate,,05-Nov-20,
+Microstomus pacificus,2,,,,,,0,2,1,1,LC,FAUX,,,0.14,No,76,TL,,,3.22,76,71.29,High to very high,42.86,Moderate,,13-Aug-20,
+Oncorhynchus tshawytscha,2,,,,,2,1,2,2,1,N.E.,FAUX,,,0.66,No,150,TL,,,4.4,150,90,Very high,51.68,Moderate to high,,,anadromous
+Ophiodon elongatus,2,,,,,,0,2,2,1,N.E.,FAUX,,,0.62,No,152,TL,,,4.53,152,56.2,High,47.6,Moderate to high,,,oceano-estuarine
+Hexanchus griseus,2,1,1,1,,,0,2,2,1,NT,FAUX,,,0.21,No,600,TL,,,4.48,600,90,Very high,37.5,Moderate,A2bd,21-Nov-19,oceanodromous
+Merluccius productus,2,,,,,1,1,1,2,1,LC,FAUX,,,0.57,Yes,83,TL,105,TL,4.37,105,42.87,Moderate,52.98,Moderate to high,,01-May-08,
+Oncorhynchus gorbuscha,2,,,,,2,1,1,1,1,N.E.,FAUX,,,0.35,No,76,TL,,,4.49,76,50.4,Moderate to high,45.83,Moderate to high,,,anadromous
+Salmo salar,2,1,1,,,,0,1,2,1,NT,FAUX,,,0.26,No,150,TL,120,TL,4.5,150,45.37,Moderate to high,50.05,Moderate to high,A2bd,,anadromous
+Thaleichthys pacificus,2,2,,2,2,,2,0,0,1,LC,FAUX,,,0.37,No,34,TL,,,3.25,34,32.71,Low to moderate,35.39,Moderate,,01-Mar-12,anadromous
+Pleuronectes quadrituberculatus,2,,,,,,0,2,1,2,LC,FAUX,,,0.08,No,87,TL,,,3.59,87,67.55,High to very high,61.63,High,,05-Nov-20,
+Gadus chalcogrammus,2,,,,,,2,2,1,2,N.E.,FAUX,,,0.11,No,91,TL,,,3.57,91,59.31,High,55.44,High,,,non-migratory
+Platichthys stellatus,2,,,,,,0,1,1,2,LC,FAUX,,,0.11,No,91,TL,,,3.58,91,50.55,Moderate to high,61.4,High,,05-Nov-20,catadromous
+Anoplopoma fimbria,2,,,,,1,0,1,1,2,N.E.,FAUX,,,0.21,No,120,TL,,,3.84,120,48.68,Moderate to high,57.75,High,,,oceanodromous
+Oncorhynchus kisutch,2,,,,,2,1,1,2,2,N.E.,FAUX,,,0.7,No,107.95,TL,65.5,,4.18,107.95,51.66,Moderate to high,72.27,High to very high,,,anadromous
+Oncorhynchus keta,2,,,,,2,1,1,1,2,N.E.,FAUX,,,0.19,No,100,FL,,,3.74,100,48.82,Moderate to high,71.18,High to very high,,,anadromous
+Oncorhynchus nerka,2,,,,,2,1,0,1,2,LC,FAUX,,,0.16,No,84,TL,71,,3.54,84,31.14,Low to moderate,72.27,High to very high,,24-Nov-10,anadromous
+Balaenoptera musculus,2,2,,,,,0,2,1,NA,EN,FAUX,,,0.4,No,3300,TL,,,3.47,3300,78.77,Very high,,,A1abd,16-Mar-18,oceanodromous
+Anarrhichthys ocellatus,2,,,,,,0,2,1,NA,LC,FAUX,,,0.53,No,240,TL,,,3.51,240,90,Very high,,,,14-Dec-20,
+Delphinus delphis,2,,,,,,0,2,2,NA,LC,FAUX,,,0.77,No,260,TL,230,TL,4.5,260,60.57,High,,,,20-Oct-20,oceanodromous
+Megaptera novaeangliae,2,,,,,,0,2,1,NA,LC,VRAI,,,,,1889.76,TL,,,,1889.76,55.67,High,,,,24-Mar-18,oceanodromous
+Phoca vitulina,2,,,,,,0,2,2,NA,LC,FAUX,,,0.8,No,190,TL,170,TL,4.5,190,59.56,High,,,,04-Jan-16,
+Squalus suckleyi,2,1,1,,1,1,0,2,1,NA,LC,FAUX,,,0.47,No,140,TL,,,3.82,140,84,Very high,,,,13-Mar-16,
+Cryptacanthodes giganteus,2,,,,,,0,2,1,NA,N.E.,,,,0.12,Yes,117,TL,,,3.05,117,70.2,High to very high,,,,,
+Hemilepidotus jordani,2,,,,,,0,2,1,NA,N.E.,FAUX,,,0.54,Yes,65,TL,,,3.61,65,65.84,High to very high,,,,,
+Leptoclinus maculatus,2,,,,,,0,2,0,NA,N.E.,FAUX,,,0.39,No,20,TL,,,3.28,20,58.66,High,,,,,
+Myoxocephalus polyacanthocephalus,2,,,,,,0,2,1,NA,N.E.,FAUX,,,0.18,No,80,TL,,,3.76,80,68.23,High to very high,,,,,amphidromous
+Salvelinus malma,2,,,,,,0,2,2,NA,N.E.,FAUX,,,0.56,No,127,TL,,,4.4,127,69.97,High to very high,,,,,anadromous
+Sebastolobus macrochir,2,1,,1,,,1,2,0,NA,N.E.,FAUX,,,0.4,No,44,SL,,,3.2,44,69.44,High to very high,,,,,
+Eumetopias jubatus,2,1,1,1,,,0,2,2,NA,NT,FAUX,,,0.74,No,330,TL,250,TL,4.26,330,55.41,High,,,,04-Feb-16,
+Salvelinus confluentus,2,2,2,1,,,0,2,1,NA,VU,FAUX,,,0.57,No,103,TL,,,3.72,103,61.8,High,,,A2e,01-Aug-96,
+Phocoena phocoena,2,,,,,,0,1,2,NA,LC,FAUX,,,0.79,No,200,TL,,,4.5,200,44,Moderate,,,,19-May-20,oceanodromous
+Ammodytes hexapterus,2,,,,,,2,1,0,NA,N.E.,FAUX,,,0.08,No,30,TL,,,3.13,30,35.3,Moderate,,,,,oceanodromous
+Sebastes maliger,2,2,,2,,,1,1,1,NA,N.E.,FAUX,,,0.37,No,61,TL,,,3.84,61,44.4,Moderate,,,,,
+Cymatogaster aggregata,2,,,,,,2,0,0,NA,LC,FAUX,,,0.31,No,20.3,TL,,,2.99,20.3,10.3,Low,,,,04-Mar-19,non-migratory
+Stenobrachius leucopsarus,2,,,,,,2,0,0,NA,LC,FAUX,,,0.22,Yes,13,TL,,,3.17,13,32.63,Low to moderate,,,,29-Jun-18,
+Stenobrachius nannochir,2,,,,,,2,0,0,NA,LC,FAUX,,,0.07,No,11,SL,,,3.04,11,10,Low,,,,29-Jun-18,
+Sardinops sagax,1,1,,1,,1,1,0,0,0,LC,FAUX,,,0.13,No,39.5,SL,,,2.84,39.5,33.17,Low to moderate,15.63,Low,,18-Jul-18,oceanodromous
+Alosa sapidissima,1,,,,,,0,1,1,1,LC,FAUX,,,0.32,No,76,TL,61.7,SL,3.48,76,50.28,Moderate to high,43.55,Moderate,,22-Aug-18,anadromous
+Hydrolagus colliei,1,,,,,,0,1,1,1,LC,FAUX,,,0.54,No,100,TL,,,3.68,100,49.66,Moderate to high,47.3,Moderate to high,,05-Dec-14,
+Lepidopsetta bilineata,1,,,,,,0,1,1,1,LC,FAUX,,,0.17,No,58,TL,60,TL,3.18,60,44,Moderate,32.94,Low to moderate,,13-Aug-20,
+Osmerus mordax,1,,,,,,?,1,0,1,LC,FAUX,,,0.43,Yes,35.6,TL,,,3.45,35.6,38.09,Moderate,31.86,Low to moderate,,01-Mar-12,anadromous
+Parophrys vetulus,1,,,,,,0,1,,1,LC,FAUX,,,0.46,No,49,TL,57,TL,3.39,57,43.49,Moderate,26.67,Low to moderate,,17-Sep-20,oceanodromous
+Boreogadus saida,1,,,,,,0,1,0,1,N.E.,VRAI,always,juveniles and adults,0.11,No,40,TL,,,3.12,40,45.92,Moderate to high,40.03,Moderate,,,oceanodromous
+Gadus macrocephalus,1,,,,,,0,1,1,1,N.E.,FAUX,,,0.19,No,119,TL,,,3.78,119,50.18,Moderate to high,45.16,Moderate to high,,,oceanodromous
+Scorpaenichthys marmoratus,1,,,,,,0,1,1,1,N.E.,FAUX,,,0.47,No,99,TL,,,3.62,99,37.35,Moderate,44.27,Moderate,,,
+Gasterosteus aculeatus,1,,,,,,0,0,0,1,LC,FAUX,,,0.18,No,11,TL,,,3.31,11,10,Low,26.39,Low to moderate,,20-Jul-16,anadromous
+Microgadus proximus,1,,,,,,1,0,0,1,N.E.,FAUX,,,0.59,No,30.5,SL,,,3.58,30.5,27.21,Low to moderate,50.76,Moderate to high,,,oceanodromous
+Brosmophycis marginata,1,,,,,,0,1,0,NA,LC,,,,0.54,Yes,46,TL,,,3.61,46,36,Moderate,,,,16-Aug-19,
+Catostomus catostomus,1,,,,,,0,1,,NA,LC,FAUX,,,0.26,No,64,TL,,,2.54,64,45.6,Moderate to high,,,,21-Feb-20,
+Clinocottus globiceps,1,,,,,,0,1,0,NA,LC,FAUX,,,0.26,No,19,TL,,,3.06,19,35.25,Moderate,,,,04-Feb-09,non-migratory
+Hexagrammos lagocephalus,1,,,,,,0,1,1,NA,LC,FAUX,,,0.25,No,61,TL,,,3.67,61,44.4,Moderate,,,,02-Dec-19,
+Hexagrammos decagrammus,1,,,,,,0,1,1,NA,LC,FAUX,,,0.55,No,61,TL,,,3.59,61,44.4,Moderate,,,,02-Dec-19,
+Lepidopsetta polyxystra,1,,,,,,0,1,1,NA,LC,FAUX,,,0.24,No,69,TL,49,FL,3.3,69,47.6,Moderate to high,,,,05-Nov-20,
+Lepomis gibbosus,1,,,,,,0,1,0,NA,LC,FAUX,,,0.1,No,40,TL,,,3.25,40,49.37,Moderate to high,,,,01-Mar-12,potamodromous
+Leptocottus armatus,1,,,,,,0,1,0,NA,LC,FAUX,,,0.64,No,46,TL,,,3.68,46,36,Moderate,,,,01-Mar-12,amphidromous
+Phanerodon vacca,1,,,,,,0,1,0,NA,LC,FAUX,,,0.53,No,44.2,SL,,,3.38,44.2,41.57,Moderate,,,,04-Feb-09,
+Apodichthys flavidus,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.5,No,46,TL,,,3.55,46,36,Moderate,,,,,
+Dasycottus setiger,1,,,,,,0,1,1,NA,N.E.,FAUX,,,0.3,No,73,TL,,,3.87,73,49.2,Moderate to high,,,,,
+Hemilepidotus hemilepidotus,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.57,No,51,TL,,,3.53,51,40.4,Moderate,,,,,
+Lepidogobius lepidus,1,,,,,,0,1,0,NA,N.E.,,,,0.44,Yes,10,TL,,,3.41,10,50.96,Moderate to high,,,,,
+Liparis gibbus,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.33,No,52,TL,,,3.74,52,40.8,Moderate,,,,,
+Lumpenus sagitta,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.16,No,51,TL,,,3.29,51,40.4,Moderate,,,,,
+Lycodopsis pacificus,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.43,No,46,TL,,,3.28,46,46.61,Moderate to high,,,,,
+Oligocottus maculosus,1,,,,,,0,1,0,NA,N.E.,FAUX,,,0.47,No,8.9,TL,,,3.38,8.9,37.33,Moderate,,,,,non-migratory
+Paraliparis rosaceus,1,,,,,,0,1,0,NA,N.E.,,,,0.52,Yes,40,SL,36.1,SL,3.73,40,38.8,Moderate,,,,,
+Paraliparis grandis,1,,,,,,0,1,0,NA,N.E.,,,,0.52,Yes,38,SL,,,3.72,38,36.36,Moderate,,,,,
+Sebastes nigrocinctus,1,1,,1,,,1,1,1,NA,N.E.,FAUX,,,0.37,No,61,TL,,,3.52,61,44.4,Moderate,,,,,
+Sebastes auriculatus,1,1,,1,,,1,1,1,NA,N.E.,FAUX,,,0.62,No,56,TL,,,4.03,56,42.4,Moderate,,,,,
+Xiphister mucosus,1,,,,,,0,1,,NA,N.E.,FAUX,,,0.14,No,58,TL,,,2.18,58,43.2,Moderate,,,,,
+Zaprora silenus,1,,,,,,0,1,1,NA,N.E.,FAUX,,,0.13,No,88,TL,,,3.71,88,53.88,Moderate to high,,,,,
+Embiotoca lateralis,1,,,,,,1,0,0,NA,LC,FAUX,,,0.49,No,38,TL,,,3.33,38,28,Low to moderate,,,,12-Oct-18,
+Trichodon trichodon,1,,,,,,1,0,0,NA,N.E.,FAUX,,,0.29,No,30.5,TL,,,3.95,30.5,20.5,Low,,,,,
+Citharichthys sordidus,0,,,,,,0,0,0,0,LC,FAUX,,,0.35,No,41,TL,,,3.46,41,34.93,Low to moderate,7.5,Low,,14-Nov-19,
+Brachyistius frenatus,0,,,,,,0,0,0,NA,DD,FAUX,,,0.5,No,22,TL,,,3.5,22,12,Low,,,,12-Oct-18,
+Aulorhynchus flavidus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.42,No,18,TL,,,3.39,18,24.65,Low,,,,08-Mar-16,
+Citharichthys stigmaeus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.52,No,17,TL,,,3.4,17,10,Low,,,,27-Jul-20,
+Cottus asper,0,,,,,,0,0,0,NA,LC,FAUX,,,0.46,Yes,30,TL,,,3.44,30,20,Low,,,,08-Nov-11,catadromous
+Cottus aleuticus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.26,No,17,TL,,,3.2,17,10,Low,,,,08-Nov-11,catadromous
+Diaphus theta,0,,,,,,0,0,0,NA,LC,FAUX,,,0.12,No,11.4,TL,,,3.19,11.4,25.13,Low to moderate,,,,26-Jun-18,
+Gibbonsia metzi,0,,,,,,0,0,0,NA,LC,FAUX,,,0.4,No,24,TL,,,3.4,24,14,Low,,,,04-May-10,
+Gibbonsia montereyensis,0,,,,,,0,0,0,NA,LC,FAUX,,,0.24,No,11,TL,,,3.44,11,10,Low,,,,04-May-10,
+Icelinus filamentosus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.56,No,27,TL,,,3.45,27,17,Low,,,,04-Feb-09,
+Lyopsetta exilis,0,,,,,,0,0,0,NA,LC,FAUX,,,0.25,No,35,TL,,,3.45,35,25,Low,,,,12-Feb-21,
+Nautichthys oculofasciatus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.68,No,20,TL,,,4.05,20,10,Low,,,,14-Dec-20,
+Oxylebius pictus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.42,No,25,TL,,,3.42,25,15,Low,,,,14-Dec-20,
+Pholis ornata,0,,,,,,0,0,0,NA,LC,FAUX,,,0.5,No,30,TL,,,3.55,30,20,Low,,,,04-Feb-09,
+Pleuronichthys coenosus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.39,No,36,TL,,,3.16,36,26,Low to moderate,,,,17-Sep-20,
+Rhamphocottus richardsonii,0,,,,,,0,0,0,NA,LC,FAUX,,,0.37,No,8.9,TL,,,3.42,8.9,10,Low,,,,14-Dec-20,
+Syngnathus leptorhynchus,0,,,,,,0,0,0,NA,LC,FAUX,,,0.4,No,32.5,TL,38.5,TL,3.24,38.5,28.5,Low to moderate,,,,30-Apr-14,
+Tarletonbeania taylori,0,,,,,,0,0,0,NA,LC,FAUX,,,0.37,Yes,7,SL,,,3.26,7,10,Low,,,,29-Jun-18,
+Agonopsis vulsa,0,,,,,,0,0,0,NA,N.E.,,,,0.33,Yes,20,TL,,,3.27,20,10,Low,,,,,
+Alectrias alectrolophus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.44,No,10,SL,,,3.13,10,10,Low,,,,,
+Anisarchus medius,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.36,No,30,TL,,,3.22,30,20,Low,,,,,
+Anoplarchus purpurescens,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.14,No,20,TL,,,2.89,20,10,Low,,,,,
+Apodichthys fucorum,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.41,No,23,TL,,,3.39,23,13,Low,,,,,
+Artedius fenestralis,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.7,No,14,TL,,,4.03,14,10,Low,,,,,
+Artedius lateralis,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.4,No,14,TL,,,3.7,14,10,Low,,,,,
+Artedius harringtoni,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.52,No,10,TL,,,3.41,10,10,Low,,,,,
+Ascelichthys rhodorus,0,,,,,,0,0,0,NA,N.E.,,,,0.47,Yes,15,TL,,,3.38,15,10,Low,,,,,
+Bathyagonus pentacanthus,0,,,,,,0,0,0,NA,N.E.,,,,0.36,Yes,23,TL,,,3.24,23,13,Low,,,,,
+Bothrocara hollandi,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.4,No,31.8,SL,,,3.2,31.8,28.8,Low to moderate,,,,,
+Careproctus simus,0,,,,,,0,0,0,NA,N.E.,,,,0.52,Yes,18.6,SL,,,3.27,18.6,12.69,Low,,,,,non-migratory
+Chesnonia verrucosa,0,,,,,,0,0,0,NA,N.E.,,,,0.34,Yes,20,TL,,,3.21,20,10,Low,,,,,
+Clinocottus acuticeps,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.37,No,6.4,TL,,,3.5,6.4,10,Low,,,,,
+Enophrys bison,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.52,No,37,TL,,,3.34,37,27,Low to moderate,,,,,
+Eumesogrammus praecisus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.5,No,22,TL,,,3.5,22,12,Low,,,,,
+Gobiesox maeandricus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.26,No,16,TL,,,3.44,16,10,Low,,,,,
+Hypsagonus quadricornis,0,,,,,,0,0,0,NA,N.E.,,,,0.13,Yes,12,TL,,,3.22,12,10,Low,,,,,non-migratory
+Icelinus fimbriatus,0,,,,,,0,0,0,NA,N.E.,,,,0.55,Yes,19,TL,,,3.65,19,10,Low,,,,,
+Icelinus burchami,0,,,,,,0,0,0,NA,N.E.,,,,0.53,Yes,13,TL,,,3.54,13,10,Low,,,,,
+Icelinus borealis,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.59,No,10.2,SL,,,3.6,10.2,10,Low,,,,,
+Jordania zonope,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.5,No,15,TL,,,3.37,15,10,Low,,,,,
+Leuroglossus schmidti,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.41,Yes,20,SL,,,3.38,20,14.4,Low,,,,,
+Polypera greeni,0,,,,,,0,0,0,NA,N.E.,,,,0.58,Yes,31,TL,,,3.62,31,21,Low,,,,,
+Liparis fabricii,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.42,No,21,TL,12.7,TL,3.33,21,25.11,Low to moderate,,,,,
+Liparis florae,0,,,,,,0,0,0,NA,N.E.,,,,0.56,Yes,18.3,TL,,,3.5,18.3,10,Low,,,,,
+Liparis mucosus,0,,,,,,0,0,0,NA,N.E.,,,,0.55,Yes,13,TL,,,3.42,13,10,Low,,,,,
+Liparis cyclopus,0,,,,,,0,0,0,NA,N.E.,,,,0.54,Yes,11.4,TL,,,3.39,11.4,10,Low,,,,,
+Lipariscus nanus,0,,,,,,0,0,0,NA,N.E.,,,,0.51,Yes,6.3,SL,7.1,SL,3.32,7.1,10,Low,,,,,
+Lumpenella longirostris,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.24,No,42,TL,,,3.1,42,32,Low to moderate,,,,,
+Lycodapus mandibularis,0,,,,,,0,0,0,NA,N.E.,,,,0.4,Yes,20,TL,,,3.33,20,10,Low,,,,,
+Lycodapus parviceps,0,,,,,,0,0,0,NA,N.E.,,,,0.39,Yes,9.8,SL,,,3.26,9.8,10,Low,,,,,
+Lycodes reticulatus,0,,,,,,0,0,0,NA,N.E.,FAUX,never,juveniles and adults,0.53,No,36,TL,,,3.49,36,26,Low to moderate,,,,,
+Myoxocephalus octodecemspinosus,0,,,,,,0,0,0,NA,N.E.,VRAI,sometimes,juveniles and adults,0.2,No,46,TL,,,3.62,46,23.61,Low,,,,,
+Nectoliparis pelagicus,0,,,,,,0,0,0,NA,N.E.,,,,0.51,Yes,6.5,SL,,,3.3,6.5,10,Low,,,,,
+Percis japonica,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.16,No,42,TL,,,3.08,42,32,Low to moderate,,,,,
+Phanerodon furcatus,0,,,,,,0,0,0,NA,N.E.,,,,0.47,Yes,32,TL,,,3.34,32,22,Low,,,,,
+Pholis laeta,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.39,No,25,TL,,,3.27,25,15,Low,,,,,
+Pholis clemensi,0,,,,,,0,0,0,NA,N.E.,,,,0.38,Yes,13,TL,,,3.2,13,10,Low,,,,,
+Phytichthys chirus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.2,No,20,TL,,,2.61,20,10,Low,,,,,
+Podothecus accipenserinus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.13,No,30.5,TL,,,3.36,30.5,20.5,Low,,,,,
+Poroclinus rothrocki,0,,,,,,0,0,0,NA,N.E.,,,,0.35,Yes,25,TL,,,3.22,25,15,Low,,,,,
+Psychrolutes sigalutes,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.45,Yes,8.3,TL,,,3.19,8.3,10,Low,,,,,
+Ptilichthys goodei,0,,,,,,0,0,0,NA,N.E.,,,,0.54,Yes,40,TL,,,3.36,40,30,Low to moderate,,,,,
+Radulinus asprellus,0,,,,,,0,0,0,NA,N.E.,,,,0.47,Yes,15,TL,,,3.38,15,10,Low,,,,,
+Rhinoliparis attenuatus,0,,,,,,0,0,0,NA,N.E.,,,,0.53,Yes,11,SL,9.3,SL,3.41,11,10,Low,,,,,
+Rhinoliparis barbulifer,0,,,,,,0,0,0,NA,N.E.,,,,0.52,Yes,8.8,SL,,,3.36,8.8,10,Low,,,,,
+Rimicola muscarum,0,,,,,,0,0,0,NA,N.E.,,,,0.35,Yes,7,TL,,,3.22,7,10,Low,,,,,
+Ronquilus jordani,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.29,No,20,TL,,,3.13,20,10,Low,,,,,
+Trichocottus brashnikovi,0,,,,,,0,0,0,NA,N.E.,,,,0.48,Yes,22.5,TL,,,3.45,22.5,12.5,Low,,,,,
+Xeneretmus latifrons,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.4,No,19,TL,,,3.2,19,26.66,Low to moderate,,,,,
+Xiphister atropurpureus,0,,,,,,0,0,0,NA,N.E.,FAUX,,,0.2,No,30.5,TL,,,2.49,30.5,20.5,Low,,,,,

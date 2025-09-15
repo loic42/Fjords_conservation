@@ -1,0 +1,213 @@
+﻿year,code,taxonomic_group_en,taxonomic_group_fr,scientific_name,common_name_en,common_name_fr,bc_rank
+2020,GS000496,Fishes,Poissons,Acipenser medirostris,,,S2S3N
+2020,GS000498,Fishes,Poissons,Acipenser transmontanus,,,"S2B,SNRN,SNRM"
+2020,GS000507,Fishes,Poissons,Alosa sapidissima,,,SNA
+2020,GS000510,Fishes,Poissons,Catostomus catostomus,,,S5
+2020,GS000511,Fishes,Poissons,Catostomus columbianus,,,S5
+2020,GS000512,Fishes,Poissons,Catostomus commersonii,,,S5
+2020,GS000513,Fishes,Poissons,Catostomus macrocheilus,,,S5
+2020,GS000514,Fishes,Poissons,Catostomus platyrhynchus,,,S3?
+2020,GS000528,Fishes,Poissons,Acrocheilus alutaceus,,,S4
+2020,GS000530,Fishes,Poissons,Carassius auratus,,,SNA
+2020,GS000532,Fishes,Poissons,Couesius plumbeus,,,S5
+2020,GS000535,Fishes,Poissons,Cyprinus carpio,,,SNA
+2020,GS000539,Fishes,Poissons,Hybognathus hankinsoni,,,S4
+2020,GS000546,Fishes,Poissons,Mylocheilus caurinus,,,S5
+2020,GS000551,Fishes,Poissons,Notropis atherinoides,,,SU
+2020,GS000558,Fishes,Poissons,Notropis hudsonius,,,S1S2
+2020,GS000565,Fishes,Poissons,Chrosomus eos,,,S4
+2020,GS000566,Fishes,Poissons,Chrosomus neogaeus,,,S4S5
+2020,GS000568,Fishes,Poissons,Pimephales promelas,,,SNA
+2020,GS000569,Fishes,Poissons,Platygobio gracilis,,,S4
+2020,GS000570,Fishes,Poissons,Ptychocheilus oregonensis,,,S5
+2020,GS000572,Fishes,Poissons,Rhinichthys cataractae,,,S5
+2020,GS000573,Fishes,Poissons,Rhinichthys falcatus,,,S5?
+2020,GS000574,Fishes,Poissons,Rhinichthys osculus,,,S3?
+2020,GS000576,Fishes,Poissons,Rhinichthys umatilla,,,S2
+2020,GS000577,Fishes,Poissons,Richardsonius balteatus,,,S5
+2020,GS000581,Fishes,Poissons,Tinca tinca,,,SNA
+2020,GS000588,Fishes,Poissons,Esox lucius,,,S5
+2020,GS000593,Fishes,Poissons,Lota lota,,,S4S5
+2020,GS000596,Fishes,Poissons,Culaea inconstans,,,S5
+2020,GS000597,Fishes,Poissons,Gasterosteus aculeatus,,,"S5B,SNRN,SNRM"
+2020,GS000608,Fishes,Poissons,Pungitius pungitius,,,SU
+2020,GS000609,Fishes,Poissons,Hiodon alosoides,,,S3
+2020,GS000617,Fishes,Poissons,Lepomis gibbosus,,,SNA
+2020,GS000620,Fishes,Poissons,Lepomis macrochirus,,,SNA
+2020,GS000622,Fishes,Poissons,Micropterus dolomieu,,,SNA
+2020,GS000623,Fishes,Poissons,Micropterus salmoides,,,SNA
+2020,GS000625,Fishes,Poissons,Pomoxis nigromaculatus,,,SNA
+2020,GS000643,Fishes,Poissons,Perca flavescens,,,SU
+2020,GS000649,Fishes,Poissons,Sander vitreus,,,S4S5
+2020,GS000651,Fishes,Poissons,Percopsis omiscomaycus,,,S4S5
+2020,GS000656,Fishes,Poissons,Lampetra ayresii,,,"S5?B,SNRN,SNRM"
+2020,GS000658,Fishes,Poissons,Entosphenus macrostomus,,,S2
+2020,GS000659,Fishes,Poissons,Lampetra richardsoni,,,S4
+2020,GS000660,Fishes,Poissons,Entosphenus tridentatus,,,"S5B,SNRN,SNRM"
+2020,GS000667,Fishes,Poissons,Spirinchus thaleichthys,,,S3?B
+2020,GS000668,Fishes,Poissons,Thaleichthys pacificus,,,S2S3B
+2020,GS000669,Fishes,Poissons,Coregonus artedi,,,S2
+2020,GS000670,Fishes,Poissons,Coregonus autumnalis,,,S1S2B
+2020,GS000671,Fishes,Poissons,Coregonus clupeaformis,,,S5
+2020,GS000677,Fishes,Poissons,Coregonus nasus,,,S2
+2020,GS000681,Fishes,Poissons,Coregonus sardinella,,,S3
+2020,GS000687,Fishes,Poissons,Oncorhynchus clarkii,,,"S4B,SNRN,SNRM"
+2020,GS000688,Fishes,Poissons,Oncorhynchus gorbuscha,,,SNRB
+2020,GS000689,Fishes,Poissons,Oncorhynchus keta,,,SNRB
+2020,GS000690,Fishes,Poissons,Oncorhynchus kisutch,,,SNRB
+2020,GS000691,Fishes,Poissons,Oncorhynchus mykiss,,,"S5B,SNRN,SNRM"
+2020,GS000692,Fishes,Poissons,Oncorhynchus nerka,,,SNRB
+2020,GS000693,Fishes,Poissons,Oncorhynchus tshawytscha,,,SNRB
+2020,GS000694,Fishes,Poissons,Prosopium coulterii,,,S4
+2020,GS000695,Fishes,Poissons,Prosopium cylindraceum,,,S4
+2020,GS000696,Fishes,Poissons,Prosopium williamsoni,,,S5
+2020,GS000697,Fishes,Poissons,Salmo salar,,,SNA
+2020,GS000698,Fishes,Poissons,Salmo trutta,,,SNA
+2020,GS000700,Fishes,Poissons,Salvelinus confluentus,,,S3S4B
+2020,GS000701,Fishes,Poissons,Salvelinus fontinalis,,,SNA
+2020,GS000702,Fishes,Poissons,Salvelinus malma,,,"S4B,SNRN,SNRM"
+2020,GS000703,Fishes,Poissons,Salvelinus namaycush,,,S4
+2020,GS000704,Fishes,Poissons,Stenodus leucichthys,,,"S3B,SNRN,SNRM"
+2020,GS000705,Fishes,Poissons,Thymallus arcticus,,,S4
+2020,GS000706,Fishes,Poissons,Cottus aleuticus,,,S5
+2020,GS000707,Fishes,Poissons,Cottus asper,,,S5
+2020,GS000709,Fishes,Poissons,Cottus cognatus,,,S5
+2020,GS000710,Fishes,Poissons,Cottus confusus,,,S3
+2020,GS000711,Fishes,Poissons,Cottus rhotheus,,,S4S5
+2020,GS000712,Fishes,Poissons,Cottus ricei,,,S4
+2020,GS000716,Fishes,Poissons,Ameiurus melas,,,SNA
+2020,GS000717,Fishes,Poissons,Ameiurus natalis,,,SNA
+2020,GS000718,Fishes,Poissons,Ameiurus nebulosus,,,SNA
+2020,GS007393,Fishes,Poissons,Cymatogaster aggregata,,,SNR
+2020,GS007640,Fishes,Poissons,Platichthys stellatus,,,SNR
+2020,GS007718,Fishes,Poissons,Cottus hubbsi,,,S3
+2020,GS007734,Fishes,Poissons,Leptocottus armatus,,,SNRM
+2020,GS030325,Fishes,Poissons,Misgurnus anguillicaudatus,,,SNA
+2020,GS030328,Fishes,Poissons,Margariscus nachtriebi,,,S4
+2020,GS001457,Mammals,Mammifères,Bos bison,American Bison,,S3
+2020,GS001458,Mammals,Mammifères,Oreamnos americanus,Mountain Goat,,S3
+2020,GS001460,Mammals,Mammifères,Ovis canadensis,Bighorn Sheep,,S3?
+2020,GS001461,Mammals,Mammifères,Ovis dalli,Dall's Sheep,,S4
+2020,GS001462,Mammals,Mammifères,Alces alces,Moose,Orignal,S5
+2020,GS001463,Mammals,Mammifères,Dama dama,Fallow Deer,,SNA
+2020,GS001464,Mammals,Mammifères,Cervus elaphus,Wapiti,Wapiti,S5
+2020,GS001465,Mammals,Mammifères,Odocoileus hemionus,Mule Deer,,S5
+2020,GS001466,Mammals,Mammifères,Odocoileus virginianus,White-tailed Deer,Cerf de Virginie,S5
+2020,GS001467,Mammals,Mammifères,Rangifer tarandus,Caribou,Caribou,S3?
+2020,GS001468,Mammals,Mammifères,Sus scrofa,Wild Boar,,SNA
+2020,GS001471,Mammals,Mammifères,Canis latrans,Coyote,Coyote,S5
+2020,GS001472,Mammals,Mammifères,Canis lupus,Grey Wolf,Loup gris,S4S5
+2020,GS001475,Mammals,Mammifères,Vulpes vulpes,Red Fox,Renard roux,S5
+2020,GS001476,Mammals,Mammifères,Felis catus,Domestic Cat,,SNA
+2020,GS001477,Mammals,Mammifères,Puma concolor,Cougar,Cougar,S4
+2020,GS001478,Mammals,Mammifères,Lynx canadensis,Canada Lynx,Lynx du Canada,S5
+2020,GS001479,Mammals,Mammifères,Lynx rufus,Bobcat,Lynx roux,S5
+2020,GS001480,Mammals,Mammifères,Mephitis mephitis,Striped Skunk,Mouffette rayée,S5
+2020,GS001481,Mammals,Mammifères,Spilogale gracilis,Western Spotted Skunk,,SU
+2020,GS001483,Mammals,Mammifères,Gulo gulo,Wolverine,Carcajou,S3
+2020,GS001484,Mammals,Mammifères,Lontra canadensis,Northern River Otter,Loutre de rivière,S5
+2020,GS001485,Mammals,Mammifères,Martes americana,American Marten,Martre d'Amérique,S5?
+2020,GS001486,Mammals,Mammifères,Pekania pennanti,Fisher,Pékan,S3
+2020,GS001487,Mammals,Mammifères,Mustela erminea,Ermine,Hermine,S5
+2020,GS001488,Mammals,Mammifères,Neogale frenata,Long-tailed Weasel,Belette à longue queue,S5
+2020,GS001491,Mammals,Mammifères,Mustela nivalis,Least Weasel,Belette pygmée,S4
+2020,GS001492,Mammals,Mammifères,Neogale vison,American Mink,Vison d'Amérique,S5
+2020,GS001493,Mammals,Mammifères,Taxidea taxus,American Badger,,S2
+2020,GS001495,Mammals,Mammifères,Callorhinus ursinus,Northern Fur Seal,,S2M
+2020,GS001496,Mammals,Mammifères,Eumetopias jubatus,Northern Sea Lion,,"S3B,S3N"
+2020,GS001497,Mammals,Mammifères,Zalophus californianus,California Sea Lion,,S5N
+2020,GS001501,Mammals,Mammifères,Mirounga angustirostris,Northern Elephant Seal,,S1B
+2020,GS001504,Mammals,Mammifères,Phoca vitulina,Harbor Seal,Phoque commun,S5
+2020,GS001505,Mammals,Mammifères,Procyon lotor,Northern Raccoon,Raton laveur,S5
+2020,GS001506,Mammals,Mammifères,Ursus americanus,American Black Bear,Ours noir,S5
+2020,GS001507,Mammals,Mammifères,Ursus arctos,Grizzly Bear,,S3?
+2020,GS001544,Mammals,Mammifères,Nyctinomops macrotis,Big Free-tailed Bat,,SNA
+2020,GS001545,Mammals,Mammifères,Antrozous pallidus,Pallid Bat,,S2
+2020,GS001546,Mammals,Mammifères,Corynorhinus townsendii,Townsend's Big-eared Bat,,S3S4
+2020,GS001547,Mammals,Mammifères,Eptesicus fuscus,Big Brown Bat,Grande Chauve-souris brune,S5
+2020,GS001548,Mammals,Mammifères,Euderma maculatum,Spotted Bat,,S3S4
+2020,GS001549,Mammals,Mammifères,Lasionycteris noctivagans,Silver-haired Bat,Chauve-souris argentée,"S4S5B,SNRN,SUM"
+2020,GS001551,Mammals,Mammifères,Lasiurus borealis,Eastern Red Bat,Chauve-souris rousse,SUM
+2020,GS001552,Mammals,Mammifères,Aeorestes cinereus,Hoary Bat,Chauve-souris cendrée,"S4S5B,SNRM"
+2020,GS001553,Mammals,Mammifères,Myotis californicus,California Myotis,,S4S5
+2020,GS001554,Mammals,Mammifères,Myotis ciliolabrum,Western Small-footed Myotis,,S2S3
+2020,GS001555,Mammals,Mammifères,Myotis evotis,Long-eared Myotis,,S5?
+2020,GS001558,Mammals,Mammifères,Myotis lucifugus,Little Brown Myotis,Petite Chauve-souris brune,S2S3
+2020,GS001559,Mammals,Mammifères,Myotis septentrionalis,Northern Long-eared Myotis,Chauve-souris nordique,S2S3
+2020,GS001560,Mammals,Mammifères,Myotis thysanodes,Fringed Myotis,,S3
+2020,GS001561,Mammals,Mammifères,Myotis volans,Long-legged Myotis,,S4S5
+2020,GS001562,Mammals,Mammifères,Myotis yumanensis,Yuma Myotis,,S5
+2020,GS001565,Mammals,Mammifères,Didelphis virginiana,Virginia Opossum,Opossum d'Amérique,SNA
+2020,GS001568,Mammals,Mammifères,Sorex arcticus,Arctic Shrew,Musaraigne arctique,S4?
+2020,GS001569,Mammals,Mammifères,Sorex bendirii,Marsh Shrew,,S2?
+2020,GS001570,Mammals,Mammifères,Sorex cinereus,Cinereus Shrew,Musaraigne cendrée,S5
+2020,GS001575,Mammals,Mammifères,Sorex hoyi,American Pygmy Shrew,Musaraigne pygmée,S4S5
+2020,GS001576,Mammals,Mammifères,Sorex merriami,Merriam's Shrew,,S1
+2020,GS001577,Mammals,Mammifères,Sorex monticola,Dusky Shrew,,S5
+2020,GS001578,Mammals,Mammifères,Sorex palustris,American Water Shrew,Musaraigne palustre,S2S4
+2020,GS001579,Mammals,Mammifères,Sorex preblei,Preble's Shrew,,S1S2
+2020,GS001580,Mammals,Mammifères,Sorex trowbridgii,Trowbridge's Shrew,,S3
+2020,GS001581,Mammals,Mammifères,Sorex tundrensis,Tundra Shrew,,S1?
+2020,GS001583,Mammals,Mammifères,Sorex vagrans,Vagrant Shrew,,S5
+2020,GS001585,Mammals,Mammifères,Neurotrichus gibbsii,American Shrew Mole,,S4
+2020,GS001588,Mammals,Mammifères,Scapanus orarius,Coast Mole,,S4?
+2020,GS001589,Mammals,Mammifères,Scapanus townsendii,Townsend's Mole,,S1
+2020,GS001590,Mammals,Mammifères,Lepus americanus,Snowshoe Hare,Lièvre d'Amérique,S5
+2020,GS001593,Mammals,Mammifères,Lepus townsendii,White-tailed Jackrabbit,,SX
+2020,GS001594,Mammals,Mammifères,Oryctolagus cuniculus,European Rabbit,,SNA
+2020,GS001595,Mammals,Mammifères,Sylvilagus floridanus,Eastern Cottontail,Lapin à queue blanche,SNA
+2020,GS001596,Mammals,Mammifères,Sylvilagus nuttallii,Mountain Cottontail,,S3
+2020,GS001597,Mammals,Mammifères,Ochotona collaris,Collared Pika,,S3S4
+2020,GS001598,Mammals,Mammifères,Ochotona princeps,American Pika,,S4S5
+2020,GS001599,Mammals,Mammifères,Equus caballus,Feral Horse,,SNA
+2020,GS001600,Mammals,Mammifères,Aplodontia rufa,Mountain Beaver,,S3
+2020,GS001601,Mammals,Mammifères,Castor canadensis,American Beaver,Castor du Canada,S5
+2020,GS001602,Mammals,Mammifères,Erethizon dorsatum,North American Porcupine,Porc-épic d'Amérique,S4
+2020,GS001604,Mammals,Mammifères,Thomomys talpoides,Northern Pocket Gopher,,S4S5
+2020,GS001607,Mammals,Mammifères,Perognathus parvus,Columbia Plateau Pocket Mouse,,S3
+2020,GS001608,Mammals,Mammifères,Clethrionomys gapperi,Southern Red-backed Vole,Campagnol à dos roux de Gapper,S5
+2020,GS001610,Mammals,Mammifères,Clethrionomys rutilus,Northern Red-backed Vole,,S4S5
+2020,GS001617,Mammals,Mammifères,Lemmus trimucronatus,Brown Lemming,,S5
+2020,GS001619,Mammals,Mammifères,Microtus longicaudus,Long-tailed Vole,,S5
+2020,GS001621,Mammals,Mammifères,Microtus montanus,Montane Vole,,S5
+2020,GS001623,Mammals,Mammifères,Alexandromys oeconomus,Root Vole,,S4
+2020,GS001624,Mammals,Mammifères,Microtus oregoni,Creeping Vole,,S4?
+2020,GS001625,Mammals,Mammifères,Microtus pennsylvanicus,Meadow Vole,Campagnol des champs,S5
+2020,GS001627,Mammals,Mammifères,Microtus richardsoni,Water Vole,,S4S5
+2020,GS001628,Mammals,Mammifères,Microtus townsendii,Townsend's Vole,,S5?
+2020,GS001630,Mammals,Mammifères,Mus musculus,House Mouse,Souris commune,SNA
+2020,GS001631,Mammals,Mammifères,Neotoma cinerea,Bushy-tailed Woodrat,,S5
+2020,GS001632,Mammals,Mammifères,Ondatra zibethicus,Common Muskrat,Rat musqué,S5
+2020,GS001634,Mammals,Mammifères,Peromyscus keeni,Northwestern Deermouse,,S5
+2020,GS001636,Mammals,Mammifères,Peromyscus maniculatus,North American Deermouse,Souris sylvestre,S5
+2020,GS001637,Mammals,Mammifères,Phenacomys intermedius,Western Heather Vole,,S5
+2020,GS001638,Mammals,Mammifères,Rattus norvegicus,Brown Rat,Rat surmulot,SNA
+2020,GS001639,Mammals,Mammifères,Rattus rattus,Black Rat,Rat noir,SNA
+2020,GS001640,Mammals,Mammifères,Reithrodontomys megalotis,Western Harvest Mouse,,S3
+2020,GS001641,Mammals,Mammifères,Synaptomys borealis,Northern Bog Lemming,Campagnol-lemming boréal,S5
+2020,GS001645,Mammals,Mammifères,Glaucomys sabrinus,Northern Flying Squirrel,Grand Polatouche,S5
+2020,GS001647,Mammals,Mammifères,Marmota caligata,Hoary Marmot,,S5
+2020,GS001648,Mammals,Mammifères,Marmota flaviventris,Yellow-bellied Marmot,,S5?
+2020,GS001649,Mammals,Mammifères,Marmota monax,Woodchuck,Marmotte commune,S5
+2020,GS001650,Mammals,Mammifères,Marmota vancouverensis,Vancouver Marmot,,S1
+2020,GS001651,Mammals,Mammifères,Sciurus carolinensis,Eastern Grey Squirrel,Écureuil gris,SNA
+2020,GS001652,Mammals,Mammifères,Sciurus niger,Eastern Fox Squirrel,,SNA
+2020,GS001653,Mammals,Mammifères,Urocitellus columbianus,Columbian Ground Squirrel,,S5?
+2020,GS001655,Mammals,Mammifères,Callospermophilus lateralis,Golden-mantled Ground Squirrel,,S5?
+2020,GS001656,Mammals,Mammifères,Urocitellus parryii,Arctic Ground Squirrel,,S4S5
+2020,GS001658,Mammals,Mammifères,Callospermophilus saturatus,Cascade Ground Squirrel,,S4
+2020,GS001660,Mammals,Mammifères,Neotamias amoenus,Yellow-pine Chipmunk,,S5
+2020,GS001661,Mammals,Mammifères,Neotamias minimus,Least Chipmunk,Tamia mineur,S5
+2020,GS001662,Mammals,Mammifères,Neotamias ruficaudus,Red-tailed Chipmunk,,S3S4
+2020,GS001664,Mammals,Mammifères,Neotamias townsendii,Townsend's Chipmunk,,S4S5
+2020,GS001665,Mammals,Mammifères,Tamiasciurus douglasii,Douglas's Squirrel,,S4S5
+2020,GS001666,Mammals,Mammifères,Tamiasciurus hudsonicus,Red Squirrel,Écureuil roux,S5
+2020,GS001668,Mammals,Mammifères,Zapus hudsonius,Meadow Jumping Mouse,Souris sauteuse des champs,S5
+2020,GS001669,Mammals,Mammifères,Zapus princeps,Western Jumping Mouse,,S5
+2020,GS001670,Mammals,Mammifères,Zapus trinotatus,Pacific Jumping Mouse,,S4
+2020,GS013474,Mammals,Mammifères,Sorex rohweri,Olympic Shrew,,S2?
+2020,GS030419,Mammals,Mammifères,Martes caurina,Pacific Marten,,S5?
+2020,GS030425,Mammals,Mammifères,Sorex navigator,Western Water Shrew,,S5
+2020,GS038198,Mammals,Mammifères,Histriophoca fasciata,,,SNA
+2020,GS038206,Mammals,Mammifères,Parastrellus hesperus,,,SNA
+2020,GS038219,Mammals,Mammifères,Tadarida brasiliensis,,,SNA

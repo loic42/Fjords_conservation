@@ -1,0 +1,659 @@
+assessmentId,internalTaxonId,scientificName,kingdomName,phylumName,orderName,className,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+495630,10030,Hexanchus griseus,ANIMALIA,CHORDATA,HEXANCHIFORMES,CHONDRICHTHYES,HEXANCHIDAE,Hexanchus,griseus,,,,"(Bonnaterre, 1788)",Near Threatened,A2bd,3.1,Decreasing,Global
+500969,11200,Lamna nasus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,LAMNIDAE,Lamna,nasus,,,,"(Bonnaterre, 1788)",Vulnerable,A2bd,3.1,Decreasing,Global
+887942,161403,Somniosus pacificus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Somniosus,pacificus,,,,"Bigelow &amp; Schroeder, 1944",Near Threatened,A2bd,3.1,Decreasing,Global
+890724,161564,Carcharhinus altimus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,altimus,,,,"(Springer, 1950)",Near Threatened,A2d,3.1,Decreasing,Global
+894216,161696,Alopias superciliosus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,ALOPIIDAE,Alopias,superciliosus,,,,"Lowe, 1841",Vulnerable,A2bd,3.1,Decreasing,Global
+1077288,16503,Pelochelys bibroni,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,TRIONYCHIDAE,Pelochelys,bibroni,,,,"(Owen, 1853)",Vulnerable,A2d+4d,3.1,Unknown,Global
+1157918,166966,Verasper variegatus,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Verasper,variegatus,,,,"(Temminck &amp; Schlegel, 1846)",Vulnerable,A2bcd,3.1,Decreasing,Global
+1285017,170161,Cheimerius matsubarai,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SPARIDAE,Cheimerius,matsubarai,,,,"Akazaki, 1962",Vulnerable,B1ab(v)+2ab(v),3.1,Unknown,Global
+1288183,170179,Acanthopagrus chinshira,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SPARIDAE,Acanthopagrus,chinshira,,,,"Kume &amp; Yoshino, 2008",Near Threatened,,3.1,Unknown,Global
+1292034,170199,Acanthopagrus sivicolus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SPARIDAE,Acanthopagrus,sivicolus,,,,"Akazaki, 1962",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+1306343,17026,Phocarctos hookeri,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Phocarctos,hookeri,,,,"(Gray, 1844)",Endangered,A4bd,3.1,Decreasing,Global
+1505213,177966,Acanthurus chronixis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,ACANTHURIDAE,Acanthurus,chronixis,,,,"Randall, 1960",Vulnerable,D2,3.1,Unknown,Global
+1736282,183314,Poeciliopsis latidens,ANIMALIA,CHORDATA,CYPRINODONTIFORMES,ACTINOPTERYGII,POECILIIDAE,Poeciliopsis,latidens,,,,"(Garman, 1895)",Near Threatened,B1b(iii)+2b(iii),3.1,Unknown,Global
+1857376,188319,Neopomacentrus aquadulcis,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Neopomacentrus,aquadulcis,,,,"Jenkins &amp; Allen, 2002",Endangered,"B2ab(ii,iii)",3.1,Decreasing,Global
+1863321,188356,Chrysiptera niger,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Chrysiptera,niger,,,,"(Allen, 1975)",Endangered,B1ab(iii),3.1,Decreasing,Global
+1865331,188370,Cheiloprion labiatus,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Cheiloprion,labiatus,,,,"(Day, 1877)",Vulnerable,A2c,3.1,Decreasing,Global
+1867359,188386,Pomacentrus lepidogenys,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Pomacentrus,lepidogenys,,,,"Fowler &amp; Bean, 1928",Near Threatened,A2c,3.1,Decreasing,Global
+1868736,188397,Altrichthys curatus,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Altrichthys,curatus,,,,"Allen, 1999",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+1870440,188406,Chrysiptera hemicyanea,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Chrysiptera,hemicyanea,,,,"(Weber, 1913)",Vulnerable,A2c,3.1,Decreasing,Global
+1880318,188472,Altrichthys azurelineatus,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Altrichthys,azurelineatus,,,,"(Fowler &amp; Bean, 1928)",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+1884312,188498,Amphiprion mccullochi,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Amphiprion,mccullochi,,,,"Whitley, 1929",Vulnerable,B1ab(iii),3.1,Decreasing,Global
+1888295,188528,Amblyglyphidodon batunai,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Amblyglyphidodon,batunai,,,,"Allen, 1995",Vulnerable,A2bc,3.1,Decreasing,Global
+1890998,188546,Amblyglyphidodon ternatensis,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Amblyglyphidodon,ternatensis,,,,"(Bleeker, 1853)",Vulnerable,A2bc,3.1,Decreasing,Global
+1893824,188565,Plectroglyphidodon dickii,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Plectroglyphidodon,dickii,,,,"(Liénard, 1839)",Near Threatened,A2c,3.1,Decreasing,Global
+1935825,189747,Enneapterygius leucopunctatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Enneapterygius,leucopunctatus,,,,"Shen, 1994",Near Threatened,,3.1,Unknown,Global
+2188830,193050,Gobiodon brochus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,brochus,,,,"Harold &amp; Winterbottom, 1999",Near Threatened,A2c,3.1,Unknown,Global
+2194475,193095,Sicyopterus eudentatus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Sicyopterus,eudentatus,,,,"Parenti &amp; Maciolek, 1993",Endangered,"B1ab(ii,iii,iv)",3.1,Decreasing,Global
+2200875,193147,Gobiodon acicularis,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,acicularis,,,,"Harold &amp; Winterbottom, 1995",Near Threatened,A2c,3.1,Unknown,Global
+2209139,193208,Pascua sticta,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Pascua,sticta,,,,"(Hoese &amp; Larson, 2005)",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+2211025,193222,Gobiodon axillaris,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,axillaris,,,,"De Vis, 1884",Vulnerable,A4c,3.1,Unknown,Global
+2215219,193257,Bryaninops natans,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Bryaninops,natans,,,,"Larson, 1985",Near Threatened,A2c,3.1,Unknown,Global
+2245386,193598,Takifugu vermicularis,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,vermicularis,,,,"(Temminck &amp; Schlegel, 1850)",Near Threatened,,3.1,Decreasing,Global
+2246312,193605,Takifugu chinensis,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,chinensis,,,,"(Abe, 1949)",Critically Endangered,A2bd,3.1,Decreasing,Global
+2247747,193612,Takifugu rubripes,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,rubripes,,,,"(Temminck &amp; Schlegel, 1850)",Near Threatened,,3.1,Decreasing,Global
+2254725,193654,Takifugu plagiocellatus,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,plagiocellatus,,,,"Li, 2002",Endangered,B2ab(iii),3.1,Unknown,Global
+2256783,193666,Takifugu flavidus,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,flavidus,,,,"(Li, Wang &amp; Wang, 1975)",Near Threatened,,3.1,Decreasing,Global
+2263506,193706,Canthigaster marquesensis,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Canthigaster,marquesensis,,,,"Allen &amp; Randall, 1977",Vulnerable,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+2271548,193751,Canthigaster cyanetron,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Canthigaster,cyanetron,,,,"Randall &amp; Cea Egaña, 1989",Endangered,B2ab(iii),3.1,Unknown,Global
+2310398,194299,Albula glossodonta,ANIMALIA,CHORDATA,ALBULIFORMES,ACTINOPTERYGII,ALBULIDAE,Albula,glossodonta,,,,"(Forsskål, 1775)",Vulnerable,A2bcd,3.1,Decreasing,Global
+2365291,19488,Rhincodon typus,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,RHINCODONTIDAE,Rhincodon,typus,,,,"Smith, 1828",Endangered,A2bd+4bd,3.1,Decreasing,Global
+2382420,195475,Rhynchobatus palpebratus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,palpebratus,,,,"Compagno &amp; Last, 2008",Near Threatened,A2bd,3.1,Decreasing,Global
+2447449,196340,Parioglossus galzini,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,MICRODESMIDAE,Parioglossus,galzini,,,,"Williams &amp; Lecchini, 2004",Critically Endangered,B1ab(iii),3.1,Decreasing,Global
+2482164,197321,Gobiomorphus hubbsi,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,ELEOTRIDAE,Gobiomorphus,hubbsi,,,,"(Stokell, 1959)",Vulnerable,A4bc,3.1,Decreasing,Global
+2482207,197322,Gobiomorphus huttoni,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,ELEOTRIDAE,Gobiomorphus,huttoni,,,,"(Ogilby, 1894)",Near Threatened,,3.1,Decreasing,Global
+2482366,197330,Cheimarrichthys fosteri,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHEIMARRICHTHYIDAE,Cheimarrichthys,fosteri,,,,"Haast, 1874",Vulnerable,A2bc,3.1,Decreasing,Global
+2561032,199118,Diastobranchus capensis,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,SYNAPHOBRANCHIDAE,Diastobranchus,capensis,,,,"Barnard, 1923",Vulnerable,A2bd,3.1,Decreasing,Global
+2780880,22003,Totoaba macdonaldi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Totoaba,macdonaldi,,,,"(Gilbert, 1890)",Vulnerable,A4bd,3.1,Decreasing,Global
+2867119,3764,Canthigaster rapaensis,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Canthigaster,rapaensis,,,,"Allen &amp; Randall, 1977",Endangered,B2ab(iii),3.1,Unknown,Global
+2870736,3851,Carcharhinus limbatus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,limbatus,,,,"(Valenciennes in Müller &amp; Henle, 1839)",Vulnerable,A2bd,3.1,Decreasing,Global
+2872747,3852,Carcharhinus obscurus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,obscurus,,,,"(Lesueur, 1818)",Endangered,A2bd,3.1,Decreasing,Global
+2874370,3853,Carcharhinus plumbeus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,plumbeus,,,,"(Nardo, 1827)",Endangered,A2bd,3.1,Decreasing,Global
+2876505,3854,Carcharias taurus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,ODONTASPIDIDAE,Carcharias,taurus,,,,"Rafinesque, 1810",Critically Endangered,A2bd,3.1,Decreasing,Global
+2903170,39341,Isurus oxyrinchus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,LAMNIDAE,Isurus,oxyrinchus,,,,"Rafinesque, 1810",Endangered,A2bd,3.1,Decreasing,Global
+2907336,39352,Galeorhinus galeus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Galeorhinus,galeus,,,,"(Linnaeus, 1758)",Critically Endangered,A2bd,3.1,Decreasing,Global
+2908817,39368,Carcharhinus brevipinna,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,brevipinna,,,,"(Müller &amp; Henle, 1839)",Vulnerable,A2bd,3.1,Decreasing,Global
+2910670,39372,Carcharhinus leucas,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,leucas,,,,"(Valenciennes in Müller &amp; Henle, 1839)",Vulnerable,A2bcd,3.1,Decreasing,Global
+2911619,39374,Carcharhinus longimanus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,longimanus,,,,"(Poey, 1861)",Critically Endangered,A2bd,3.1,Decreasing,Global
+2913541,39378,Galeocerdo cuvier,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Galeocerdo,cuvier,,,,"(Péron &amp; Lesueur, 1822)",Near Threatened,A2bd+3d,3.1,Decreasing,Global
+2915472,39380,Negaprion brevirostris,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Negaprion,brevirostris,,,,"(Poey, 1868)",Vulnerable,A2bcd,3.1,Decreasing,Global
+2915850,39381,Prionace glauca,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Prionace,glauca,,,,"(Linnaeus, 1758)",Near Threatened,A2bd,3.1,Decreasing,Global
+2918526,39385,Sphyrna lewini,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,lewini,,,,"(Griffith &amp; Smith, 1834)",Critically Endangered,A2bd,3.1,Decreasing,Global
+2920499,39386,Sphyrna mokarran,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,mokarran,,,,"(Rüppell, 1837)",Critically Endangered,A2bd,3.1,Decreasing,Global
+2921825,39388,Sphyrna zygaena,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,zygaena,,,,"(Linnaeus, 1758)",Vulnerable,A2bd,3.1,Decreasing,Global
+2954522,41741,Carcharhinus brachyurus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,brachyurus,,,,"(Günther, 1870)",Vulnerable,A2bd,3.1,Decreasing,Global
+2956075,41801,Echinorhinus brucus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,ECHINORHINIDAE,Echinorhinus,brucus,,,,"(Bonnaterre, 1788)",Endangered,A2bd,3.1,Decreasing,Global
+2956343,41823,Heptranchias perlo,ANIMALIA,CHORDATA,HEXANCHIFORMES,CHONDRICHTHYES,HEXANCHIDAE,Heptranchias,perlo,,,,"(Bonnaterre, 1788)",Near Threatened,A2bd,3.1,Decreasing,Global
+2957982,152781967,Squalus mitsukurii,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,mitsukurii,,,,"Jordan &amp; Snyder, 1903",Endangered,A2d,3.1,Decreasing,Global
+2997866,44597,Sympterygia bonapartii,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Sympterygia,bonapartii,,,,"Müller &amp; Henle, 1841",Near Threatened,A2bd,3.1,Decreasing,Global
+3091753,60201,Sphyrna media,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,media,,,,"Springer, 1940",Critically Endangered,A2bcd,3.1,Decreasing,Global
+3095898,60225,Isurus paucus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,LAMNIDAE,Isurus,paucus,,,,"Guitart, 1966",Endangered,A2d,3.1,Decreasing,Global
+3111662,6229,Dalatias licha,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,DALATIIDAE,Dalatias,licha,,,,"(Bonnaterre, 1788)",Vulnerable,A2bd+3d,3.1,Decreasing,Global
+3117894,63107,Callorhinchus callorynchus,ANIMALIA,CHORDATA,CHIMAERIFORMES,CHONDRICHTHYES,CALLORHINCHIDAE,Callorhinchus,callorynchus,,,,"(Linnaeus, 1758)",Vulnerable,A2d,3.1,Decreasing,Global
+3119790,63116,Dipturus trachydermus,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,trachydermus,,,,"(Krefft &amp; Stehmann, 1975)",Endangered,A2bd,3.1,Decreasing,Global
+3121878,63144,Bathyraja multispinis,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,multispinis,,,,"(Norman, 1937)",Near Threatened,A2bd,3.1,Decreasing,Global
+3147213,8813,Galaxias postvectis,ANIMALIA,CHORDATA,OSMERIFORMES,ACTINOPTERYGII,GALAXIIDAE,Galaxias,postvectis,,,,"Clarke, 1899",Endangered,"A2bc; B2ab(iii,v)",3.1,Decreasing,Global
+3147272,8817,Galaxias argenteus,ANIMALIA,CHORDATA,OSMERIFORMES,ACTINOPTERYGII,GALAXIIDAE,Galaxias,argenteus,,,,"(Gmelin, 1789)",Vulnerable,A4ac,3.1,Decreasing,Global
+3273817,11369,Laticauda crockeri,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Laticauda,crockeri,,,,"Slevin, 1934",Vulnerable,D2,3.1,Unknown,Global
+3292503,11534,Lepidochelys olivacea,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,CHELONIIDAE,Lepidochelys,olivacea,,,,"(Eschscholtz, 1829)",Vulnerable,A2bd,3.1,Decreasing,Global
+4594926,154639,Gobiesox canidens,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Gobiesox,canidens,,,,"(Briggs, 1951)",Vulnerable,D2,3.1,Unknown,Global
+4610380,154700,Enneapterygius namarrgon,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Enneapterygius,namarrgon,,,,"Fricke, 1997",Endangered,B1ab(iii),3.1,Unknown,Global
+4622426,154738,Callionymus comptus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CALLIONYMIDAE,Callionymus,comptus,,,,"Randall, 1999",Vulnerable,B1ab(iii),3.1,Unknown,Global
+4628251,154763,Axoclinus multicinctus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Axoclinus,multicinctus,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+4632618,154783,Artedielloides auriculatus,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,COTTIDAE,Artedielloides,auriculatus,,,,"Soldatov, 1922",Near Threatened,,3.1,Unknown,Global
+4676936,154957,Hypsoblennius striatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Hypsoblennius,striatus,,,,"(Steindachner, 1876)",Near Threatened,,3.1,Unknown,Global
+4683552,154986,Paraclinus magdalenae,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRISOMIDAE,Paraclinus,magdalenae,,,,"Rosenblatt &amp; Parr, 1969",Endangered,B1ab(iii),3.1,Stable,Global
+6083175,165658,Prognathodes carlhubbsi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAETODONTIDAE,Prognathodes,carlhubbsi,,,,"Nalbant, 1995",Near Threatened,,3.1,Stable,Global
+6098323,165712,Chaetodon trifascialis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAETODONTIDAE,Chaetodon,trifascialis,,,,"Quoy &amp; Gaimard, 1825",Near Threatened,,3.1,Decreasing,Global
+6100594,165717,Chaetodon rainfordi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAETODONTIDAE,Chaetodon,rainfordi,,,,"McCulloch, 1923",Near Threatened,,3.1,Decreasing,Global
+6141860,165823,Centropyge nahackyi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POMACANTHIDAE,Centropyge,nahackyi,,,,"Kosaki, 1989",Near Threatened,,3.1,Stable,Global
+6144988,165836,Holacanthus limbaughi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POMACANTHIDAE,Holacanthus,limbaughi,,,,"Baldwin, 1963",Near Threatened,,3.1,Stable,Global
+6151012,165861,Holacanthus clarionensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POMACANTHIDAE,Holacanthus,clarionensis,,,,"Gilbert, 1890",Vulnerable,D2,3.1,Stable,Global
+6614160,169376,Poeciliopsis elongata,ANIMALIA,CHORDATA,CYPRINODONTIFORMES,ACTINOPTERYGII,POECILIIDAE,Poeciliopsis,elongata,,,,(Günther 1866),Near Threatened,,3.1,Unknown,Global
+6666175,169676,Chaetodontoplus vanderloosi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POMACANTHIDAE,Chaetodontoplus,vanderloosi,,,,"Allen &amp; Steene, 2004",Endangered,B1ab(v)+2ab(v),3.1,Decreasing,Global
+7182421,17604,Plectranthias chungchowensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,ANTHIADIDAE,Plectranthias,chungchowensis,,,,"Shen &amp; Lin, 1984",Vulnerable,D2,2.3,,Global
+7288420,176712,Hydrophis pacificus,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Hydrophis,pacificus,,,,"Boulenger, 1896",Near Threatened,,3.1,Decreasing,Global
+7290432,176721,Laticauda semifasciata,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Laticauda,semifasciata,,,,"(Reinwardt in Schlegel, 1837)",Near Threatened,,3.1,Unknown,Global
+7293312,176736,Laticauda frontalis,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Laticauda,frontalis,,,,"(De Vis, 1905)",Near Threatened,,3.1,Unknown,Global
+7294503,176739,Laticauda guineai,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Laticauda,guineai,,,,"Heatwole, Busack &amp; Cogger, 2005",Near Threatened,,3.1,Unknown,Global
+7294814,176740,Laticauda schistorhynchus,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Laticauda,schistorhynchus,,,,"(Günther, 1874)",Vulnerable,B1ab(iii); D2,3.1,Unknown,Global
+7299535,176763,Aipysurus fuscus,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,ELAPIDAE,Aipysurus,fuscus,,,,"(Tschudi, 1837)",Endangered,"A2ac; B2ab(iii,v)",3.1,Decreasing,Global
+7644580,180123,Ecsenius kurti,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ecsenius,kurti,,,,"Springer, 1988",Vulnerable,D2,3.1,Unknown,Global
+7645307,180133,Paradiancistrus cuyoensis,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,DINEMATICHTHYIDAE,Paradiancistrus,cuyoensis,,,,"Schwarzhans, Møller &amp; Nielsen, 2005",Vulnerable,D2,3.1,Unknown,Global
+7645929,180142,Zebrias lucapensis,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,SOLEIDAE,Zebrias,lucapensis,,,,"Seigel &amp; Adamson, 1985",Vulnerable,D,3.1,Unknown,Global
+7668262,181328,Pangasius krempfi,ANIMALIA,CHORDATA,SILURIFORMES,ACTINOPTERYGII,PANGASIIDAE,Pangasius,krempfi,,,,"Fang &amp; Chaux, 1949",Vulnerable,A2d,3.1,Decreasing,Global
+8083258,183265,Tomicodon vermiculatus,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Tomicodon,vermiculatus,,,,"Briggs, 1955",Vulnerable,D2,3.1,Unknown,Global
+8083578,183267,Leuresthes sardina,ANIMALIA,CHORDATA,ATHERINIFORMES,ACTINOPTERYGII,ATHERINOPSIDAE,Leuresthes,sardina,,,,"(Jenkins &amp; Evermann, 1889)",Near Threatened,,3.1,Decreasing,Global
+8086729,183284,Daector schmitti,ANIMALIA,CHORDATA,BATRACHOIDIFORMES,ACTINOPTERYGII,BATRACHOIDIDAE,Daector,schmitti,,,,"Collette, 1968",Vulnerable,B2ab(iii); D2,3.1,Unknown,Global
+8099025,183357,Colpichthys regis,ANIMALIA,CHORDATA,ATHERINIFORMES,ACTINOPTERYGII,ATHERINOPSIDAE,Colpichthys,regis,,,," (Jenkins &amp; Evermann, 1889)",Near Threatened,,3.1,Unknown,Global
+8099346,183359,Tomicodon absitus,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Tomicodon,absitus,,,,"Briggs, 1955",Vulnerable,D2,3.1,Unknown,Global
+8101797,183373,Hypsoblennius proteus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Hypsoblennius,proteus,,,,"(Krejsa, 1960)",Vulnerable,D2,3.1,Unknown,Global
+8105636,183393,Gillellus chathamensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,DACTYLOSCOPIDAE,Gillellus,chathamensis,,,,"Dawson, 1977",Vulnerable,D2,3.1,Unknown,Global
+8110954,183422,Prionotus teaguei,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,TRIGLIDAE,Prionotus,teaguei,,,,"Briggs, 1956",Vulnerable,"B1ab(iii,v)",3.1,Unknown,Global
+8111778,183427,Lepidonectes bimaculatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Lepidonectes,bimaculatus,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+8112889,183433,Halichoeres salmofasciatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Halichoeres,salmofasciatus,,,,"Allen &amp; Robertson, 2002",Vulnerable,D2,3.1,Unknown,Global
+8116697,183457,Colpichthys hubbsi,ANIMALIA,CHORDATA,ATHERINIFORMES,ACTINOPTERYGII,ATHERINOPSIDAE,Colpichthys,hubbsi,,,,"Crabtree, 1989",Endangered,"B1ab(i,ii,iii)",3.1,Unknown,Global
+8119480,183473,Thalassoma virens,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Thalassoma,virens,,,,"Gilbert, 1890",Vulnerable,D2,3.1,Unknown,Global
+8122940,183493,Tomicodon bidens,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Tomicodon,bidens,,,,"Briggs, 1969",Vulnerable,B1ab(iii); D2,3.1,Unknown,Global
+8126101,183513,Paraclinus fehlmanni,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRISOMIDAE,Paraclinus,fehlmanni,,,,"Springer &amp; Trist, 1969",Vulnerable,D2,3.1,Unknown,Global
+8127170,183519,Halichoeres malpelo,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Halichoeres,malpelo,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+8128490,183525,Acanthemblemaria mangognatha,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Acanthemblemaria,mangognatha,,,,"Hastings &amp; Robertson, 1999",Vulnerable,D2,3.1,Unknown,Global
+8130056,183533,Batrachoides boulengeri,ANIMALIA,CHORDATA,BATRACHOIDIFORMES,ACTINOPTERYGII,BATRACHOIDIDAE,Batrachoides,boulengeri,,,,"Gilbert &amp; Starks, 1904",Vulnerable,B1ab(iii),3.1,Unknown,Global
+8130400,183535,Mccoskerichthys sandae,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Mccoskerichthys,sandae,,,,"Rosenblatt &amp; Stephens, 1978",Near Threatened,,3.1,Unknown,Global
+8136178,183567,Stegastes redemptus,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Stegastes,redemptus,,,,"(Heller &amp; Snodgrass, 1903)",Vulnerable,D2,3.1,Unknown,Global
+8139248,183582,Halichoeres discolor,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Halichoeres,discolor,,,,"Bussing, 1983",Vulnerable,D2,3.1,Unknown,Global
+8139402,183583,Acanthemblemaria atrata,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Acanthemblemaria,atrata,,,,"Hastings &amp; Robertson, 1999",Vulnerable,D2,3.1,Unknown,Global
+8144526,183612,Axoclinus rubinoffi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Axoclinus,rubinoffi,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+8146180,183621,Rypticus courtenayi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SERRANIDAE,Rypticus,courtenayi,,,,McCarthy 1979,Vulnerable,D2,3.1,Unknown,Global
+8146890,183625,Halichoeres insularis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Halichoeres,insularis,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+8151020,183647,Ogilbia cocoensis,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,BYTHITIDAE,Ogilbia,cocoensis,,,,"Møller, Schwarzhans &amp; Nielsen, 2005",Vulnerable,D2,3.1,Unknown,Global
+8153285,183659,Cratinus agassizii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SERRANIDAE,Cratinus,agassizii,,,,Steindachner 1878,Near Threatened,,3.1,Unknown,Global
+8159991,183694,Platygillellus bussingi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,DACTYLOSCOPIDAE,Platygillellus,bussingi,,,,"Dawson, 1974",Near Threatened,,3.1,Unknown,Global
+8161529,183705,Platygillellus altivelis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,DACTYLOSCOPIDAE,Platygillellus,altivelis,,,,"Dawson, 1974",Near Threatened,,3.1,Unknown,Global
+8169690,183749,Myripristis gildi,ANIMALIA,CHORDATA,BERYCIFORMES,ACTINOPTERYGII,HOLOCENTRIDAE,Myripristis,gildi,,,,"Greenfield, 1965",Vulnerable,D2,3.1,Unknown,Global
+8174095,183771,Halichoeres adustus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Halichoeres,adustus,,,,"(Gilbert, 1890)",Vulnerable,D2,3.1,Unknown,Global
+8174674,183774,Azurina hirundo,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Azurina,hirundo,,,,"Jordan &amp; McGregor, 1898",Near Threatened,,3.1,Unknown,Global
+8183733,183826,Paraletharchus opercularis,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,OPHICHTHIDAE,Paraletharchus,opercularis,,,,"(Myers &amp; Wade, 1941)",Vulnerable,D2,3.1,Unknown,Global
+8188656,183852,Serranus socorroensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SERRANIDAE,Serranus,socorroensis,,,,"Allen &amp; Robertson, 1992",Vulnerable,D2,3.1,Unknown,Global
+8189147,183855,Axoclinus cocoensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,TRIPTERYGIIDAE,Axoclinus,cocoensis,,,,"Bussing, 1991",Vulnerable,D2,3.1,Unknown,Global
+8189509,183857,Daector reticulata,ANIMALIA,CHORDATA,BATRACHOIDIFORMES,ACTINOPTERYGII,BATRACHOIDIDAE,Daector,reticulata,,,,"(Günther, 1864)",Vulnerable,B1ab(iii),3.1,Unknown,Global
+8193714,183880,Gobiesox woodsi,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Gobiesox,woodsi,,,,"(Schultz, 1944)",Vulnerable,D2,3.1,Unknown,Global
+8196215,183896,Paraclinus walkeri,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRISOMIDAE,Paraclinus,walkeri,,,,"Hubbs, 1952",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+8203401,183939,Notarius cookei,ANIMALIA,CHORDATA,SILURIFORMES,ACTINOPTERYGII,ARIIDAE,Notarius,cookei,,,,"(Acero P. &amp; Betancur-R., 2002)",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+8207094,183962,Pisodonophis daspilotus,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,OPHICHTHIDAE,Pisodonophis,daspilotus,,,,"Gilbert, 1898",Near Threatened,,3.1,Unknown,Global
+8207287,183963,Stegastes leucorus,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Stegastes,leucorus,,,,"(Gilbert, 1892)",Vulnerable,D2,3.1,Unknown,Global
+8208246,183968,Acanthemblemaria stephensi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Acanthemblemaria,stephensi,,,,"Rosenblatt &amp; McCosker, 1988",Vulnerable,B1ab(iii); D2,3.1,Unknown,Global
+8214213,184001,Labrisomus socorroensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRISOMIDAE,Labrisomus,socorroensis,,,,"Hubbs, 1953",Vulnerable,D2,3.1,Unknown,Global
+8223759,184028,Gobiesox aethus,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Gobiesox,aethus,,,,"(Briggs, 1951)",Vulnerable,D2,3.1,Unknown,Global
+8224946,184030,Tomicodon abuelorum,ANIMALIA,CHORDATA,GOBIESOCIFORMES,ACTINOPTERYGII,GOBIESOCIDAE,Tomicodon,abuelorum,,,,"Szelistowski, 1990",Endangered,"B1ab(i,iii)",3.1,Decreasing,Global
+8522703,187392,Coris bulbifrons,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Coris,bulbifrons,,,,"Randall &amp; Kuiter, 1982",Vulnerable,"B2ab(ii,v)",3.1,Decreasing,Global
+8553413,187506,Bodianus frenchii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Bodianus,frenchii,,,,"(Klunzinger, 1879)",Near Threatened,,3.1,Decreasing,Global
+8572139,187572,Achoerodus viridis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Achoerodus,viridis,,,,"(Steindachner, 1866)",Near Threatened,,3.1,Stable,Global
+8992245,196016,Eptatretus burgeri,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Eptatretus,burgeri,,,,"(Girard, 1855)",Near Threatened,,3.1,Decreasing,Global
+8999221,196056,Myxine garmani,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Myxine,garmani,,,,"Jordan &amp; Snyder, 1901",Vulnerable,A2bd,3.1,Decreasing,Global
+8999766,196066,Myxine paucidens,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Myxine,paucidens,,,,"Regan, 1913",Endangered,B1ab(ii),3.1,Unknown,Global
+9144801,20085,Sebastes paucispinis,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,SEBASTIDAE,Sebastes,paucispinis,,,,"Ayres, 1854",Critically Endangered,A1abd+2d,2.3,,Global
+9230697,20795,Stereolepis gigas,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POLYPRIONIDAE,Stereolepis,gigas,,,,"Ayres, 1859",Critically Endangered,A1bd,3.1,Unknown,Global
+10933431,44669,Choerodon schoenleinii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Choerodon,schoenleinii,,,,"(Valenciennes, 1839)",Near Threatened,,3.1,Unknown,Global
+11023949,4592,Cheilinus undulatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Cheilinus,undulatus,,,,"Rüppell, 1835",Endangered,A2bd+3bd,3.1,Decreasing,Global
+11087017,46863,Atherinomorus lineatus,ANIMALIA,CHORDATA,ATHERINIFORMES,ACTINOPTERYGII,ATHERINIDAE,Atherinomorus,lineatus,,,,"(Günther, 1872)",Vulnerable,D2,2.3,,Global
+12462795,61333,Parahucho perryi,ANIMALIA,CHORDATA,SALMONIFORMES,ACTINOPTERYGII,SALMONIDAE,Parahucho,perryi,,,,"(Brevoort, 1856)",Critically Endangered,A4abcd,3.1,Decreasing,Global
+12464899,61340,Semicossyphus pulcher,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Semicossyphus,pulcher,,,,"(Ayres, 1854)",Vulnerable,A2bd,3.1,Decreasing,Global
+12881238,8005,Eretmochelys imbricata,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,CHELONIIDAE,Eretmochelys,imbricata,,,,"(Linnaeus, 1766)",Critically Endangered,A2bd,3.1,Decreasing,Global
+14134317,14134315,Dipturus canutus,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,canutus,,,,"Last, 2008",Endangered,A2bd,3.1,Decreasing,Global
+14871490,22823,Ursus maritimus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,URSIDAE,Ursus,maritimus,,,,"Phipps, 1774",Vulnerable,A3c,3.1,Unknown,Global
+16664386,10075,Hippocampus kuda,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,kuda,,,,"Bleeker, 1852",Vulnerable,A2cd+3cd+4cd,3.1,Decreasing,Global
+17252219,10087,Hippocampus trimaculatus,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,trimaculatus,,,,"Leach, 1814",Vulnerable,A2bcd+4bcd,3.1,Decreasing,Global
+17775293,190761,Scarus hypselopterus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Scarus,hypselopterus,,,,"Bleeker, 1853",Near Threatened,,3.1,Unknown,Global
+17796625,190711,Chlorurus bowersi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Chlorurus,bowersi,,,,"(Snyder, 1909)",Near Threatened,,3.1,Unknown,Global
+17894276,63571,Bolbometopon muricatum,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Bolbometopon,muricatum,,,,"(Valenciennes, 1840)",Vulnerable,A2d,3.1,Decreasing,Global
+22516400,161380,Cephaloscyllium sarawakensis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Cephaloscyllium,sarawakensis,,,,"Yano, Ahmad &amp; Gambang, 2005",Critically Endangered,A2d,3.1,Decreasing,Global
+43526147,6494,Dermochelys coriacea,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,DERMOCHELYIDAE,Dermochelys,coriacea,,,,"(Vandelli, 1761)",Vulnerable,A2bd,3.1,Decreasing,Global
+44199757,4162,Cephalorhynchus hectori,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Cephalorhynchus,hectori,,,,"(van Beneden, 1881)",Endangered,A4d,3.1,Decreasing,Global
+45223722,2057,Arctocephalus galapagoensis,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Arctocephalus,galapagoensis,,,,"Heller, 1904",Endangered,A2ab,3.1,Decreasing,Global
+45224953,3590,Callorhinus ursinus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Callorhinus,ursinus,,,,"(Linnaeus, 1758)",Vulnerable,A2b,3.1,Decreasing,Global
+45225749,8239,Eumetopias jubatus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Eumetopias,jubatus,,,,"(Schreber, 1776)",Near Threatened,,3.1,Increasing,Global
+45227978,13654,Neomonachus schauinslandi,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,PHOCIDAE,Neomonachus,schauinslandi,,,,"(Matschie, 1905)",Endangered,C1,3.1,Decreasing,Global
+45228501,15106,Odobenus rosmarus,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,ODOBENIDAE,Odobenus,rosmarus,,,,"(Linnaeus, 1758)",Vulnerable,A3c,3.1,Unknown,Global
+45230540,41668,Zalophus wollebaeki,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,OTARIIDAE,Zalophus,wollebaeki,,,,"Sivertsen, 1953",Endangered,A2ab,3.1,Decreasing,Global
+46235356,183873,Acanthemblemaria castroi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Acanthemblemaria,castroi,,,,"Stephens &amp; Hobson, 1966",Vulnerable,B2ac(iv); D2,3.1,Unknown,Global
+46625751,23148,Xiphias gladius,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,XIPHIIDAE,Xiphias,gladius,,,,"Linnaeus, 1758",Near Threatened,A2bd,3.1,Decreasing,Global
+46647677,170316,Scomberomorus commerson,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Scomberomorus,commerson,,,,"(Lacepède, 1800)",Near Threatened,A2bd,3.1,Decreasing,Global
+46649664,170338,Istiophorus platypterus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,ISTIOPHORIDAE,Istiophorus,platypterus,,,,"(Shaw, 1792)",Vulnerable,A2bd,3.1,Decreasing,Global
+46721312,10088,Hippocampus whitei,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,whitei,,,,"Bleeker, 1855",Endangered,A2bc,3.1,Decreasing,Global
+46912402,21859,Thunnus obesus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Thunnus,obesus,,,,"(Lowe, 1839)",Vulnerable,A2bd,3.1,Decreasing,Global
+46936155,170314,Makaira nigricans,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,ISTIOPHORIDAE,Makaira,nigricans,,,,"Lacepède, 1802",Vulnerable,A2bd,3.1,Decreasing,Global
+48350504,47143176,Emblemariopsis pricei,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHAENOPSIDAE,Emblemariopsis,pricei,,,,"Greenfield, 1975",Vulnerable,B1ab(iii),3.1,Unknown,Global
+48353451,48342284,Omobranchus smithi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Omobranchus,smithi,,,,"(Rao, 1974)",Vulnerable,D2,3.1,Unknown,Global
+48360743,48342282,Parablennius serratolineatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Parablennius,serratolineatus,,,,"Bath &amp; Hutchins, 1986",Vulnerable,D2,3.1,Stable,Global
+48360830,48342534,Entomacrodus chapmani,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Entomacrodus,chapmani,,,,"Springer, 1967",Vulnerable,D2,3.1,Stable,Global
+48361770,48342288,Medusablennius chani,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Medusablennius,chani,,,,"Springer, 1966",Vulnerable,D2,3.1,Unknown,Global
+48367923,48342364,Ecsenius tigris,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ecsenius,tigris,,,,"Springer, 1988",Vulnerable,D2,3.1,Unknown,Global
+48379168,48342108,Omobranchus aurosplendidus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Omobranchus,aurosplendidus,,,,"(Richardson, 1846)",Vulnerable,D2,3.1,Unknown,Global
+48380215,48342178,Dactyloscopus insulatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,DACTYLOSCOPIDAE,Dactyloscopus,insulatus,,,,"Dawson, 1975",Vulnerable,D2,3.1,Unknown,Global
+48395222,48342152,Omobranchus hikkaduwensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Omobranchus,hikkaduwensis,,,,"Bath, 1983",Vulnerable,D2,3.1,Unknown,Global
+48398474,48342328,Ecsenius randalli,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ecsenius,randalli,,,,"Springer, 1991",Vulnerable,D2,3.1,Unknown,Global
+48398755,48342339,Ecsenius tricolor,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ecsenius,tricolor,,,,"Springer &amp; Allen, 2001",Vulnerable,D2,3.1,Unknown,Global
+49227587,49188717,Protonibea diacanthus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Protonibea,diacanthus,,,,"(Lacepède, 1802)",Near Threatened,A2b,3.1,Decreasing,Global
+49234015,49145403,Argyrosomus japonicus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Argyrosomus,japonicus,,,,"(Temminck & Schlegel, 1843)",Endangered,A2bd,3.1,Decreasing,Global
+49239394,49182559,Larimichthys crocea,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Larimichthys,crocea,,,,"(Richardson, 1846)",Critically Endangered,A2bd,3.1,Decreasing,Global
+50349982,2478,Balaenoptera physalus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,physalus,,,,"(Linnaeus, 1758)",Vulnerable,A1d,3.1,Increasing,Global
+50350661,2480,Balaenoptera bonaerensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,bonaerensis,,,,"Burmeister, 1867",Near Threatened,A2b,3.1,Unknown,Global
+50351955,4160,Cephalorhynchus eutropia,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Cephalorhynchus,eutropia,,,,"Gray, 1846",Near Threatened,C1+2a(i),3.1,Decreasing,Global
+50367496,13252,Mesoplodon stejnegeri,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,ZIPHIIDAE,Mesoplodon,stejnegeri,,,,"True, 1885",Near Threatened,A4b,3.1,Decreasing,Global
+50370481,17029,Phocoena spinipinnis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Phocoena,spinipinnis,,,,"Burmeister, 1865",Near Threatened,A3d+4d,3.1,Unknown,Global
+50380694,41711,Eubalaena japonica,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENIDAE,Eubalaena,japonica,,,,"(Lacépède, 1818)",Endangered,D,3.1,Unknown,Global
+50381127,41714,Tursiops aduncus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Tursiops,aduncus,,,,"(Ehrenberg, 1833)",Near Threatened,A4cd,3.1,Unknown,Global
+50381766,41754,Neophocaena asiaeorientalis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Neophocaena,asiaeorientalis,,,,"(Pilleri &amp; Gihr, 1972)",Endangered,A2bcde+3bcde+4bcde,3.1,Decreasing,Global
+50383813,41759,Mesoplodon perrini,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,ZIPHIIDAE,Mesoplodon,perrini,,,,"Dalebout, Mead, Baker, Baker &amp; van Helden, 2002",Endangered,C2a(ii),3.1,Decreasing,Global
+50386795,198920,Neophocaena phocaenoides,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Neophocaena,phocaenoides,,,,"(G. Cuvier, 1829)",Vulnerable,A2cde+3cde+4cde,3.1,Decreasing,Global
+54905206,10070,Hippocampus histrix,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,histrix,,,,"Kaup, 1856",Vulnerable,A2cd+4cd,3.1,Decreasing,Global
+54905720,10072,Hippocampus ingens,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,ingens,,,,"Girard, 1858",Vulnerable,A2cd,3.1,Decreasing,Global
+54906372,107259870,Hippocampus spinosissimus,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,spinosissimus,,,,"Weber, 1913",Vulnerable,A2d,3.1,Decreasing,Global
+54906903,40802,Hippocampus barbouri,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,barbouri,,,,"Jordan &amp; Richardson, 1908",Vulnerable,A2cd,3.1,Decreasing,Global
+54907304,41005,Hippocampus mohnikei,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,mohnikei,,,,"Bleeker, 1853",Vulnerable,A2cd+4cd,3.1,Decreasing,Global
+54908593,41010,Hippocampus kelloggi,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,kelloggi,,,,"Jordan &amp; Snyder, 1901",Vulnerable,A2cd,3.1,Decreasing,Global
+57206002,47137515,Calamus taurinus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SPARIDAE,Calamus,taurinus,,,,"(Jenyns, 1840)",Near Threatened,,3.1,Unknown,Global
+58303674,39375,Carcharhinus melanopterus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,melanopterus,,,,"(Quoy &amp; Gaimard, 1824)",Vulnerable,A2bcd,3.1,Decreasing,Global
+58304073,39389,Anoxypristis cuspidata,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,PRISTIDAE,Anoxypristis,cuspidata,,,,"(Latham, 1794)",Critically Endangered,A2cd,3.1,Decreasing,Global
+58304631,39393,Pristis zijsron,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,PRISTIDAE,Pristis,zijsron,,,,"Bleeker, 1851",Critically Endangered,A2cd,3.1,Decreasing,Global
+58336780,18584848,Pristis pristis,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,PRISTIDAE,Pristis,pristis,,,,"(Linnaeus, 1758)",Critically Endangered,A2cd,3.1,Decreasing,Global
+59034995,59034974,Evynnis cardinalis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SPARIDAE,Evynnis,cardinalis,,,,"(Lacepède, 1802)",Endangered,A2bd,3.1,Decreasing,Global
+67624848,65403327,Microphis pleurostictus,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Microphis,pleurostictus,,,,"(Peters, 1868)",Endangered,B2ab(iii),3.1,Decreasing,Global
+67871570,20437783,Trachurus japonicus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CARANGIDAE,Trachurus,japonicus,,,,"(Temminck &amp; Schlegel, 1844)",Near Threatened,A2bd,3.1,Decreasing,Global
+67871620,20433018,Pseudocaranx chilensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CARANGIDAE,Pseudocaranx,chilensis,,,,"(Guichenot, 1848)",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+68333734,68330723,Gobiodon ceramensis,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,ceramensis,,,,"(Bleeker, 1853)",Near Threatened,A2c,3.1,Unknown,Global
+68333739,68330883,Gobiodon erythrospilus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,erythrospilus,,,,"Bleeker, 1875",Vulnerable,A2c,3.1,Unknown,Global
+68607458,84784918,Aetomylaeus nichofii,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Aetomylaeus,nichofii,,,,"(Bloch &amp; Schneider, 1801)",Vulnerable,A2bd,3.1,Decreasing,Global
+68607857,161597,Alopias pelagicus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,ALOPIIDAE,Alopias,pelagicus,,,,"Nakamura, 1935",Endangered,A2bd,3.1,Decreasing,Global
+68609203,60179,Aptychotrema timorensis,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,TRYGONORRHINIDAE,Aptychotrema,timorensis,,,,"Last, 2004",Vulnerable,B1ab(v),3.1,Unknown,Global
+68610594,39335,Brachaelurus colcloughi,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,BRACHAELURIDAE,Brachaelurus,colcloughi,,,,"Ogilby, 1908",Vulnerable,C2a(ii),3.1,Decreasing,Global
+68611625,40797,Carcharhinus amblyrhynchoides,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,amblyrhynchoides,,,,"(Whitley, 1934)",Vulnerable,A2d,3.1,Decreasing,Global
+68613628,41738,Carcharhinus sealei,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,sealei,,,,"(Pietschmann, 1913)",Vulnerable,A2d,3.1,Decreasing,Global
+68614118,41740,Centrophorus harrissoni,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,harrissoni,,,,"McCulloch, 1915",Endangered,A2bd,3.1,Decreasing,Global
+68615392,41749,Centroscymnus owstonii,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Centroscymnus,owstonii,,,,"Garman, 1906",Vulnerable,A2d,3.1,Unknown,Global
+68615502,46864,Centroselachus crepidater,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Centroselachus,crepidater,,,,(Barbosa du Bocage &amp; de Brito Capello 1864),Near Threatened,A2bd,3.1,Decreasing,Global
+68615830,42706,Cephaloscyllium albipinnum,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Cephaloscyllium,albipinnum,,,,"Last, Motomura &amp; White, 2008",Critically Endangered,A2bd,3.1,Decreasing,Global
+68616530,42707,Cephaloscyllium variegatum,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Cephaloscyllium,variegatum,,,,"Last &amp; White, 2008",Near Threatened,A2bd,3.1,Decreasing,Global
+68617625,60187,Chimaera phantasma,ANIMALIA,CHORDATA,CHIMAERIFORMES,CHONDRICHTHYES,CHIMAERIDAE,Chimaera,phantasma,,,,"Jordan &amp; Snyder, 1900",Vulnerable,A2d,3.1,Decreasing,Global
+68618306,41797,Hemitrygon fluviorum,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,fluviorum,,,,"(Ogilby, 1908)",Near Threatened,A2cd,3.1,Decreasing,Global
+68620350,161637,Dentiraja australis,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dentiraja,australis,,,,"(Macleay, 1884)",Near Threatened,A2bd,3.1,Decreasing,Global
+68620738,195446,Dentiraja endeavouri,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dentiraja,endeavouri,,,,"(Last, 2008)",Near Threatened,A2d,3.1,Decreasing,Global
+68621107,161535,Dipturus gudgeri,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,gudgeri,,,,(Whitley 1940),Near Threatened,,3.1,Unknown,Global
+68623209,41810,Eusphyra blochii,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Eusphyra,blochii,,,,"(Cuvier, 1816)",Endangered,A2d+3d,3.1,Decreasing,Global
+68623995,104061138,Glaucostegus typus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,GLAUCOSTEGIDAE,Glaucostegus,typus,,,,"(Anonymous [Bennett], 1830)",Critically Endangered,A2bd,3.1,Decreasing,Global
+68624151,42712,Glyphis garricki,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Glyphis,garricki,,,,"Compagno, White &amp; Last, 2008",Vulnerable,C1,3.1,Decreasing,Global
+68624306,39379,Glyphis glyphis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Glyphis,glyphis,,,,"(Müller &amp; Henle, 1839)",Vulnerable,C1,3.1,Decreasing,Global
+68626047,152781341,Hexanchus nakamurai,ANIMALIA,CHORDATA,HEXANCHIFORMES,CHONDRICHTHYES,HEXANCHIDAE,Hexanchus,nakamurai,,,,"Teng, 1962",Near Threatened,A2d,3.1,Decreasing,Global
+68634957,60124,Myliobatis hamlyni,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Myliobatis,hamlyni,,,,"Ogilby, 1911",Near Threatened,,3.1,Decreasing,Global
+68636040,60150,Neotrygon annotata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Neotrygon,annotata,,,,"(Last, 1987)",Near Threatened,,3.1,Unknown,Global
+68639645,41840,Oxynotus bruniensis,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,OXYNOTIDAE,Oxynotus,bruniensis,,,,(Ogilby 1893),Near Threatened,A2d,3.1,Unknown,Global
+68641215,39390,Pristis clavata,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,PRISTIDAE,Pristis,clavata,,,,"Garman, 1906",Critically Endangered,A2cd,3.1,Decreasing,Global
+68641556,46865,Scymnodon plunketi,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Scymnodon,plunketi,,,,"(Waite, 1910)",Vulnerable,A2bd,3.1,Decreasing,Global
+68642326,41850,Rhizoprionodon acutus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Rhizoprionodon,acutus,,,,"(Rüppell, 1837)",Vulnerable,A2bd,3.1,Decreasing,Global
+68643043,41853,Rhynchobatus australiae,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,australiae,,,,"Whitley, 1939",Critically Endangered,A2bd,3.1,Decreasing,Global
+68643826,161496,Spiniraja whitleyi,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Spiniraja,whitleyi,,,,"(Iredale, 1938)",Vulnerable,A2bd,3.1,Decreasing,Global
+68644464,161360,Squalus chloroculus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,chloroculus,,,,"Last, White &amp; Motomura, 2007",Endangered,A2bd,3.1,Decreasing,Global
+68644689,158617,Squalus edmundsi,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,edmundsi,,,,"White, Last &amp; Stevens, 2007",Near Threatened,A2d+3d,3.1,Decreasing,Global
+68644862,42727,Squalus grahami,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,grahami,,,,"White, Last &amp; Stevens, 2007",Near Threatened,A2bd,3.1,Decreasing,Global
+68645208,161404,Squalus montalbani,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,montalbani,,,,"Whitley, 1931",Vulnerable,A2bd+3d,3.1,Decreasing,Global
+68645393,42726,Squalus nasutus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,nasutus,,,,"Last, Marshall &amp; White, 2007",Near Threatened,A2d+3d,3.1,Decreasing,Global
+68645549,42729,Squatina albipunctata,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,albipunctata,,,,"Last &amp; White, 2008",Vulnerable,A2bd+3bd+4bd,3.1,Decreasing,Global
+68648424,60085,Trygonoptera testacea,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Trygonoptera,testacea,,,,"Müller &amp; Henle, 1841",Near Threatened,A2d,3.1,Decreasing,Global
+68649040,60088,Urolophus bucculentus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Urolophus,bucculentus,,,,"Macleay, 1884",Vulnerable,A2bd,3.1,Decreasing,Global
+68649607,42730,Urolophus kapalensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Urolophus,kapalensis,,,,"Yearsley &amp; Last, 2006",Near Threatened,A2d,3.1,Decreasing,Global
+68650134,60104,Urolophus sufflavus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Urolophus,sufflavus,,,,"Whitley, 1929",Vulnerable,A2bd,3.1,Decreasing,Global
+68650230,60105,Urolophus viridis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Urolophus,viridis,,,,"McCulloch, 1916",Vulnerable,A2bd,3.1,Decreasing,Global
+69800907,69793068,Caracanthus typicus,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,SCORPAENIDAE,Caracanthus,typicus,,,,"Krøyer, 1845",Near Threatened,,3.1,Unknown,Global
+70010020,69919546,Sebastapistes coniorta,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,SCORPAENIDAE,Sebastapistes,coniorta,,,,"Jenkins, 1903",Near Threatened,,3.1,Unknown,Global
+70680983,70680908,Carcharhinus tjutjot,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,tjutjot,,,,"(Bleeker, 1852)",Vulnerable,A2cd+3cd,3.1,Decreasing,Global
+70688281,70688138,Dentiraja confusa,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dentiraja,confusa,,,,"(Last, 2008)",Critically Endangered,A2bd,3.1,Decreasing,Global
+70709453,41875,Hemiscyllium hallstromi,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,hallstromi,,,,"Whitley, 1967",Vulnerable,B1ab(iii),3.1,Unknown,Global
+75144431,75143569,Harpadon nehereus,ANIMALIA,CHORDATA,AULOPIFORMES,ACTINOPTERYGII,SYNODONTIDAE,Harpadon,nehereus,,,,"(Hamilton, 1822)",Near Threatened,A2d,3.1,Decreasing,Global
+80677563,60152,Hypanus dipterurus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hypanus,dipterurus,,,,"(Jordan &amp; Gilbert, 1880)",Vulnerable,A2d,3.1,Decreasing,Global
+82031671,82031667,Sousa sahulensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Sousa,sahulensis,,,,"Jefferson &amp; Rosenbaum, 2014 ",Vulnerable,C2a(i),3.1,Decreasing,Global
+82304200,82304194,Chrysiptera arnazae,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Chrysiptera,arnazae,,,,"Allen, Erdmann &amp; Barber, 2010",Vulnerable,A2c,3.1,Decreasing,Global
+85698327,48342396,Ophioblennius clippertonensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ophioblennius,clippertonensis,,,,"Springer, 1962",Vulnerable,D2,3.1,Unknown,Global
+85698513,183703,Thalassoma robertsoni,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Thalassoma,robertsoni,,,,"Allen, 1995",Vulnerable,D2,3.1,Stable,Global
+85698736,183739,Xyrichtys wellingtoni,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,LABRIDAE,Xyrichtys,wellingtoni,,,,"Allen &amp; Robertson, 1995",Vulnerable,D2,3.1,Unknown,Global
+85699047,183961,Stegastes baldwini,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Stegastes,baldwini,,,,"Allen &amp; Woods, 1980",Near Threatened,,3.1,Unknown,Global
+85699406,183326,Pseudogramma axelrodi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SERRANIDAE,Pseudogramma,axelrodi,,,,"Allen &amp; Robertson, 1995",Near Threatened,,3.1,Unknown,Global
+97433481,233,Acipenser medirostris,ANIMALIA,CHORDATA,ACIPENSERIFORMES,ACTINOPTERYGII,ACIPENSERIDAE,Acipenser,medirostris,,,,"Ayres, 1854",Endangered,A2bc,3.1,Unknown,Global
+97440736,234,Acipenser transmontanus,ANIMALIA,CHORDATA,ACIPENSERIFORMES,ACTINOPTERYGII,ACIPENSERIDAE,Acipenser,transmontanus,,,,"Richardson, 1836",Vulnerable,A2bc,3.1,Stable,Global
+97662794,193736,Balistes capriscus,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,BALISTIDAE,Balistes,capriscus,,,,"Gmelin, 1789",Vulnerable,A2bd,3.1,Decreasing,Global
+97667070,190422,Mola mola,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,MOLIDAE,Mola,mola,,,,"(Linnaeus, 1758)",Vulnerable,A4bd,3.1,Decreasing,Global
+100459934,43974,Epinephelus akaara,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Epinephelus,akaara,,,,"(Temminck &amp; Schlegel, 1842)",Endangered,A2d,3.1,Decreasing,Global
+100465433,61337,Epinephelus daemelii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Epinephelus,daemelii,,,,"(Günther, 1876)",Near Threatened,,3.1,Unknown,Global
+100466315,14049,Mycteroperca jordani,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Mycteroperca,jordani,,,,"(Jenkins &amp; Evermann, 1889)",Endangered,A2bd,3.1,Decreasing,Global
+100468078,44673,Epinephelus fuscoguttatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Epinephelus,fuscoguttatus,,,,"(Forsskål, 1775)",Vulnerable,A2bd+4bd,3.1,Decreasing,Global
+100553967,61339,Epinephelus polyphekadion,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Epinephelus,polyphekadion,,,,"(Bleeker, 1849)",Vulnerable,A2bd,3.1,Decreasing,Global
+100569342,132730,Hyporthodus acanthistius,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Hyporthodus,acanthistius,,,,"(Gilbert, 1892)",Vulnerable,A2bd,3.1,Decreasing,Global
+100569671,132795,Hyporthodus ergastularius,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Hyporthodus,ergastularius,,,,"(Whitley, 1930)",Near Threatened,A4bd,3.1,Decreasing,Global
+100573599,135381188,Epinephelus bruneus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Epinephelus,bruneus,,,,"Bloch, 1793",Vulnerable,A2bd,3.1,Decreasing,Global
+103933139,103933123,Rhinobatos borneensis,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Rhinobatos,borneensis,,,,"Last, Séret &amp; Naylor, 2016",Endangered,A2d,3.1,Decreasing,Global
+104004394,60171,Pseudobatos productus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,productus,,,,"(Ayres, 1854)",Near Threatened,,3.1,Decreasing,Global
+104006031,104005557,Rhinobatos schlegelii,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Rhinobatos,schlegelii,,,,"Müller &amp; Henle, 1841",Critically Endangered,A2bd,3.1,Decreasing,Global
+104007215,104007203,Rhinobatos whitei,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Rhinobatos,whitei,,,,"Last, Corrigan &amp; Naylor, 2014",Critically Endangered,A2d,3.1,Decreasing,Global
+104020006,104019954,Rhynchobatus immaculatus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,immaculatus,,,,"Last, Ho &amp; Chen, 2013",Critically Endangered,A2bd,3.1,Decreasing,Global
+104021771,104021731,Aetobatus laticeps,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,AETOBATIDAE,Aetobatus,laticeps,,,,"(Gill, 1865)",Vulnerable,A2d,3.1,Decreasing,Global
+104021988,104021947,Aetobatus narutobiei,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,AETOBATIDAE,Aetobatus,narutobiei,,,,"White, Furumitsu &amp; Yamaguchi, 2013",Vulnerable,A2d,3.1,Decreasing,Global
+104072486,104071039,Bathytoshia lata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Bathytoshia,lata,,,,"(Garman, 1880)",Vulnerable,A2d,3.1,Decreasing,Global
+104086760,104085094,Telatrygon zugei,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Telatrygon,zugei,,,,"(Müller &amp; Henle, 1841)",Vulnerable,A2cd,3.1,Decreasing,Global
+104112674,104110247,Hemitrygon longicauda,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,longicauda,,,,"(Last &amp; White, 2013)",Near Threatened,A2d,3.1,Decreasing,Global
+104113935,60148,Hemitrygon akajei,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,akajei,,,,"(Müller &amp; Henle, 1841)",Near Threatened,A2bd,3.1,Decreasing,Global
+104115348,161533,Hemitrygon bennetti,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,bennetti,,,,"(Müller &amp; Henle, 1841)",Vulnerable,A2d,3.1,Decreasing,Global
+104166982,104166970,Neotrygon australiae,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Neotrygon,australiae,,,,"Last, White &amp; Séret, 2016",Near Threatened,A2d,3.1,Decreasing,Global
+104179599,104179262,Brevitrygon heterura,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Brevitrygon,heterura,,,,"(Müller &amp; Henle, 1841)",Vulnerable,A2d,3.1,Decreasing,Global
+104189052,104188627,Maculabatis macrura,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Maculabatis,macrura,,,,"(Bleeker, 1852)",Endangered,A2d,3.1,Decreasing,Global
+104294071,195320,Urogymnus polylepis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Urogymnus,polylepis,,,,"(Bleeker, 1852)",Endangered,A2bcd,3.1,Decreasing,Global
+104306117,104306073,Pastinachus gracilicaudus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pastinachus,gracilicaudus,,,,"Last &amp; Manjaji-Matsumoto, 2010",Endangered,A2d,3.1,Decreasing,Global
+104306271,104306247,Pastinachus stellurostris,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pastinachus,stellurostris,,,,"Last, Fahmi &amp; Naylor, 2010",Critically Endangered,A2cd,3.1,Decreasing,Global
+104679628,104679625,Dibamus bogadeki,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,DIBAMIDAE,Dibamus,bogadeki,,,,"Darevsky, 1992",Endangered,B1ab(iii),3.1,Unknown,Global
+109916824,161728,Brevitrygon imbricata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Brevitrygon,imbricata,,,,"(Bloch &amp; Schneider, 1801)",Vulnerable,A2d,3.1,Decreasing,Global
+112949852,112949827,Orbiraja jensenae,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Orbiraja,jensenae,,,,"(Last &amp; Lim, 2010)",Near Threatened,A2d,3.1,Decreasing,Global
+113148785,161638,Squatina legnota,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,legnota,,,,"Last &amp; White, 2008",Critically Endangered,A2bd,3.1,Decreasing,Global
+115227856,154724,Myripristis clarionensis,ANIMALIA,CHORDATA,BERYCIFORMES,ACTINOPTERYGII,HOLOCENTRIDAE,Myripristis,clarionensis,,,,"Gilbert, 1897",Vulnerable,D2,3.1,Unknown,Global
+115234255,154777,Ophidion fulvum,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,OPHIDIIDAE,Ophidion,fulvum,,,,"(Hildebrand &amp; Barton, 1949)",Near Threatened,,3.1,Unknown,Global
+115250542,154900,Nemipterus virgatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,NEMIPTERIDAE,Nemipterus,virgatus,,,,"(Houttuyn, 1782)",Vulnerable,A2bd,3.1,Decreasing,Global
+115314064,190279,Pomatomus saltatrix,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,POMATOMIDAE,Pomatomus,saltatrix,,,,"(Linnaeus, 1766)",Vulnerable,A2bd,3.1,Decreasing,Global
+115417503,65365349,Cosmocampus balli,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Cosmocampus,balli,,,,"(Fowler, 1925)",Vulnerable,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+115462012,69182988,Parupeneus porphyreus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,MULLIDAE,Parupeneus,porphyreus,,,,"(Jenkins, 1903)",Near Threatened,,3.1,Decreasing,Global
+115470334,69690275,Siganus niger,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SIGANIDAE,Siganus,niger,,,,"Woodland, 1990",Vulnerable,B2ab(iii),3.1,Unknown,Global
+115471770,69738927,Siganus uspi,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SIGANIDAE,Siganus,uspi,,,,"Gawel &amp; Woodland, 1974",Near Threatened,,3.1,Unknown,Global
+115476659,70010721,Oxymonacanthus longirostris,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,MONACANTHIDAE,Oxymonacanthus,longirostris,,,,"(Bloch &amp; Schneider, 1801)",Vulnerable,A3c,3.1,Decreasing,Global
+115696628,115696622,Carcharhinus obsoletus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,obsoletus,,,,"White, Kyne &amp; Harris, 2019",Critically Endangered,A2d; D,3.1,Unknown,Global
+116739828,161717,Scymnodon ringens,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Scymnodon,ringens,,,,"Barbosa du Bocage &amp; de Brito Capello, 1864",Vulnerable,A2bd,3.1,Decreasing,Global
+116831653,44571,Squatina armata,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,armata,,,,"(Philippi, 1887)",Critically Endangered,A2bd+3d,3.1,Decreasing,Global
+116856055,116855963,Telatrygon biasa,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Telatrygon,biasa,,,,"Last, White &amp; Naylor, 2016",Vulnerable,A2d,3.1,Decreasing,Global
+117123341,41861,Squalus rancureli,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,rancureli,,,,"Fourmanoir &amp; Rivaton, 1979",Near Threatened,B1a,3.1,Unknown,Global
+117479864,48342104,Meiacanthus abruptus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Meiacanthus,abruptus,,,,"Smith-Vaniz &amp; Allen, 2011",Vulnerable,B2ab(iii),3.1,Unknown,Global
+119333622,3897,Caretta caretta,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,CHELONIIDAE,Caretta,caretta,,,,"(Linnaeus, 1758)",Vulnerable,A2b,3.1,Decreasing,Global
+123356632,123356310,Centroberyx affinis,ANIMALIA,CHORDATA,BERYCIFORMES,ACTINOPTERYGII,BERYCIDAE,Centroberyx,affinis,,,,"(Günther, 1859)",Vulnerable,A2bd,3.1,Decreasing,Global
+123378802,18383,Prototroctes maraena,ANIMALIA,CHORDATA,OSMERIFORMES,ACTINOPTERYGII,RETROPINNIDAE,Prototroctes,maraena,,,,"Günther, 1864",Vulnerable,"B2b(i,ii,iii,iv,v)c(iv)",3.1,Decreasing,Global
+123424344,123423165,Pezichthys amplispinus,ANIMALIA,CHORDATA,LOPHIIFORMES,ACTINOPTERYGII,BRACHIONICHTHYIDAE,Pezichthys,amplispinus,,,,"Last &amp; Gledhill, 2009",Endangered,"B2ab(iii,v)",3.1,Decreasing,Global
+123424369,123423266,Sympterichthys moultoni,ANIMALIA,CHORDATA,LOPHIIFORMES,ACTINOPTERYGII,BRACHIONICHTHYIDAE,Sympterichthys,moultoni,,,,"Last &amp; Gledhill, 2009",Endangered,"B2ab(iii,v)",3.1,Decreasing,Global
+123494792,123434761,Gobiodon fulvus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,fulvus,,,,"Herre, 1927",Vulnerable,A2c,3.1,Unknown,Global
+123790805,15419,Orcaella brevirostris,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Orcaella,brevirostris,,,,"(Owen in Gray, 1866)",Endangered,A2cd+3cd+4cd,3.1,Decreasing,Global
+123793740,136315,Orcaella heinsohni,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Orcaella,heinsohni,,,,"Beasley, Robertson &amp; Arnold, 2005",Vulnerable,A2cd+3cd+4cd; C2a(i),3.1,Decreasing,Global
+123794774,82031425,Sousa chinensis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Sousa,chinensis,,,,"(Osbeck, 1765)",Vulnerable,A3cd+4cd,3.1,Decreasing,Global
+124398647,169473392,Glyphis gangeticus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Glyphis,gangeticus,,,,"(Müller &amp; Henle, 1839)",Critically Endangered,A2cd; C2a(i),3.1,Decreasing,Global
+124404742,39353,Hemitriakis leucoperiptera,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Hemitriakis,leucoperiptera,,,,"Herre, 1923",Critically Endangered,A2d,3.1,Decreasing,Global
+124406514,39361,Triakis acutipinna,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Triakis,acutipinna,,,,"Kato, 1968",Endangered,B1ab(v); C2a(ii),3.1,Decreasing,Global
+124407121,39367,Carcharhinus borneensis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,borneensis,,,,"(Bleeker, 1858)",Critically Endangered,A2cd,3.1,Decreasing,Global
+124411670,39413,Urogymnus asperrimus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Urogymnus,asperrimus,,,,"(Bloch &amp; Schneider,1801)",Endangered,A2cd,3.1,Decreasing,Global
+124414963,41730,Atelomycterus marmoratus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Atelomycterus,marmoratus,,,,"(Anonymous [Bennett], 1830)",Near Threatened,A2cd,3.1,Decreasing,Global
+124416590,41791,Chiloscyllium indicum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Chiloscyllium,indicum,,,,"(Gmelin, 1789)",Vulnerable,A2d,3.1,Decreasing,Global
+124416752,41792,Chiloscyllium griseum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Chiloscyllium,griseum,,,,"Müller &amp; Henle, 1838",Vulnerable,A2d,3.1,Decreasing,Global
+124418711,41816,Hemigaleus microstoma,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,HEMIGALEIDAE,Hemigaleus,microstoma,,,,"Bleeker, 1852",Vulnerable,A2d,3.1,Decreasing,Global
+124421912,41848,Rhina ancylostomus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhina,ancylostomus,,,,"Bloch &amp; Schneider, 1801",Critically Endangered,A2bd,3.1,Decreasing,Global
+124423551,41872,Chiloscyllium punctatum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Chiloscyllium,punctatum,,,,"Müller &amp; Henle, 1838",Near Threatened,A2d,3.1,Decreasing,Global
+124424011,41874,Hemipristis elongata,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,HEMIGALEIDAE,Hemipristis,elongata,,,,"(Klunzinger, 1871)",Endangered,A2d,3.1,Decreasing,Global
+124424595,41876,Odontaspis ferox,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,ODONTASPIDIDAE,Odontaspis,ferox,,,,"(Risso, 1810)",Endangered,A2d,3.1,Decreasing,Global
+124425292,41878,Stegostoma tigrinum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,STEGOSTOMIDAE,Stegostoma,tigrinum,,,,"Forster, 1781",Endangered,A2bcd,3.1,Decreasing,Global
+124429948,44206,Oxynotus japonicus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,OXYNOTIDAE,Oxynotus,japonicus,,,,"Yano &amp; Murofushi, 1985",Vulnerable,A2d,3.1,Decreasing,Global
+124432959,44567,Centroscyllium granulatum,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,ETMOPTERIDAE,Centroscyllium,granulatum,,,,"Günther, 1887",Vulnerable,A2d,3.1,Decreasing,Global
+124433729,44580,Mustelus dorsalis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,dorsalis,,,,"Gill, 1864",Vulnerable,A2d,3.1,Decreasing,Global
+124433864,44584,Pseudobatos planiceps,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,planiceps,,,,"(Garman, 1880)",Vulnerable,A2d,3.1,Decreasing,Global
+124434064,44591,Sphyrna corona,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,corona,,,,"Springer, 1940",Critically Endangered,A2bcd,3.1,Decreasing,Global
+124434224,44596,Sympterygia brevicaudata,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Sympterygia,brevicaudata,,,,"(Cope, 1877)",Near Threatened,A2d,3.1,Decreasing,Global
+124436667,44647,Urotrygon chilensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,chilensis,,,,"(Günther, 1872)",Near Threatened,A2d,3.1,Decreasing,Global
+124437250,44652,Amblyraja frerichsi,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Amblyraja,frerichsi,,,,"(Krefft, 1968)",Vulnerable,A2cd,3.1,Decreasing,Global
+124437350,44653,Aculeola nigra,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,ETMOPTERIDAE,Aculeola,nigra,,,,"de Buen, 1959",Near Threatened,A2d,3.1,Decreasing,Global
+124438082,60087,Urolophus aurantiacus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROLOPHIDAE,Urolophus,aurantiacus,,,,"Müller &amp; Henle, 1841",Vulnerable,A2d,3.1,Decreasing,Global
+124439689,60113,Gymnura zonura,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,GYMNURIDAE,Gymnura,zonura,,,,"(Bleeker, 1852)",Endangered,A2d,3.1,Decreasing,Global
+124440205,60117,Gymnura poecilura,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,GYMNURIDAE,Gymnura,poecilura,,,,"(Shaw, 1804)",Vulnerable,A2d,3.1,Decreasing,Global
+124440562,169243577,Aetobatus flagellum,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,AETOBATIDAE,Aetobatus,flagellum,,,,"(Bloch &amp; Schneider, 1801)",Endangered,A2d,3.1,Decreasing,Global
+124440727,60120,Aetomylaeus maculatus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Aetomylaeus,maculatus,,,,"(Gray, 1834)",Endangered,A2d,3.1,Decreasing,Global
+124440895,60121,Aetomylaeus vespertilio,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Aetomylaeus,vespertilio,,,,"(Bleeker, 1852)",Critically Endangered,A2cd,3.1,Decreasing,Global
+124441181,60123,Myliobatis chilensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Myliobatis,chilensis,,,,"Philippi, 1892",Vulnerable,A2d,3.1,Decreasing,Global
+124441508,60125,Myliobatis longirostris,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Myliobatis,longirostris,,,,"Applegate &amp; Fitch, 1964",Vulnerable,A2d,3.1,Decreasing,Global
+124441708,60126,Myliobatis peruvianus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Myliobatis,peruvianus,,,,"Garman, 1913",Vulnerable,A2d,3.1,Decreasing,Global
+124442197,60129,Rhinoptera javanica,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,RHINOPTERIDAE,Rhinoptera,javanica,,,,"Müller &amp; Henle, 1841",Endangered,A2cd,3.1,Decreasing,Global
+124442442,60130,Rhinoptera steindachneri,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,RHINOPTERIDAE,Rhinoptera,steindachneri,,,,"Evermann &amp; Jenkins, 1891",Near Threatened,A2d,3.1,Decreasing,Global
+124444795,60147,Telatrygon acutirostra,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Telatrygon,acutirostra,,,,"(Nishida &amp; Nakaya, 1988)",Vulnerable,A2d,3.1,Decreasing,Global
+124445088,60155,Hemitrygon izuensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,izuensis,,,,"(Nishida &amp; Nakaya, 1988)",Vulnerable,A2d,3.1,Decreasing,Global
+124445324,60157,Hypanus longus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hypanus,longus,,,,"(Garman, 1880)",Vulnerable,A2d,3.1,Decreasing,Global
+124445924,60162,Taeniurops meyeni,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Taeniurops,meyeni,,,,"(Müller &amp; Henle, 1841)",Vulnerable,A2cd,3.1,Decreasing,Global
+124446775,60167,Rhinobatos hynnicephalus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Rhinobatos,hynnicephalus,,,,"Richardson, 1846",Endangered,A2cd,3.1,Decreasing,Global
+124446908,60168,Pseudobatos leucorhynchus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,leucorhynchus,,,,"(Günther, 1867)",Vulnerable,A2d,3.1,Decreasing,Global
+124448370,60178,Zapteryx xyster,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,TRYGONORRHINIDAE,Zapteryx,xyster,,,,"Jordan &amp; Evermann, 1896",Vulnerable,A2d,3.1,Decreasing,Global
+124448942,60182,Rhynchobatus springeri,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,springeri,,,,"Compagno &amp; Last, 2010",Critically Endangered,A2bd,3.1,Decreasing,Global
+124450319,60194,Hydrolagus mitsukurii,ANIMALIA,CHORDATA,CHIMAERIFORMES,CHONDRICHTHYES,CHIMAERIDAE,Hydrolagus,mitsukurii,,,,"(Jordan &amp; Snyder, 1904)",Near Threatened,A2d,3.1,Decreasing,Global
+124450455,130420951,Chimaera ogilbyi,ANIMALIA,CHORDATA,CHIMAERIFORMES,CHONDRICHTHYES,CHIMAERIDAE,Chimaera,ogilbyi,,,,"Waite, 1898",Near Threatened,A2bd,3.1,Decreasing,Global
+124452245,60208,Centrophorus tessellatus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,tessellatus,,,,"Garman, 1906",Endangered,A2d,3.1,Decreasing,Global
+124453319,124554059,Chiloscyllium plagiosum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Chiloscyllium,plagiosum,,,,"(Anonymous [Bennett], 1830)",Near Threatened,A2d,3.1,Decreasing,Global
+124456465,61400,Bythaelurus canescens,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,PENTANCHIDAE,Bythaelurus,canescens,,,,"(Günther, 1878)",Vulnerable,A2cd,3.1,Decreasing,Global
+124456946,61406,Narcine brevilabiata,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,brevilabiata,,,,"Bessednov, 1966",Vulnerable,A2d,3.1,Decreasing,Global
+124458655,63102,Bathyraja albomaculata,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,albomaculata,,,,"(Norman, 1937)",Vulnerable,A2bd,3.1,Decreasing,Global
+124459226,63113,Bathyraja griseocauda,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,griseocauda,,,,"(Norman, 1937)",Endangered,A2bd,3.1,Decreasing,Global
+124461599,63129,Mustelus whitneyi,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,whitneyi,,,,"Chirichigno F., 1973",Critically Endangered,A2bd,3.1,Decreasing,Global
+124461743,63130,Triakis maculata,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Triakis,maculata,,,,"Kner &amp; Steindachner, 1867",Critically Endangered,A2bd,3.1,Decreasing,Global
+124462289,63135,Urobatis tumbesensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urobatis,tumbesensis,,,,"(Chirichigno F. &amp; McEachran, 1979)",Vulnerable,A2cd,3.1,Decreasing,Global
+124463476,63154,Narcine leoparda,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,leoparda,,,,"Carvalho, 2001",Vulnerable,A2d,3.1,Decreasing,Global
+124463727,63158,Pseudobatos prahli,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,prahli,,,,"(Acero P. &amp; Franke, 1995)",Vulnerable,A2d,3.1,Decreasing,Global
+124464321,63167,Rhinobatos jimbaranensis,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Rhinobatos,jimbaranensis,,,,"Last, White &amp; Fahmi, 2006",Critically Endangered,A2d,3.1,Decreasing,Global
+124467453,161335,Urotrygon rogersi,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,rogersi,,,,"(Jordan &amp; Starks, 1895)",Near Threatened,A2d,3.1,Decreasing,Global
+124469210,161344,Rostroraja velezi,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Rostroraja,velezi,,,,"(Chirichigno F., 1973)",Vulnerable,A2d,3.1,Decreasing,Global
+124470688,161354,Dipturus tengu,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,tengu,,,,"(Jordan &amp; Fowler, 1903)",Near Threatened,A2d,3.1,Decreasing,Global
+124470861,161355,Nasolamia velox,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Nasolamia,velox,,,,"(Gilbert, 1898)",Endangered,A2cd,3.1,Decreasing,Global
+124471213,161357,Myliobatis tobijei,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MYLIOBATIDAE,Myliobatis,tobijei,,,,"Bleeker, 1854",Vulnerable,A2d,3.1,Decreasing,Global
+124472202,161363,Scymnodon ichiharai,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Scymnodon,ichiharai,,,,"Yano &amp; Tanaka, 1984",Vulnerable,A2d,3.1,Decreasing,Global
+124472961,161368,Hemitriakis complicofasciata,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Hemitriakis,complicofasciata,,,,"Takahashi &amp; Nakaya, 2004",Vulnerable,A2d,3.1,Decreasing,Global
+124476574,161393,Dipturus gigas,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,gigas,,,,"(Ishiyama, 1958)",Near Threatened,A2d,3.1,Decreasing,Global
+124476746,161394,Urotrygon simulatrix,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,simulatrix,,,,"Miyake &amp; McEachran, 1988",Vulnerable,A2d,3.1,Decreasing,Global
+124476903,161395,Triakis scyllium,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Triakis,scyllium,,,,"Müller &amp; Henle, 1839",Endangered,A2d,3.1,Decreasing,Global
+124484009,161431,Urogymnus granulatus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Urogymnus,granulatus,,,,"(Macleay, 1883)",Endangered,A2cd,3.1,Decreasing,Global
+124484752,161433,Squalus japonicus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,japonicus,,,,"Ishikawa, 1908",Endangered,A2d,3.1,Decreasing,Global
+124485434,161438,Squalus brevirostris,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,brevirostris,,,,"Tanaka, 1917",Endangered,A2d,3.1,Decreasing,Global
+124488932,161457,Pseudobatos glaucostigmus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,glaucostigmus,,,,"(Jordan &amp; Gilbert, 1883)",Vulnerable,A2d,3.1,Decreasing,Global
+124490382,161465,Pastinachus solocirostris,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pastinachus,solocirostris,,,,"Last, Manjaji &amp; Yearsley, 2005",Endangered,A2cd,3.1,Decreasing,Global
+124493295,161483,Hongeo koreana,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Hongeo,koreana,,,,"(Jeong &amp; Nakabo, 1997)",Critically Endangered,A2cd,3.1,Decreasing,Global
+124494332,161487,Okamejei meerdervoortii,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,meerdervoortii,,,,"(Bleeker, 1860)",Vulnerable,A2d,3.1,Decreasing,Global
+124497048,161507,Hemitriakis japanica,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Hemitriakis,japanica,,,,"(Müller &amp; Henle, 1839)",Endangered,A2d,3.1,Decreasing,Global
+124499677,161523,Narcine lingula,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,lingula,,,,"Richardson, 1846",Vulnerable,A2d,3.1,Decreasing,Global
+124499982,161526,Carcharhinus albimarginatus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,albimarginatus,,,,"(Rüppell, 1837)",Vulnerable,A2bd,3.1,Decreasing,Global
+124501466,161532,Okamejei hollandi,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,hollandi,,,,"(Jordan &amp; Richardson, 1909)",Vulnerable,A2d,3.1,Decreasing,Global
+124503092,161540,Maculabatis pastinacoides,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Maculabatis,pastinacoides,,,,"(Bleeker, 1852)",Endangered,A2d,3.1,Decreasing,Global
+124503331,161541,Urotrygon reticulata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,reticulata,,,,"Miyake &amp; McEachran, 1988",Critically Endangered,A2d,3.1,Decreasing,Global
+124503842,161543,Paragaleus tengi,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,HEMIGALEIDAE,Paragaleus,tengi,,,,"(Chen, 1963)",Endangered,A2d,3.1,Decreasing,Global
+124504854,161546,Urogymnus lobistoma,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Urogymnus,lobistoma,,,,"(Manjaji-Matsumoto &amp; Last, 2006)",Endangered,A2d,3.1,Decreasing,Global
+124506268,161557,Chiloscyllium hasselti,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Chiloscyllium,hasselti,,,,"Bleeker, 1852",Endangered,A2cd,3.1,Decreasing,Global
+124506650,161560,Narcine maculata,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,maculata,,,,"(Shaw, 1804)",Vulnerable,A2d,3.1,Decreasing,Global
+124509147,161571,Mustelus widodoi,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,widodoi,,,,"White &amp; Last, 2006",Vulnerable,A2d,3.1,Decreasing,Global
+124509549,161575,Rhinoraja longicauda,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Rhinoraja,longicauda,,,,"Ishiyama, 1952",Near Threatened,A2d,3.1,Decreasing,Global
+124509727,161576,Hemitrygon sinensis,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,sinensis,,,,"(Steindachner, 1892)",Endangered,A2cd,3.1,Decreasing,Global
+124511558,169236406,Platyrhina sinensis,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,PLATYRHINIDAE,Platyrhina,sinensis,,,,"(Bloch &amp; Schneider, 1801)",Endangered,A2cd,3.1,Decreasing,Global
+124512513,161598,Pateobatis hortlei,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pateobatis,hortlei,,,,"(Last, Manjaji-Matsumoto &amp; Kailola, 2006)",Near Threatened,A2cd,3.1,Decreasing,Global
+124514068,161607,Narke dipterygia,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARKIDAE,Narke,dipterygia,,,,"(Bloch &amp; Schneider, 1801)",Vulnerable,A2d,3.1,Decreasing,Global
+124514399,161608,Tetronarce formosa,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,TORPEDINIDAE,Tetronarce,formosa,,,,"(Haas &amp; Ebert, 2006)",Near Threatened,A2d,3.1,Decreasing,Global
+124514790,161612,Bathyraja smirnovi,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,smirnovi,,,,"(Soldatov &amp; Pavlenko, 1915)",Near Threatened,A2d,3.1,Decreasing,Global
+124515272,161615,Pateobatis fai,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pateobatis,fai,,,,"(Jordan &amp; Seale, 1906)",Vulnerable,A2cd,3.1,Decreasing,Global
+124516086,161618,Hemitrygon laevigata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,laevigata,,,,"(Chu, 1960)",Vulnerable,A2cd,3.1,Decreasing,Global
+124516589,161621,Himantura undulata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Himantura,undulata,,,,"(Bleeker, 1852)",Endangered,A2d,3.1,Decreasing,Global
+124517235,161624,Benthobatis yangi,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Benthobatis,yangi,,,,"Carvalho, Compagno &amp; Ebert, 2003",Vulnerable,A2d,3.1,Decreasing,Global
+124518082,161630,Gymnura japonica,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,GYMNURIDAE,Gymnura,japonica,,,,"(Temminck &amp; Schlegel, 1850)",Vulnerable,A2d,3.1,Decreasing,Global
+124518703,161633,Mustelus manazo,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,manazo,,,,"Bleeker, 1855",Endangered,A2d,3.1,Decreasing,Global
+124519140,161636,Okamejei acutispina,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,acutispina,,,,"(Ishiyama, 1958)",Vulnerable,A2d,3.1,Decreasing,Global
+124520542,161644,Halaelurus maculosus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,PENTANCHIDAE,Halaelurus,maculosus,,,,"White, Last &amp; Stevens, 2007",Near Threatened,A2d,3.1,Decreasing,Global
+124520681,161645,Okamejei kenojei,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,kenojei,,,,"(Müller &amp; Henle, 1841)",Vulnerable,A2d,3.1,Decreasing,Global
+124524022,161662,Rhizoprionodon longurio,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Rhizoprionodon,longurio,,,,"(Jordan &amp; Gilbert, 1882)",Vulnerable,A2cd,3.1,Decreasing,Global
+124525206,161669,Beringraja pulchra,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Beringraja,pulchra,,,,"(Liu, 1932)",Endangered,A2d,3.1,Decreasing,Global
+124527280,161679,Cirrhoscyllium formosanum,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,PARASCYLLIIDAE,Cirrhoscyllium,formosanum,,,,"Teng, 1959",Vulnerable,A2d,3.1,Decreasing,Global
+124527450,161680,Halaelurus buergeri,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,PENTANCHIDAE,Halaelurus,buergeri,,,,"(Müller &amp; Henle, 1838)",Endangered,A2d,3.1,Decreasing,Global
+124528276,161689,Urotrygon aspidura,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,aspidura,,,,"(Jordan &amp; Gilbert, 1882)",Near Threatened,A2d,3.1,Decreasing,Global
+124528737,201098826,Himantura uarnak,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Himantura,uarnak,,,,"(Gmelin, 1789)",Endangered,A2d,3.1,Decreasing,Global
+124529489,161694,Rostroraja equatorialis,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Rostroraja,equatorialis,,,,"(Jordan &amp; Bollman, 1890)",Vulnerable,A2d,3.1,Decreasing,Global
+124530553,161701,Bathyraja trachouros,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,trachouros,,,,"(Ishiyama, 1958)",Near Threatened,A2d,3.1,Decreasing,Global
+124532728,161715,Mustelus griseus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,griseus,,,,"Pietschmann, 1908",Endangered,A2d,3.1,Decreasing,Global
+124532986,161716,Narcine entemedor,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,entemedor,,,,"Jordan &amp; Starks, 1895",Vulnerable,A2bd,3.1,Decreasing,Global
+124533854,169232956,Cephaloscyllium umbratile,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Cephaloscyllium,umbratile,,,,"Jordan &amp; Fowler, 1903",Near Threatened,A2d,3.1,Decreasing,Global
+124534082,161725,Okamejei schmidti,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,schmidti,,,,"(Ishiyama, 1958)",Vulnerable,A2d,3.1,Decreasing,Global
+124534743,161730,Urotrygon munda,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,munda,,,,"Gill, 1863",Near Threatened,A2d,3.1,Decreasing,Global
+124535240,161733,Proscyllium habereri,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,PROSCYLLIIDAE,Proscyllium,habereri,,,,"Hilgendorf, 1904",Vulnerable,A2d,3.1,Decreasing,Global
+124535644,161735,Okamejei boesemani,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,boesemani,,,,"(Ishihara, 1987)",Vulnerable,A2cd,3.1,Decreasing,Global
+124536099,161738,Dipturus macrocauda,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,macrocauda,,,,"(Ishiyama, 1955)",Near Threatened,A2d,3.1,Decreasing,Global
+124536451,161740,Centroscyllium excelsum,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,ETMOPTERIDAE,Centroscyllium,excelsum,,,,"Shirai &amp; Nakaya, 1990",Near Threatened,A2d,3.1,Decreasing,Global
+124536575,161741,Hemitrygon navarrae,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Hemitrygon,navarrae,,,,"(Steindachner, 1892)",Vulnerable,A2d,3.1,Decreasing,Global
+124536951,161744,Pateobatis jenkinsii,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pateobatis,jenkinsii,,,,"(Annandale, 1909)",Endangered,A2cd,3.1,Decreasing,Global
+124537356,161745,Temera hardwickii,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARKIDAE,Temera,hardwickii,,,,"Gray, 1831",Vulnerable,A2d,3.1,Decreasing,Global
+124537770,161747,Urotrygon nana,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,nana,,,,"Miyake &amp; McEachran, 1988",Near Threatened,A2cd,3.1,Decreasing,Global
+124544792,195455,Maculabatis astra,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Maculabatis,astra,,,,"Last, Manjaji-Matsumoto &amp; Pogonoski, 2008",Near Threatened,A2d,3.1,Decreasing,Global
+124545011,195456,Himantura leoparda,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Himantura,leoparda,,,,"Manjaji-Matsumoto &amp; Last, 2008",Endangered,A2cd,3.1,Decreasing,Global
+124548901,14134429,Gymnura marmorata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,GYMNURIDAE,Gymnura,marmorata,,,,"(Cooper, 1864)",Near Threatened,A2d,3.1,Decreasing,Global
+124549206,14134431,Gymnura crebripunctata,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,GYMNURIDAE,Gymnura,crebripunctata,,,,"(Peters, 1869)",Near Threatened,A2d,3.1,Decreasing,Global
+124549514,42566169,Aetobatus ocellatus,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,AETOBATIDAE,Aetobatus,ocellatus,,,,"(Kuhl, 1823)",Endangered,A2bcd,3.1,Decreasing,Global
+124550583,70682232,Pastinachus ater,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pastinachus,ater,,,,"(Macleay, 1883)",Vulnerable,A2d,3.1,Decreasing,Global
+124551959,91209505,Squalus acanthias,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,acanthias,,,,"Linnaeus, 1758",Vulnerable,A2bd,3.1,Decreasing,Global
+128958172,41008,Hippocampus comes,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,comes,,,,"Cantor, 1849",Vulnerable,A2bd+4bd,3.1,Decreasing,Global
+130105307,61334,Bahaba taipingensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Bahaba,taipingensis,,,,"(Herre, 1932)",Critically Endangered,A2bcd,3.1,Decreasing,Global
+130482064,2475,Balaenoptera borealis,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,borealis,,,,"Lesson, 1828",Endangered,A1abd,3.1,Increasing,Global
+130934237,183682,Cynoscion othonopterus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Cynoscion,othonopterus,,,,"Jordan &amp; Gilbert, 1882",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+131075850,154864,Sciaena callaensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCIAENIDAE,Sciaena,callaensis,,,,"Hildebrand, 1946",Critically Endangered,B1ab(iii),3.1,Unknown,Global
+131879000,22697789,Eudyptes sclateri,ANIMALIA,CHORDATA,SPHENISCIFORMES,AVES,SPHENISCIDAE,Eudyptes,sclateri,,,,"Buller, 1888",Endangered,"A2b; B1ab(ii,v)+2ab(ii,v)",3.1,Decreasing,Global
+132965869,195042,Genypterus blacodes,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,OPHIDIIDAE,Genypterus,blacodes,,,,"(Forster, 1801)",Vulnerable,A2bd,3.1,Decreasing,Global
+134193368,161456,Squatina formosa,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,formosa,,,,"Shen &amp; Ting, 1972",Endangered,A2d,3.1,Decreasing,Global
+134193576,161325,Squatina nebulosa,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,nebulosa,,,,"Regan, 1906",Endangered,A2d,3.1,Decreasing,Global
+134193835,161525,Squatina tergocellatoides,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,tergocellatoides,,,,"Chen, 1963",Endangered,A2d,3.1,Decreasing,Global
+134194013,161558,Squatina japonica,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,japonica,,,,"Bleeker, 1858",Critically Endangered,A2d,3.1,Decreasing,Global
+135059410,167730,Hemipsilichthys papillatus,ANIMALIA,CHORDATA,SILURIFORMES,ACTINOPTERYGII,LORICARIIDAE,Hemipsilichthys,papillatus,,,,"Pereira, Oliveira &amp; Oyakawa, 2000",Near Threatened,B1b(iii),3.1,Stable,Global
+137454811,135447977,Dipulus norfolkanus,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,DINEMATICHTHYIDAE,Dipulus,norfolkanus,,,,"Machida, 1993",Vulnerable,D2,3.1,Unknown,Global
+143832449,187944,Tenualosa toli,ANIMALIA,CHORDATA,CLUPEIFORMES,ACTINOPTERYGII,CLUPEIDAE,Tenualosa,toli,,,,"(Valenciennes, 1847)",Vulnerable,"B2ab(iii,v)",3.1,Decreasing,Global
+143836046,75154879,Sardinella lemuru,ANIMALIA,CHORDATA,CLUPEIFORMES,ACTINOPTERYGII,CLUPEIDAE,Sardinella,lemuru,,,,"Bleeker, 1853",Near Threatened,A2bd,3.1,Decreasing,Global
+143840186,98842673,Tenualosa macrura,ANIMALIA,CHORDATA,CLUPEIFORMES,ACTINOPTERYGII,CLUPEIDAE,Tenualosa,macrura,,,,"(Bleeker, 1852)",Near Threatened,B2ab(iii),3.1,Decreasing,Global
+143840543,98894402,Coilia mystus,ANIMALIA,CHORDATA,CLUPEIFORMES,ACTINOPTERYGII,ENGRAULIDAE,Coilia,mystus,,,,"(Linnaeus, 1758)",Endangered,A2bd,3.1,Decreasing,Global
+143840780,98895427,Coilia nasus,ANIMALIA,CHORDATA,CLUPEIFORMES,ACTINOPTERYGII,ENGRAULIDAE,Coilia,nasus,,,,"Temminck &amp; Schlegel, 1846",Endangered,A2bd,3.1,Decreasing,Global
+144137594,144137478,Carcharhinus cerdale,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,cerdale,,,,"Gilbert, 1898",Critically Endangered,A2bcd,3.1,Decreasing,Global
+144151864,144151831,Ginglymostoma unami,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,GINGLYMOSTOMATIDAE,Ginglymostoma,unami,,,,"Del Moral-Flores, Ramíz-Antonio, Angulo &amp; Pérez-Ponce de León, 2015",Endangered,A2cd,3.1,Decreasing,Global
+144164959,144163683,Styracura pacifica,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,POTAMOTRYGONIDAE,Styracura,pacifica,,,,"(Beebe &amp; Tee-Van, 1941)",Vulnerable,A2cd,3.1,Decreasing,Global
+145084911,141483785,Gobiodon aoyagii,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiodon,aoyagii,,,,"Shibukawa, Suzuki &amp; Aizawa, 2013",Vulnerable,A4c,3.1,Unknown,Global
+145357488,18596,Pseudorca crassidens,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,DELPHINIDAE,Pseudorca,crassidens,,,,"(Owen, 1846)",Near Threatened,A2d,3.1,Unknown,Global
+148037259,18227054,Reinhardtius hippoglossoides,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Reinhardtius,hippoglossoides,,,,"(Walbaum, 1792)",Near Threatened,A4bcd,3.1,Decreasing,Global
+149300955,141482238,Eviota aquila,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eviota,aquila,,,,"Greenfield &amp; Jewett, 2014",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+149859101,141483531,Eviota pamae,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eviota,pamae,,,,"Allen, Brooks &amp; Erdmann, 2013",Vulnerable,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+150423658,141483602,Eviota raja,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eviota,raja,,,,"Allen, 2001",Endangered,B1ab(iii)+2ab(iii),3.1,Unknown,Global
+150898663,14051,Mycteroperca olfax,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Mycteroperca,olfax,,,,"(Jenyns, 1840)",Endangered,A2bd,3.1,Decreasing,Global
+151858712,60181,Rhynchobatus cooki,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,cooki,,,,"Last, Kyne &amp; Compagno, 2016",Critically Endangered,A2bd,3.1,Decreasing,Global
+152588591,22693414,Calidris acuminata,ANIMALIA,CHORDATA,CHARADRIIFORMES,AVES,SCOLOPACIDAE,Calidris,acuminata,,,,"(Horsfield, 1821)",Vulnerable,A2bce+3bce+4bce,3.1,Decreasing,Global
+152684668,22697997,Pterodroma longirostris,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Pterodroma,longirostris,,,,"(Stejneger, 1893)",Vulnerable,D2,3.1,Decreasing,Global
+152719059,22698252,Puffinus huttoni,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Puffinus,huttoni,,,,"Mathews, 1912",Endangered,B2ab(iii),3.1,Stable,Global
+152723568,132467692,Puffinus newelli,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Puffinus,newelli,,,,"Henshaw, 1900",Critically Endangered,A3bce+4bce,3.1,Decreasing,Global
+154440143,22698209,Ardenna grisea,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Ardenna,grisea,,,,"(Gmelin, 1789)",Near Threatened,A2de+3de+4de,3.1,Decreasing,Global
+154801652,195502,Anguilla australis,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,australis,,,,"Richardson, 1841",Near Threatened,,3.1,Unknown,Global
+154802213,197276,Anguilla dieffenbachii,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,dieffenbachii,,,,"Gray, 1842",Endangered,A2bd,3.1,Unknown,Global
+155188651,155187257,Pelecanoides whenuahouensis,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Pelecanoides,whenuahouensis,,,,"Fischer et al., 2018",Critically Endangered,B2ab(iii),3.1,Increasing,Global
+156372027,22698567,Hydrobates hornbyi,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,HYDROBATIDAE,Hydrobates,hornbyi,,,,"(G.R. Gray, 1864)",Near Threatened,B2b(iii),3.1,Decreasing,Global
+156377889,22698543,Hydrobates markhami,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,HYDROBATIDAE,Hydrobates,markhami,,,,"(Salvin, 1883)",Near Threatened,"B2ab(iii,v)",3.1,Decreasing,Global
+156923585,2477,Balaenoptera musculus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,BALAENOPTERIDAE,Balaenoptera,musculus,,,,"(Linnaeus, 1758)",Endangered,A1abd,3.1,Increasing,Global
+157658053,22697752,Aptenodytes forsteri,ANIMALIA,CHORDATA,SPHENISCIFORMES,AVES,SPHENISCIDAE,Aptenodytes,forsteri,,,,"Gray, 1844",Near Threatened,A3c,3.1,Decreasing,Global
+158637941,158624882,Clidoderma asperrimum,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Clidoderma,asperrimum,,,,"(Temminck &amp; Schlegel, 1846)",Vulnerable,A2bd,3.1,Decreasing,Global
+158637956,158625391,Eopsetta grigorjewi,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Eopsetta,grigorjewi,,,,"(Herzenstein, 1890)",Vulnerable,A2bd,3.1,Decreasing,Global
+158638006,158631336,Platichthys bicoloratus,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Platichthys,bicoloratus,,,,"(Basilewsky, 1855)",Vulnerable,A2bcd,3.1,Decreasing,Global
+158638126,158637499,Pseudopleuronectes yokohamae,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Pseudopleuronectes,yokohamae,,,,"(Günther, 1877)",Near Threatened,A2bcd,3.1,Decreasing,Global
+158638131,158637575,Glyptocephalus kitaharae,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Glyptocephalus,kitaharae,,,,"(Jordan &amp; Starks, 1904)",Near Threatened,A2bd,3.1,Decreasing,Global
+158638136,158637880,Verasper moseri,ANIMALIA,CHORDATA,PLEURONECTIFORMES,ACTINOPTERYGII,PLEURONECTIDAE,Verasper,moseri,,,,"Jordan &amp; Gilbert, 1898",Vulnerable,A2bcd,3.1,Decreasing,Global
+158883863,158882810,Sebastes caurinus,ANIMALIA,CHORDATA,SCORPAENIFORMES,ACTINOPTERYGII,SEBASTIDAE,Sebastes,caurinus,,,,"Richardson, 1844",Near Threatened,A1bd,3.1,Increasing,Global
+159404825,159100452,Champsocephalus esox,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,CHANNICHTHYIDAE,Champsocephalus,esox,,,,"(Günther, 1861)",Vulnerable,A2bcde,3.1,Decreasing,Global
+160756767,6909,Dugong dugon,ANIMALIA,CHORDATA,SIRENIA,MAMMALIA,DUGONGIDAE,Dugong,dugon,,,,"(Müller, 1776)",Vulnerable,A2bcd+4bcd,3.1,Decreasing,Global
+160983555,41755,Physeter macrocephalus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHYSETERIDAE,Physeter,macrocephalus,,,,"Linnaeus, 1758",Vulnerable,A1d,3.1,Unknown,Global
+162209852,162209834,Pristiophorus lanae,ANIMALIA,CHORDATA,PRISTIOPHORIFORMES,CHONDRICHTHYES,PRISTIOPHORIDAE,Pristiophorus,lanae,,,,"Ebert &amp; Wilms, 2013",Near Threatened,A2d,3.1,Decreasing,Global
+162870102,162207827,Cephaloscyllium fasciatum,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SCYLIORHINIDAE,Cephaloscyllium,fasciatum,,,,"Chan, 1966",Critically Endangered,A2d,3.1,Decreasing,Global
+169229869,169229426,Squalus formosus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,formosus,,,,White &amp; Iglésias 2011,Endangered,A2d,3.1,Decreasing,Global
+169233911,169233669,Scoliodon macrorhynchos,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Scoliodon,macrorhynchos,,,,"(Bleeker, 1852)",Near Threatened,A2d,3.1,Decreasing,Global
+169234849,169234837,Platyrhina hyugaensis,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,PLATYRHINIDAE,Platyrhina,hyugaensis,,,,"Iwatsuki, Miyamoto &amp; Nakaya, 2011",Vulnerable,A2d,3.1,Decreasing,Global
+169234948,169234885,Platyrhina tangi,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,PLATYRHINIDAE,Platyrhina,tangi,,,,"Iwatsuki, Zhang &amp; Nakaya, 2011",Vulnerable,A2cd,3.1,Decreasing,Global
+169237207,169236848,Dipturus chinensis,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,chinensis,,,,"(Basilewsky, 1855)",Vulnerable,A2cd,3.1,Decreasing,Global
+169766323,169755340,Lamiopsis tephrodes,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Lamiopsis,tephrodes,,,,"(Fowler, 1905)",Endangered,A2d,3.1,Decreasing,Global
+169992506,144162654,Urotrygon cimar,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,UROTRYGONIDAE,Urotrygon,cimar,,,,"López S. &amp; Bussing, 1998",Near Threatened,A2d,3.1,Decreasing,Global
+170082489,20047,Scomberomorus concolor,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Scomberomorus,concolor,,,,"(Lockington, 1879)",Near Threatened,"B2b(i,ii,v)",3.1,Decreasing,Global
+170082633,21858,Thunnus maccoyii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Thunnus,maccoyii,,,,"(Castelnau, 1872)",Endangered,A1bd,3.1,Increasing,Global
+170085723,170318,Rastrelliger brachysoma,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Rastrelliger,brachysoma,,,,"(Bleeker, 1851)",Vulnerable,A2bd,3.1,Decreasing,Global
+170086625,170324,Rastrelliger faughni,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Rastrelliger,faughni,,,,"Matsui, 1967",Vulnerable,A2bd,3.1,Decreasing,Global
+170087840,170341,Thunnus orientalis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Thunnus,orientalis,,,,"(Temminck &amp; Schlegel, 1844)",Near Threatened,A2bd,3.1,Decreasing,Global
+170088828,170346,Scomberomorus sinensis,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Scomberomorus,sinensis,,,,"(Lacepède, 1800)",Near Threatened,A2bd,3.1,Decreasing,Global
+170090130,170356,Scomberomorus niphonius,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SCOMBRIDAE,Scomberomorus,niphonius,,,,"(Cuvier, 1832)",Near Threatened,A2bd,3.1,Decreasing,Global
+173433550,39365,Carcharhinus amblyrhynchos,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,amblyrhynchos,,,,"(Bleeker, 1856)",Endangered,A2bcd,3.1,Decreasing,Global
+173434051,39366,Carcharhinus amboinensis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,amboinensis,,,,"(Müller &amp; Henle, 1839)",Vulnerable,A2d,3.1,Decreasing,Global
+173434501,41737,Carcharhinus macloti,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,macloti,,,,"(Müller &amp; Henle, 1839)",Near Threatened,A2d,3.1,Decreasing,Global
+173434793,161376,Carcharhinus sorrah,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,sorrah,,,,"(Valenciennes in Müller &amp; Henle, 1839)",Near Threatened,A2d,3.1,Decreasing,Global
+173435173,41831,Loxodon macrorhinus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Loxodon,macrorhinus,,,,"Müller &amp; Henle, 1839",Near Threatened,A2d,3.1,Decreasing,Global
+173435545,41836,Negaprion acutidens,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Negaprion,acutidens,,,,"(Rüppell, 1837)",Endangered,A2bd,3.1,Decreasing,Global
+173435874,41851,Rhizoprionodon oligolinx,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Rhizoprionodon,oligolinx,,,,"Springer, 1964",Near Threatened,A2d,3.1,Decreasing,Global
+173436715,39384,Triaenodon obesus,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Triaenodon,obesus,,,,"(Rüppell, 1837)",Vulnerable,A2bcd,3.1,Decreasing,Global
+173437098,41835,Nebrius ferrugineus,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,GINGLYMOSTOMATIDAE,Nebrius,ferrugineus,,,,"(Lesson, 1831)",Vulnerable,A2bcd,3.1,Decreasing,Global
+173437577,161695,Chaenogaleus macrostoma,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,HEMIGALEIDAE,Chaenogaleus,macrostoma,,,,"(Bleeker, 1852)",Vulnerable,A2d,3.1,Decreasing,Global
+173437966,161506,Paragaleus randalli,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,HEMIGALEIDAE,Paragaleus,randalli,,,,"Compagno, Krupp &amp; Carpenter, 1996",Vulnerable,A2d,3.1,Decreasing,Global
+174789028,167006,Takifugu ocellatus,ANIMALIA,CHORDATA,TETRAODONTIFORMES,ACTINOPTERYGII,TETRAODONTIDAE,Takifugu,ocellatus,,,,"(Linnaeus, 1758)",Near Threatened,,3.1,Decreasing,Global
+174796143,191823,Megalops atlanticus,ANIMALIA,CHORDATA,ELOPIFORMES,ACTINOPTERYGII,MEGALOPIDAE,Megalops,atlanticus,,,,"Valenciennes, 1847",Vulnerable,A2bd,3.1,Decreasing,Global
+175219648,161566,Maculabatis gerrardi,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Maculabatis,gerrardi,,,,"(Gray, 1851)",Endangered,A2d,3.1,Decreasing,Global
+175220678,104208524,Pateobatis bleekeri,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pateobatis,bleekeri,,,,"(Blyth, 1860)",Endangered,A2d,3.1,Decreasing,Global
+175221157,161547,Pateobatis uarnacoides,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,DASYATIDAE,Pateobatis,uarnacoides,,,,"(Bleeker, 1852)",Endangered,A2d,3.1,Decreasing,Global
+175221403,195474,Rhinoptera jayakari,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,RHINOPTERIDAE,Rhinoptera,jayakari,,,,"Boulenger, 1895",Endangered,A2cd,3.1,Decreasing,Global
+176486027,176486023,Hemitriakis indroyonoi,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Hemitriakis,indroyonoi,,,,"White, Compagno &amp; Dharmadi, 2009",Endangered,A2d; B2ab(v),3.1,Decreasing,Global
+176486163,176486152,Orectolobus leptolineatus,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,ORECTOLOBIDAE,Orectolobus,leptolineatus,,,,"Last, Pogonoski &amp; White, 2010",Near Threatened,A2d,3.1,Decreasing,Global
+176486211,176486201,Okamejei cairae,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Okamejei,cairae,,,,"Last, Fahmi &amp; Ishihara, 2010",Vulnerable,A2d,3.1,Decreasing,Global
+176493270,166184,Anguilla japonica,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,japonica,,,,"Temminck &amp; Schlegel, 1846",Endangered,A2bcd,3.1,Decreasing,Global
+176494582,166894,Anguilla bicolor,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,bicolor,,,,"McClelland, 1844",Near Threatened,A2bcde,3.1,Unknown,Global
+176496889,198973,Anguilla borneensis,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,borneensis,,,,"Popta, 1924",Vulnerable,A2c+4c,3.1,Unknown,Global
+176497159,18435966,Anguilla luzonensis,ANIMALIA,CHORDATA,ANGUILLIFORMES,ACTINOPTERYGII,ANGUILLIDAE,Anguilla,luzonensis,,,,"Watanabe, Aoyama &amp; Tsukamoto, 2009",Vulnerable,D2,3.1,Unknown,Global
+177163701,39328,Squatina californica,ANIMALIA,CHORDATA,SQUATINIFORMES,CHONDRICHTHYES,SQUATINIDAE,Squatina,californica,,,,"Ayres, 1859",Near Threatened,,3.1,Decreasing,Global
+177552193,1086,Amblyrhynchus cristatus,ANIMALIA,CHORDATA,SQUAMATA,REPTILIA,IGUANIDAE,Amblyrhynchus,cristatus,,,,"Bell, 1825",Vulnerable,A2abce+4abce,3.1,Decreasing,Global
+178201678,161545,Narcine prodorsalis,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,prodorsalis,,,,"Bessednov, 1966",Endangered,A2d,3.1,Decreasing,Global
+178201830,161445,Narcine timlei,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARCINIDAE,Narcine,timlei,,,,"(Bloch &amp; Schneider, 1801)",Vulnerable,A2d,3.1,Decreasing,Global
+178756918,178756893,Berardius minimus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,ZIPHIIDAE,Berardius,minimus,,,,"Yamada, Kitamura &amp; Matsuishi, 2019",Near Threatened,A4b,3.1,Decreasing,Global
+179971538,22698280,Pelecanoides garnotii,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Pelecanoides,garnotii,,,,"(Lesson, 1828)",Near Threatened,B2b(iii),3.1,Increasing,Global
+182279725,22697776,Eudyptes pachyrhynchus,ANIMALIA,CHORDATA,SPHENISCIFORMES,AVES,SPHENISCIDAE,Eudyptes,pachyrhynchus,,,,"Gray, 1845",Near Threatened,A2bce+3bce+4bce; B2b(v),3.1,Decreasing,Global
+182703046,22697800,Megadyptes antipodes,ANIMALIA,CHORDATA,SPHENISCIFORMES,AVES,SPHENISCIDAE,Megadyptes,antipodes,,,,"(Hombron & Jacquinot, 1841)",Endangered,A2ade+4abde,3.1,Decreasing,Global
+182762377,22735250,Eudyptes chrysocome,ANIMALIA,CHORDATA,SPHENISCIFORMES,AVES,SPHENISCIDAE,Eudyptes,chrysocome,,,,"(Forster, 1781)",Vulnerable,A2abcde+3bcde+4abcde,3.1,Decreasing,Global
+183088698,22698001,Pterodroma alba,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,PROCELLARIIDAE,Pterodroma,alba,,,,"(Gmelin, 1789)",Vulnerable,"A2bce; B2ab(ii,iv,v)",3.1,Decreasing,Global
+192479585,64411,Plectropomus areolatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,EPINEPHELIDAE,Plectropomus,areolatus,,,,"(Rüppell, 1830)",Vulnerable,A2bd,3.1,Decreasing,Global
+194720078,4292,Cetorhinus maximus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,CETORHINIDAE,Cetorhinus,maximus,,,,"(Gunnerus, 1765)",Endangered,A2bd,3.1,Decreasing,Global
+196522247,157877009,Pseudobatos buthi,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINOBATIDAE,Pseudobatos,buthi,,,,"Rutledge, 2019",Vulnerable,A2d,3.1,Decreasing,Global
+197258666,197258574,Squalus boretzi,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,boretzi,,,,"Dolganov, 2019",Near Threatened,A2d,3.1,Decreasing,Global
+198884880,199932,Hemiscyllium freycineti,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,freycineti,,,,"(Quoy &amp; Gaimard, 1824)",Near Threatened,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+198885260,195436,Hemiscyllium galei,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,galei,,,,"Allen &amp; Erdmann, 2008",Vulnerable,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+198885632,176486052,Hemiscyllium halmahera,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,halmahera,,,,"Allen, Erdmann &amp; Dudgeon, 2013",Near Threatened,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+198885960,195437,Hemiscyllium henryi,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,henryi,,,,"Allen &amp; Erdmann, 2008",Vulnerable,"B2ab(ii,iii,v)",3.1,Decreasing,Global
+198886371,195438,Hemiscyllium michaeli,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,michaeli,,,,"Allen &amp; Dudgeon, 2010",Vulnerable,"B2ab(ii,iii,v)",3.1,Unknown,Global
+198886746,41819,Hemiscyllium strahani,ANIMALIA,CHORDATA,ORECTOLOBIFORMES,CHONDRICHTHYES,HEMISCYLLIIDAE,Hemiscyllium,strahani,,,,"Whitley, 1967",Vulnerable,"B2ab(ii,iii,v)",3.1,Unknown,Global
+199743048,144159779,Dipturus chilensis,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,RAJIDAE,Dipturus,chilensis,,,,"(Guichenot, 1848)",Endangered,A2bd,3.1,Decreasing,Global
+200320565,63111,Bathyraja brachyurops,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,brachyurops,,,,"(Fowler, 1910)",Near Threatened,A2bd,3.1,Decreasing,Global
+200321617,63117,Bathyraja macloviana,ANIMALIA,CHORDATA,RAJIFORMES,CHONDRICHTHYES,ARHYNCHOBATIDAE,Bathyraja,macloviana,,,,"(Norman, 1937)",Near Threatened,A2bd,3.1,Decreasing,Global
+201629674,201629258,Narke japonica,ANIMALIA,CHORDATA,TORPEDINIFORMES,CHONDRICHTHYES,NARKIDAE,Narke,japonica,,,,"(Temminck &amp; Schlegel, 1850)",Vulnerable,A2cd,3.1,Decreasing,Global
+203720849,63128,Mustelus mento,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,TRIAKIDAE,Mustelus,mento,,,,"Cope, 1877",Critically Endangered,A2bd,3.1,Decreasing,Global
+205765567,39387,Sphyrna tiburo,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,SPHYRNIDAE,Sphyrna,tiburo,,,,"(Linnaeus, 1758)",Endangered,A2bcd,3.1,Decreasing,Global
+205782570,39370,Carcharhinus falciformis,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,falciformis,,,,"(Bibron, 1839)",Vulnerable,A2bd,3.1,Decreasing,Global
+206647387,41747,Centroscymnus coelolepis,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SOMNIOSIDAE,Centroscymnus,coelolepis,,,,"Barbosa du Bocage &amp; de Brito Capello, 1864",Near Threatened,A2bd,3.1,Decreasing,Global
+207283191,60170,Glaucostegus obtusus,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,GLAUCOSTEGIDAE,Glaucostegus,obtusus,,,,"(Müller &amp; Henle, 1841)",Critically Endangered,A2bd,3.1,Decreasing,Global
+207731709,60175,Glaucostegus thouin,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,GLAUCOSTEGIDAE,Glaucostegus,thouin,,,,"(Anonymous [Lacepède], 1798)",Critically Endangered,A2bd,3.1,Decreasing,Global
+210923623,22697742,Fregata andrewsi,ANIMALIA,CHORDATA,SULIFORMES,AVES,FREGATIDAE,Fregata,andrewsi,,,,"Mathews, 1914",Vulnerable,C1+2a(ii),3.1,Decreasing,Global
+211715722,211714426,Squalus shiraii,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,SQUALIDAE,Squalus,shiraii,,,,"Viana &amp; Carvalho, 2020",Vulnerable,A2bd,3.1,Decreasing,Global
+212629880,3855,Carcharodon carcharias,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,LAMNIDAE,Carcharodon,carcharias,,,,"(Linnaeus, 1758)",Vulnerable,A2bd,3.1,Decreasing,Global
+212641186,39339,Alopias vulpinus,ANIMALIA,CHORDATA,LAMNIFORMES,CHONDRICHTHYES,ALOPIIDAE,Alopias,vulpinus,,,,"(Bonnaterre, 1788)",Vulnerable,A2bd,3.1,Decreasing,Global
+213489185,22729604,Thalassarche cauta,ANIMALIA,CHORDATA,PROCELLARIIFORMES,AVES,DIOMEDEIDAE,Thalassarche,cauta,,,,"(Gould, 1841)",Near Threatened,A3ce,3.1,Stable,Global
+214368409,60200,Mobula thurstoni,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,thurstoni,,,,"(Lloyd, 1908)",Endangered,A2bd+3d,3.1,Decreasing,Global
+214371388,60199,Mobula tarapacana,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,tarapacana,,,,"(Philippi, 1892)",Endangered,A2bd+3d,3.1,Decreasing,Global
+214376402,41832,Mobula eregoodoo,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,eregoodoo,,,,"(Cantor, 1849)",Endangered,A2bd+3d,3.1,Decreasing,Global
+214381504,110847130,Mobula mobular,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,mobular,,,,"(Bonnaterre, 1788)",Endangered,A2bd+3d,3.1,Decreasing,Global
+214395983,195459,Mobula alfredi,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,alfredi,,,,"(Krefft, 1868)",Vulnerable,A2bcd+3d,3.1,Decreasing,Global
+214397182,198921,Mobula birostris,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,birostris,,,,"(Walbaum, 1792)",Endangered,A2bcd+3d,3.1,Decreasing,Global
+214405747,161439,Mobula kuhlii,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,kuhlii,,,,"(Müller &amp; Henle, 1841)",Endangered,A2bd+3d,3.1,Decreasing,Global
+214407880,60198,Mobula munkiana,ANIMALIA,CHORDATA,MYLIOBATIFORMES,CHONDRICHTHYES,MOBULIDAE,Mobula,munkiana,,,,"Notarbartolo-di-Sciara, 1987",Vulnerable,A2d+3d,3.1,Decreasing,Global
+214417808,214417427,Rhynchobatus mononoke,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,mononoke,,,,"Koeda, Itou, Yamada &amp; Motomura, 2020",Critically Endangered,A2bd,3.1,Decreasing,Global
+214541137,17028,Phocoena sinus,ANIMALIA,CHORDATA,ARTIODACTYLA,MAMMALIA,PHOCOENIDAE,Phocoena,sinus,,,,"Norris &amp; McFarland, 1958",Critically Endangered,A2a; C1+2a(ii); D; E,3.1,Decreasing,Global
+215395045,12303,Lontra felina,ANIMALIA,CHORDATA,CARNIVORA,MAMMALIA,MUSTELIDAE,Lontra,felina,,,,"(Molina, 1782)",Endangered,A4ce,3.1,Decreasing,Global
+217446244,15184,Ogilbia galapagosensis,ANIMALIA,CHORDATA,OPHIDIIFORMES,ACTINOPTERYGII,BYTHITIDAE,Ogilbia,galapagosensis,,,,"(Poll &amp; LeLeup, 1965)",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+217447046,183395,Brachygenys jessiae,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,HAEMULIDAE,Brachygenys,jessiae,,,,"(Jordan &amp; Bollman, 1890)",Vulnerable,"B2ab(iii,v)c(iv); D2",3.1,Decreasing,Global
+217447911,183690,Xenichthys agassizii,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,HAEMULIDAE,Xenichthys,agassizii,,,,"Steindachner, 1876",Vulnerable,"B2ab(iii,v)c(iv); D2",3.1,Decreasing,Global
+217448475,183769,Paralabrax albomaculatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,SERRANIDAE,Paralabrax,albomaculatus,,,,"(Jenyns, 1840)",Endangered,A2bd,3.1,Decreasing,Global
+217449660,184017,Azurina eupalama,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Azurina,eupalama,,,,"Heller &amp; Snodgrass, 1903",Critically Endangered,C2a(ii),3.1,Decreasing,Global
+220840616,196087,Eptatretus taiwanae,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Eptatretus,taiwanae,,,,"(Shen &amp; Tao, 1975)",Endangered,"B1ab(iii,v)",3.1,Unknown,Global
+220844245,196084,Eptatretus nelsoni,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Eptatretus,nelsoni,,,,"(Kuo, Huang &amp; Mok, 1994)",Vulnerable,B1ab(iii),3.1,Unknown,Global
+220845467,196082,Eptatretus fernholmi,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Eptatretus,fernholmi,,,,"Kuo, Huang &amp; Mok, 1994",Vulnerable,B1ab(iii),3.1,Unknown,Global
+220847576,196080,Eptatretus cheni,ANIMALIA,CHORDATA,MYXINIFORMES,MYXINI,MYXINIDAE,Eptatretus,cheni,,,,"(Shen &amp; Tao, 1975)",Vulnerable,B1ab(iii),3.1,Unknown,Global
+221513674,39369,Carcharhinus hemiodon,ANIMALIA,CHORDATA,CARCHARHINIFORMES,CHONDRICHTHYES,CARCHARHINIDAE,Carcharhinus,hemiodon,,,,"(Valenciennes in Müller &amp; Henle, 1839)",Critically Endangered,C2a(i),3.1,Unknown,Global
+227578157,241,Acipenser mikadoi,ANIMALIA,CHORDATA,ACIPENSERIFORMES,ACTINOPTERYGII,ACIPENSERIDAE,Acipenser,mikadoi,,,,"Hilgendorf, 1892",Critically Endangered,"A2bc; C2a(i,ii)",3.1,Decreasing,Global
+234712764,230027154,Charadrius mongolus,ANIMALIA,CHORDATA,CHARADRIIFORMES,AVES,CHARADRIIDAE,Charadrius,mongolus,,,,"Pallas, 1776",Endangered,A2bce+4bce,3.1,Decreasing,Global
+238328080,183800,Akko rossi,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Akko,rossi,,,,"Van Tassell &amp; Baldwin, 2004",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+238333831,183914,Evermannia erici,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Evermannia,erici,,,,"Bussing, 1983",Endangered,B2ab(iii),3.1,Unknown,Global
+238336371,183748,Gobiosoma homochroma,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gobiosoma,homochroma,,,,"(Ginsburg, 1939)",Near Threatened,"B2ab(iii,v)",3.1,Decreasing,Global
+238341558,154699,Mugilogobius fasciatus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Mugilogobius,fasciatus,,,,"Larson, 2001",Near Threatened,B2ab(iii),3.1,Decreasing,Global
+238996187,68001143,Calumia papuensis,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,ELEOTRIDAE,Calumia,papuensis,,,,"Allen &amp; Erdmann, 2010",Near Threatened,B2ab(iii),3.1,Decreasing,Global
+241132779,241132777,Altrichthys alelia,ANIMALIA,CHORDATA,NOT ASSIGNED,ACTINOPTERYGII,POMACENTRIDAE,Altrichthys,alelia,,,,"Bernardi, Longo &amp; Quiros, 2017",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+241133556,241133554,Pandaka pusilla,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Pandaka,pusilla,,,,"Herre, 1927",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+241147114,241147112,Scartelaos gigas,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Scartelaos,gigas,,,,"Chu &amp; Wu, 1963",Vulnerable,A2bcd,3.1,Decreasing,Global
+241147382,241147380,Periophthalmus spilotus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Periophthalmus,spilotus,,,,"Murdy &amp; Takita, 1999",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+241147460,241147458,Parkraemeria rhinoceros,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Parkraemeria,rhinoceros,,,,"Suzuki &amp; Senou, 2013",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+241147992,241147990,Lethops connectens,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Lethops,connectens,,,,"Hubbs, 1926",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+241148114,241148112,Gillichthys detrusus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Gillichthys,detrusus,,,,"Gilbert &amp; Scofield, 1898",Endangered,"B1ab(i,ii,iii,iv,v)+2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+241148224,241148222,Eugnathogobius stictos,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eugnathogobius,stictos,,,,"Larson, 2009",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+241148234,241148232,Eucyclogobius kristinae,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eucyclogobius,kristinae,,,,"Swift, Spies, Ellingson &amp; Jacobs, 2016",Critically Endangered,"B1ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+241148255,241148253,Egglestonichthys ulbubunitj,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Egglestonichthys,ulbubunitj,,,,"Larson, 2013",Endangered,B1ab(iii)+2ab(iii),3.1,Decreasing,Global
+241148840,241148837,Boleophthalmus pectinirostris,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Boleophthalmus,pectinirostris,,,,"(Linnaeus, 1758)",Vulnerable,A2bcd,3.1,Decreasing,Global
+241149264,241149261,Oxyeleotris siamensis,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,ELEOTRIDAE,Oxyeleotris,siamensis,,,,"(Günther, 1861)",Near Threatened,B2ab(iii),3.1,Decreasing,Global
+241150345,241150343,Ecsenius springeri,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,BLENNIIDAE,Ecsenius,springeri,,,,"Allen, Erdmann &amp; Liu, 2019",Endangered,B1ab(iii)c(i)+2b(iii),3.1,Unknown,Global
+241151043,241151041,Tomiyamia nudicervica,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Tomiyamia,nudicervica,,,,"(Tomiyama, 1934)",Near Threatened,A2d,3.1,Unknown,Global
+241151647,241151645,Bostrychus scalaris,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,ELEOTRIDAE,Bostrychus,scalaris,,,,"Larson, 2008",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+244489836,258684981,Eucyclogobius newberryi,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Eucyclogobius,newberryi,,,,(Girard 1856),Vulnerable,"B2ab(i,ii,iii,iv,v)",3.1,Decreasing,Global
+247654386,4615,Chelonia mydas,ANIMALIA,CHORDATA,TESTUDINES,REPTILIA,CHELONIIDAE,Chelonia,mydas,,,,"(Linnaeus, 1758)",Endangered,A2bd,3.1,Decreasing,Global
+250593104,250584055,Hippocampus haema,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,haema,,,,"Han, Kim, Kai &amp; Senou, 2017",Vulnerable,A2c,3.1,Decreasing,Global
+250593119,250584632,Hippocampus waleananus,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Hippocampus,waleananus,,,,"Gomon &amp; Kuiter, 2009",Critically Endangered,A2b+3b,3.1,Decreasing,Global
+250593139,250587627,Stigmatopora harastii,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Stigmatopora,harastii,,,,"Short &amp; Trevor-Jones, 2020",Endangered,B1ab(iii),3.1,Decreasing,Global
+252735337,252731894,Luciogobius griseus,ANIMALIA,CHORDATA,GOBIIFORMES,ACTINOPTERYGII,GOBIIDAE,Luciogobius,griseus,,,,"Koreeda, Maeda &amp; Motomura, 2023",Vulnerable,B2ab(iii),3.1,Decreasing,Global
+253117341,253117160,Rhynchobatus laevis,ANIMALIA,CHORDATA,RHINOPRISTIFORMES,CHONDRICHTHYES,RHINIDAE,Rhynchobatus,laevis,,,,"(Bloch &amp; Schneider, 1801)",Critically Endangered,A2bd,3.1,Decreasing,Global
+253390478,68399092,Branchiostegus albus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,MALACANTHIDAE,Branchiostegus,albus,,,,"Dooley, 1978",Near Threatened,A2d,3.1,Decreasing,Global
+253390488,68399123,Branchiostegus argentatus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,MALACANTHIDAE,Branchiostegus,argentatus,,,,"(Cuvier, 1830)",Near Threatened,A2d,3.1,Decreasing,Global
+253390518,68399203,Branchiostegus auratus,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,MALACANTHIDAE,Branchiostegus,auratus,,,,"(Kishinouye, 1907)",Near Threatened,A2d,3.1,Decreasing,Global
+254964078,162293947,Centrophorus granulosus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,granulosus,,,,"(Bloch &amp; Schneider, 1801)",Endangered,A2bd,3.1,Decreasing,Global
+254975849,41871,Centrophorus squamosus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,squamosus,,,,"(Bonnaterre, 1788)",Endangered,A2bd,3.1,Decreasing,Global
+254988584,41745,Centrophorus uyato,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,uyato,,,,"(Rafinesque, 1810)",Endangered,A2bd,3.1,Decreasing,Global
+255043036,161551,Deania profundorum,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Deania,profundorum,,,,"(Smith &amp; Radcliffe, 1912)",Near Threatened,A2d,3.1,Decreasing,Global
+263199517,17177,Phyllopteryx taeniolatus,ANIMALIA,CHORDATA,SYNGNATHIFORMES,ACTINOPTERYGII,SYNGNATHIDAE,Phyllopteryx,taeniolatus,,,,"(Lacepède, 1804)",Vulnerable,A2bc,3.1,Decreasing,Global
+267274043,161384,Centrophorus atromarginatus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,atromarginatus,,,,"Garman, 1913",Critically Endangered,A2bd,3.1,Decreasing,Global
+267274929,44563,Centrophorus isodon,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,isodon,,,,"(Chu, Meng &amp; Liu, 1981)",Endangered,A2d,3.1,Decreasing,Global
+267275997,162292301,Centrophorus longipinnis,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,longipinnis,,,,"White, Ebert &amp; Naylor, 2017",Endangered,A2d,3.1,Decreasing,Global
+267277845,42838,Centrophorus moluccensis,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Centrophorus,moluccensis,,,,"Bleeker, 1860",Vulnerable,A2bd,3.1,Decreasing,Global
+267283710,41798,Deania calceus,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Deania,calceus,,,,"(Lowe, 1839)",Near Threatened,A2bd,3.1,Decreasing,Global
+267298077,161635,Deania quadrispinosa,ANIMALIA,CHORDATA,SQUALIFORMES,CHONDRICHTHYES,CENTROPHORIDAE,Deania,quadrispinosa,,,,"(McCulloch, 1915)",Vulnerable,A2bd,3.1,Decreasing,Global
+268790096,39324,Notorynchus cepedianus,ANIMALIA,CHORDATA,HEXANCHIFORMES,CHONDRICHTHYES,HEXANCHIDAE,Notorynchus,cepedianus,,,,"(Péron, 1807)",Vulnerable,A2bd,3.1,Decreasing,Global
+274966962,63572,Pterapogon kauderni,ANIMALIA,CHORDATA,PERCIFORMES,ACTINOPTERYGII,APOGONIDAE,Pterapogon,kauderni,,,,"Koumans, 1933",Endangered,"B2ab(ii,iii,iv,v)",3.1,Decreasing,Global

@@ -1,0 +1,131 @@
+,CommonName,FullName,scientificName,Genus,Final_score,Upper_Level_pred_score,Vuln_fishery_score,Vuln_climate_score,Nutrient_Transporting_Species,Forage_Species,Any_CC,Vulnerability_climate_category,Troph,Max_length,Upper_level_Predators_gale,Vulnerability_fisheries,Vulnerability_fisheries_category,Vulnerability_climate,Global_CC,National_CC,Regional_CC,Recommended_CP,check_gale,check_fishbase
+,Longnose skate,Longnose skate (Caliraja rhina),Caliraja rhina,Caliraja,2,2,2,NA,*,*,0,NA,4,180,2,78,Very high,NA,,,,,,
+4,Pacific sandlance,Pacific sandlance (Ammodytes hexapterus),Ammodytes hexapterus,Ammodytes,2,0,1,,0,2,0,,3.13,30,0,35.3,Moderate,NA,*,*,*,X,NA,NA
+5,Pacific sandlance,Pacific sandlance (Ammodytes personatus),Ammodytes personatus,Ammodytes,2,0,,,NA,2,0,Low,3.14,15,NA,13.87,Low,16.74,NA,NA,NA,NA,Yes,NA
+6,Wolf eel,Wolf eel (Anarrhichthys ocellatus),Anarrhichthys ocellatus,Anarrhichthys,2,1,2,,*,-,0,,3.51,240,1,90,Very high,NA,0,*,*,X,NA,NA
+8,Sablefish,Sablefish (Anoplopoma fimbria),Anoplopoma fimbria,Anoplopoma,2,1,1,2,1,-,0,High,3.84,120,2,48.68,Moderate to high,57.75,*,*,*,X,NA,NA
+14,Kamchatka flounder,Kamchatka flounder (Atheresthes evermanni),Atheresthes evermanni,Atheresthes,2,2,2,1,NA,NA,0,Moderate,4.3,100,NA,64.07,High,44.37,NA,NA,NA,NA,Yes,NA
+16,Blue whale,Blue whale (Balaenoptera musculus),Balaenoptera musculus,Balaenoptera,2,2,2,,1,-,2,,3.47,3300,0,78.77,Very high,NA,2,2,2,X,NA,NA
+26,Pacific herring,Pacific herring (Clupea pallasii),Clupea pallasii,Clupea,2,0,1,,2,2,0,Low,3.16,46,0,49.32,Moderate to high,22.1,*,*,*,X,NA,NA
+29,Giant wrymouth,Giant wrymouth (Cryptacanthodes giganteus),Cryptacanthodes giganteus,Cryptacanthodes,2,1,2,,NA,NA,0,,3.05,117,NA,70.2,High to very high,NA,NA,NA,NA,NA,Yes,NA
+30,Shiner perch,Shiner perch (Cymatogaster aggregata),Cymatogaster aggregata,Cymatogaster,2,0,,,*,2,0,,2.99,20.3,0,10.3,Low,NA,0,*,*,X,NA,NA
+34,Northern anchovy,Northern anchovy (Engraulis mordax),Engraulis mordax,Engraulis,2,0,,,*,2,0,Low,3.1,24.8,0,23.89,Low,21.79,0,*,*,-,NA,NA
+37,Alaska pollock,Alaska pollock (Gadus chalcogrammus),Gadus chalcogrammus,Gadus,2,1,2,2,1,NA,0,High,3.57,91,NA,59.31,High,55.44,NA,NA,NA,NA,Yes,NA
+42,yellow Irish lord,yellow Irish lord (Hemilepidotus jordani),Hemilepidotus jordani,Hemilepidotus,2,1,2,,NA,NA,0,,3.61,65,NA,65.84,High to very high,NA,NA,NA,NA,NA,Yes,NA
+45,Bluntnose sixgill shark,Bluntnose sixgill shark (Hexanchus griseus),Hexanchus griseus,Hexanchus,2,2,2,1,0,-,1,Moderate,4.48,600,2,90,Very high,37.5,1,1,*,X,NA,NA
+53,Pacific white-sided dolphin,Pacific white-sided dolphin (Lagenorhynchus obliquidens),Lagenorhynchus obliquidens,Lagenorhynchus,2,2,,,1,-,0,NA,NA,250,2,NA,NA,NA,0,0,0,X,NA,Yes
+58,Daubed shanny,Daubed shanny (Leptoclinus maculatus),Leptoclinus maculatus,Leptoclinus,2,0,2,,NA,NA,0,,3.28,20,NA,58.66,High,NA,NA,NA,NA,NA,Yes,NA
+60,Northern smoothtongue,Northern smoothtongue (Leuroglossus schmidti),Leuroglossus schmidti,Leuroglossus,2,0,,,*,2,0,,3.38,20,0,14.4,Low,NA,*,*,*,X,NA,NA
+73,Capelin,Capelin (Mallotus villosus),Mallotus villosus,Mallotus,2,0,,,*,2,0,Low,3.15,25.2,0,27.37,Low to moderate,23.85,0,*,*,X,NA,NA
+74,Humpback whale,Humpback whale (Megaptera novaeangliae),Megaptera novaeangliae,Megaptera,2,2,2,,1,-,2,,NA,1889.76,1,55.67,High,NA,0,2,1,X,NA,NA
+75,Pacific Hake,Pacific Hake (Merluccius productus),Merluccius productus,Merluccius,2,2,1,1,1,1,0,Moderate to high,4.37,105,2,42.87,Moderate,52.98,0,*,*,X,NA,NA
+77,Dover sole,Dover sole (Microstomus pacificus),Microstomus pacificus,Microstomus,2,1,2,1,*,-,0,Moderate,3.22,76,1,71.29,High to very high,42.86,*,*,*,X,NA,NA
+78,Great sculpin,Great sculpin (Myoxocephalus polyacanthocephalus),Myoxocephalus polyacanthocephalus,Myoxocephalus,2,1,2,,NA,NA,0,,3.76,80,NA,68.23,High to very high,NA,NA,NA,NA,NA,Yes,NA
+83,Pink salmon,Pink salmon (Oncorhynchus gorbuscha),Oncorhynchus gorbuscha,Oncorhynchus,2,1,1,1,2,1*,0,Moderate to high,4.49,76,1,50.4,Moderate to high,45.83,*,0,0,X,NA,NA
+84,Chum salmon,Chum salmon (Oncorhynchus keta),Oncorhynchus keta,Oncorhynchus,2,1,1,2,2,1,0,High to very high,3.74,100,1,48.82,Moderate to high,71.18,*,0,0,X,NA,NA
+85,Coho salmon,Coho salmon (Oncorhynchus kisutch),Oncorhynchus kisutch,Oncorhynchus,2,2,1,2,2,1,0,High to very high,4.18,107.95,2,51.66,Moderate to high,72.27,*,0,0,X,NA,NA
+86,Rainbow trout,Rainbow trout (Oncorhynchus mykiss),Oncorhynchus mykiss,Oncorhynchus,2,2,1,,1,1*,0,NA,4.1,122,2,43,Moderate,NA,*,0,0,X,NA,Yes
+87,Sockeye salmon,Sockeye salmon (Oncorhynchus nerka),Oncorhynchus nerka,Oncorhynchus,2,1,,2,2,1,0,High to very high,3.54,84,1,31.14,Low to moderate,72.27,0,0,0,X,NA,NA
+88,Chinook salmon,Chinook salmon (Oncorhynchus tshawytscha),Oncorhynchus tshawytscha,Oncorhynchus,2,2,2,1,2,1,0,Moderate to high,4.4,150,2,90,Very high,51.68,*,0,0,X,NA,NA
+89,Lingcod,Lingcod (Ophiodon elongatus),Ophiodon elongatus,Ophiodon,2,2,2,1,*,-,0,Moderate to high,4.53,152,2,56.2,High,47.6,*,*,*,X,NA,NA
+97,Harbor seal,Harbor seal (Phoca vitulina),Phoca vitulina,Phoca,2,2,2,,0,-,0,,4.5,190,2,59.56,High,NA,0,0,0,X,NA,NA
+98,Harbour porpoise,Harbour porpoise (Phocoena phocoena),Phocoena phocoena,Phocoena,2,2,1,,0,-,1,,4.5,200,2,44,Moderate,NA,0,1,1,X,NA,NA
+103,Starry flounder,Starry flounder (Platichthys stellatus),Platichthys stellatus,Platichthys,2,1,1,2,*,-,0,High,3.58,91,1,50.55,Moderate to high,61.4,0,*,*,-,NA,NA
+104,Alaska plaice,Alaska plaice (Pleuronectes quadrituberculatus),Pleuronectes quadrituberculatus,Pleuronectes,2,1,2,2,NA,NA,0,High,3.59,87,NA,67.55,High to very high,61.63,NA,NA,NA,NA,Yes,NA
+114,Atlantic salmon,Atlantic salmon (Salmo salar),Salmo salar,Salmo,2,2,1,1,1,NA,0,Moderate to high,4.5,150,NA,45.37,Moderate to high,50.05,NA,NA,NA,NA,Yes,NA
+115,Bull trout,Bull trout (Salvelinus confluentus),Salvelinus confluentus,Salvelinus,2,1,2,,NA,NA,1,,3.72,103,NA,61.8,High,NA,NA,NA,1,NA,Yes,NA
+116,Dolly Varden,Dolly Varden (Salvelinus malma),Salvelinus malma,Salvelinus,2,2,2,,2,NA,0,,4.4,127,NA,69.97,High to very high,NA,NA,NA,NA,NA,Yes,NA
+119,Broadbanded thornyhead,Broadbanded thornyhead (Sebastolobus macrochir),Sebastolobus macrochir,Sebastolobus,2,0,2,,NA,NA,0,,3.2,44,NA,69.44,High to very high,NA,NA,NA,NA,NA,Yes,NA
+120,Pacific spiny dogfish,Pacific spiny dogfish (Squalus suckleyi),Squalus suckleyi,Squalus,2,1,2,,1,-,1,,3.82,140,2,84,Very high,NA,0,1,*,X,NA,NA
+121,Northern lampfish,Northern lampfish (Stenobrachius leucopsarus),Stenobrachius leucopsarus,Stenobrachius,2,0,,,*,2,0,,3.17,13,0,32.63,Low to moderate,NA,*,*,*,X,NA,NA
+125,Eulachon,Eulachon (Thaleichthys pacificus),Thaleichthys pacificus,Thaleichthys,2,0,,1,2,2,2,Moderate,3.25,34,0,32.71,Low to moderate,35.39,0,2,2,X,NA,NA
+3,American shad,American shad (Alosa sapidissima),Alosa sapidissima,Alosa,1,1,1,1,NA,NA,0,Moderate,3.48,76,NA,50.28,Moderate to high,43.55,NA,NA,NA,NA,Yes,NA
+9,Penpoint gunnel,Penpoint gunnel (Apodichthys flavidus),Apodichthys flavidus,Apodichthys,1,0,1,,NA,NA,0,,3.55,46,NA,36,Moderate,NA,NA,NA,NA,NA,Yes,NA
+19,Red brotula,Red brotula (Brosmophycis marginata),Brosmophycis marginata,Brosmophycis,1,0,1,,NA,NA,0,,3.61,46,NA,36,Moderate,NA,NA,NA,NA,NA,Yes,NA
+21,Longnose sucker,Catostomus catostomus (Longnose sucker),Catostomus catostomus,Catostomus,1,0,1,,NA,NA,0,,2.54,64,NA,45.6,Moderate to high,NA,NA,NA,NA,NA,Yes,NA
+25,Mosshead sculpin,Mosshead sculpin (Clinocottus globiceps),Clinocottus globiceps,Clinocottus,1,0,1,,NA,NA,0,,3.06,19,NA,35.25,Moderate,NA,NA,NA,NA,NA,Yes,NA
+31,Spinyhead sculptin,Spinyhead sculpin (Dasycottus setiger),Dasycottus setiger,Dasycottus,1,1,1,,NA,NA,0,,3.87,73,NA,49.2,Moderate to high,NA,NA,NA,NA,NA,Yes,NA
+38,Pacific cod,Pacific cod (Gadus macrocephalus),Gadus macrocephalus,Gadus,1,1,1,1,0,0,0,Moderate to high,3.78,119,2,50.18,Moderate to high,45.16,*,*,*,X,NA,NA
+41,Red Irish lord,Red Irish lord (Hemilepidotus hemilepidotus),Hemilepidotus hemilepidotus,Hemilepidotus,1,0,1,,NA,NA,0,,3.53,51,NA,40.4,Moderate,NA,NA,NA,NA,NA,Yes,NA
+43,Kelp greenling,Kelp greenling (Hexagrammos decagrammus),Hexagrammos decagrammus,Hexagrammos,1,1,1,,0,-,0,,3.59,61,0,44.4,Moderate,NA,*,*,*,-,NA,NA
+44,Rock greenling,Rock greenling (Hexagrammos lagocephalus),Hexagrammos lagocephalus,Hexagrammos,1,1,1,,NA,NA,0,,3.67,61,NA,44.4,Moderate,NA,NA,NA,NA,NA,Yes,NA
+46,Spotted ratfish,Spotted ratfish (Hydrolagus colliei),Hydrolagus colliei,Hydrolagus,1,1,1,1,NA,NA,0,Moderate to high,3.68,100,NA,49.66,Moderate to high,47.3,NA,NA,NA,NA,Yes,NA
+54,Bay goby,Bay goby (Lepidogobius lepidus),Lepidogobius lepidus,Lepidogobius,1,0,1,,NA,NA,0,,3.41,10,NA,50.96,Moderate to high,NA,NA,NA,NA,NA,Yes,NA
+55,Rock sole,Rock sole (Lepidopsetta bilineata),Lepidopsetta bilineata,Lepidopsetta,1,1,1,,0,-,0,Low to moderate,3.18,60,1,44,Moderate,32.94,*,*,*,X,NA,NA
+56,Northern Rock Sole,Northern Rock Sole (Lepidopsetta polyxystra),Lepidopsetta polyxystra,Lepidopsetta,1,1,1,,NA,NA,0,,3.3,69,NA,47.6,Moderate to high,NA,NA,NA,NA,NA,Yes,NA
+57,Pumpkinseed,Pumpkinseed (Lepomis gibbosus),Lepomis gibbosus,Lepomis,1,0,1,,NA,NA,0,,3.25,40,NA,49.37,Moderate to high,NA,NA,NA,NA,NA,Yes,NA
+59,Pacific staghorn sculpin,Pacific staghorn sculpin (Leptocottus armatus),Leptocottus armatus,Leptocottus,1,0,1,,NA,NA,0,,3.68,46,NA,36,Moderate,NA,NA,NA,NA,NA,Yes,NA
+67,Snake prickleback,Snake prickleback (Lumpenus sagitta),Lumpenus sagitta,Lumpenus,1,0,1,,NA,NA,0,,3.29,51,NA,40.4,Moderate,NA,NA,NA,NA,NA,Yes,NA
+71,Blackbelly prickleback,Blackbelly prickleback (Lycodopsis pacificus),Lycodes pacificus,Lycodes,1,0,1,,NA,NA,0,NA,3.3,46,NA,47,Moderate to high,NA,NA,NA,NA,NA,Yes,Yes
+76,Pacific tomcod,Pacific tomcod (Microgadus proximus),Microgadus proximus,Microgadus,1,0,,1,*,1*,0,Moderate to high,3.58,30.5,0,27.21,Low to moderate,50.76,0,*,*,-,NA,NA
+81,Tidepool sculpin,Tidepool sculpin (Oligocottus maculosus),Oligocottus maculosus,Oligocottus,1,0,1,,NA,NA,0,,3.38,8.9,NA,37.33,Moderate,NA,NA,NA,NA,NA,Yes,NA
+82,Cutthroat trout,Cutthroat trout (Oncorhynchus clarkii),Oncorhynchus clarkii,Oncorhynchus,1,1,1,,1,1*,0,NA,3.8,99,2,48,Moderate to high,NA,*,0,0,X,NA,Yes
+90,Rainbow smelt,Rainbow smelt (Osmerus mordax),Osmerus mordax,Osmerus,1,0,1,,NA,NA,0,Low to moderate,3.45,35.6,NA,38.09,Moderate,31.86,NA,NA,NA,NA,Yes,NA
+92,Pink snailfish,Pink snailfish (Paraliparis rosaceus),Paraliparis rosaceus,Paraliparis,1,0,1,,NA,NA,0,,3.73,40,NA,38.8,Moderate,NA,NA,NA,NA,NA,Yes,NA
+93,English sole,English sole (Parophrys vetulus),Parophrys vetulus,Parophrys,1,1,1,,*,-,0,Low to moderate,3.39,57,1,43.49,Moderate,26.67,*,*,*,-,NA,NA
+96,Pile perch,Pile perch (Phanerodon vacca),Phanerodon vacca,Phanerodon,1,0,1,,NA,NA,0,,3.38,44.2,NA,41.57,Moderate,NA,NA,NA,NA,NA,Yes,NA
+117,Pacific sardine,Pacific sardine (Sardinops sagax),Sardinops sagax,Sardinops,1,0,,,1,1*,1,Low,2.84,39.5,0,33.17,Low to moderate,15.63,*,1,*,X,NA,NA
+118,Cabezon,Cabezon (Scorpaenichthys marmoratus),Scorpaenichthys marmoratus,Scorpaenichthys,1,1,1,1,0,-,0,Moderate,3.62,99,1,37.35,Moderate,44.27,*,*,*,-,NA,NA
+127,Pacific sandfish,Pacific sandfish (Trichodon trichodon),Trichodon trichodon,Trichodon,1,0,,,*,1,0,,3.95,30.5,0,20.5,Low,NA,*,*,*,-,NA,NA
+129,Prowfish,Prowfish (Zaprora silenus),Zaprora silenus,Zaprora,1,1,1,,*,-,0,,3.71,88,1,53.88,Moderate to high,NA,0,*,*,-,NA,NA
+1,Northern spearnose poacher,Northern spearnose poacher (Agonopsis vulsa),Agonopsis vulsa,Agonopsis,0,0,,,NA,NA,0,,3.27,20,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+2,Stone cockscomb,Stone cockscomb (Alectrias alectrolophus),Alectrias alectrolophus,Alectrias,0,0,,,NA,NA,0,,3.13,10,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+7,Stout eelblenny,Stout eelblenny (Anisarchus medius),Anisarchus medius,Anisarchus,0,0,,,NA,NA,0,,3.22,30,NA,20,Low,NA,NA,NA,NA,NA,Yes,NA
+10,Padded sculpin,Padded sculpin (Artedius fenestralis),Artedius fenestralis,Artedius,0,0,,,NA,NA,0,,4.03,14,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+11,Scalyhead sculpin,Scalyhead sculpin (Artedius harringtoni),Artedius harringtoni,Artedius,0,0,,,NA,NA,0,,3.41,10,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+12,Smoothhead sculpin,Smoothhead sculpin (Artedius lateralis),Artedius lateralis,Artedius,0,0,,,NA,NA,0,,3.7,14,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+13,Rosylip sculpin,Rosylip sculpin (Ascelichthys rhodorus),Ascelichthys rhodorus,Ascelichthys,0,0,,,NA,NA,0,,3.38,15,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+15,Tube-snout,Tube-snout (Aulorhynchus flavidus),Aulorhynchus flavidus,Aulorhynchus,0,0,,,NA,NA,0,,3.39,18,NA,24.65,Low,NA,NA,NA,NA,NA,Yes,NA
+17,Bigeye poacher,Bigeye poacher (Bathyagonus pentacanthus),Bathyagonus pentacanthus,Bathyagonus,0,0,,,NA,NA,0,,3.24,23,NA,13,Low,NA,NA,NA,NA,NA,Yes,NA
+18,Kelp perch,Kelp perch (Brachyistius frenatus),Brachyistius frenatus,Brachyistius,0,0,,,*,1*,0,,3.5,22,0,12,Low,NA,*,*,*,-,NA,NA
+20,Snailfish,Snailfish (Careproctus simus),Careproctus simus,Careproctus,0,0,,,NA,NA,0,,3.27,18.6,NA,12.69,Low,NA,NA,NA,NA,NA,Yes,NA
+22,Pacific sanddab,Pacific sanddab (Citharichthys sordidus),Citharichthys sordidus,Citharichthys,0,0,,,*,-,0,Low,3.46,41,0,34.93,Low to moderate,7.5,*,*,*,-,NA,NA
+23,Speckled sanddab,Speckled sanddab (Citharichthys stigmaeus),Citharichthys stigmaeus,Citharichthys,0,0,,,*,-,0,,3.4,17,0,10,Low,NA,*,*,*,-,NA,NA
+24,Sharpnose sculpin,Sharpnose sculpin (Clinocottus acuticeps),Clinocottus acuticeps,Clinocottus,0,0,,,NA,NA,0,,3.5,6.4,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+27,Coastrange sculpin,Coastrange sculpin (Cottus aleuticus),Cottus aleuticus,Cottus,0,0,,,NA,NA,0,,3.2,17,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+28,Prickly sculpin,Prickly sculpin (Cottus asper),Cottus asper,Cottus,0,0,,,NA,NA,0,,3.44,30,NA,20,Low,NA,NA,NA,NA,NA,Yes,NA
+32,California headlightfish,California headlightfish (Diaphus theta),Diaphus theta,Diaphus,0,0,,,NA,NA,0,,3.19,11.4,NA,25.13,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+33,Striped seaperch,Striped seaperch (Embiotoca lateralis),Embiotoca lateralis,Embiotoca,0,0,,,*,1*,0,,3.33,38,0,28,Low to moderate,NA,*,*,*,-,NA,NA
+35,Buffalo sculpin,Buffalo sculpin (Enophrys bison),Enophrys bison,Enophrys,0,0,,,NA,NA,0,,3.34,37,NA,27,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+36,Fourline snakeblenny,Fourline snakeblenny (Eumesogrammus praecisus),Eumesogrammus praecisus,Eumesogrammus,0,0,,,NA,NA,0,,3.5,22,NA,12,Low,NA,NA,NA,NA,NA,Yes,NA
+39,Three-spined stickleback,Three-spined stickleback (Gasterosteus aculeatus),Gasterosteus aculeatus,Gasterosteus,0,0,,,NA,NA,0,Low to moderate,3.31,11,NA,10,Low,26.39,NA,NA,NA,NA,Yes,NA
+40,Northern clingfish,Northern clingfish (Gobiesox maeandricus),Gobiesox maeandricus,Gobiesox,0,0,,,NA,NA,0,,3.44,16,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+47,Fourhorn poacher,Fourhorn poacher (Hypsagonus quadricornis),Hypsagonus quadricornis,Hypsagonus,0,0,,,NA,NA,0,,3.22,12,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+48,Northern sculpin,Northern sculpin (Icelinus borealis),Icelinus borealis,Icelinus,0,0,,,NA,NA,0,,3.6,10.2,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+49,Dusky sculpin,Dusky sculpin (Icelinus burchami),Icelinus burchami,Icelinus,0,0,,,NA,NA,0,,3.54,13,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+50,Threadfin sculpin,Threadfin sculpin (Icelinus filamentosus),Icelinus filamentosus,Icelinus,0,0,,,NA,NA,0,,3.45,27,NA,17,Low,NA,NA,NA,NA,NA,Yes,NA
+51,Fringed sculpin,Fringed sculpin (Icelinus fimbriatus),Icelinus fimbriatus,Icelinus,0,0,,,NA,NA,0,,3.65,19,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+52,Longfin sculpin,Longfin sculpin (Jordania zonope),Jordania zonope,Jordania,0,0,,,NA,NA,0,,3.37,15,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+61,Ribbon snailfish,Ribbon snailfish (Liparis cyclopus),Liparis cyclopus,Liparis,0,0,,,NA,NA,0,,3.39,11.4,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+62,Tidepool snailfish,Tidepool snailfish (Liparis florae),Liparis florae,Liparis,0,0,,,NA,NA,0,,3.5,18.3,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+63,Lobefin snailfish,Lobefin snailfish (Polypera greeni),Liparis greeni,Liparis,0,0,,,NA,NA,0,NA,3.6,31,NA,21,Low,NA,NA,NA,NA,NA,Yes,Yes
+64,Showy snailfish,Showy snailfish (Liparis pulchellus),Liparis pulchellus,Liparis,0,0,,,NA,NA,0,NA,3.6,25,NA,33,Low to moderate,NA,NA,NA,NA,NA,Yes,Yes
+65,Pygmy snailfish,Pygmy snailfish (Lipariscus nanus),Lipariscus nanus,Lipariscus,0,0,,,NA,NA,0,,3.32,7.1,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+66,Longsnout prickleback,Longsnout prickleback (Lumpenella longirostris),Lumpenella longirostris,Lumpenella,0,0,,,NA,NA,0,,3.1,42,NA,32,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+68,Pallid eelpout,Pallid eelpout (Lycodapus mandibularis),Lycodapus mandibularis,Lycodapus,0,0,,,NA,NA,0,,3.33,20,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+69,Smallhead eelpout,Smallhead eelpout (Lycodapus parviceps),Lycodapus parviceps,Lycodapus,0,0,,,NA,NA,0,,3.26,9.8,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+70,Shortfin eelpout,Shortfin eelpout (Lycodes brevipes),Lycodes brevipes,Lycodes,0,0,,,NA,NA,0,NA,4.2,30,NA,20,Low,NA,NA,NA,NA,NA,Yes,Yes
+72,Slender sole,Slender sole (Lyopsetta exilis),Lyopsetta exilis,Lyopsetta,0,0,,,*,-,0,,3.45,35,0,25,Low,NA,0,*,*,-,NA,NA
+79,Sailfin sculpin,Sailfin sculpin (Nautichthys oculofasciatus),Nautichthys oculofasciatus,Nautichthys,0,0,,,NA,NA,0,,4.05,20,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+80,Tadpole snailfish,Tadpole snailfish (Nectoliparis pelagicus),Nectoliparis pelagicus,Nectoliparis,0,0,,,NA,NA,0,,3.3,6.5,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+91,Painted greenling,Painted greenling (Oxylebius pictus),Oxylebius pictus,Oxylebius,0,0,,,NA,NA,0,,3.42,25,NA,15,Low,NA,NA,NA,NA,NA,Yes,NA
+94,Dragon poacher,Dragon poacher (Percis japonica),Percis japonica,Percis,0,0,,,NA,NA,0,,3.08,42,NA,32,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+95,White seaperch,White seaperch (Phanerodon furcatus),Phanerodon furcatus,Phanerodon,0,0,,,NA,NA,0,,3.34,32,NA,22,Low,NA,NA,NA,NA,NA,Yes,NA
+99,Longfin gunnel,Longfin gunnel (Pholis clemensi),Pholis clemensi,Pholis,0,0,,,NA,NA,0,,3.2,13,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+100,Crescent gunnel,Crescent gunnel (Pholis laeta),Pholis laeta,Pholis,0,0,,,NA,NA,0,,3.27,25,NA,15,Low,NA,NA,NA,NA,NA,Yes,NA
+101,Saddleback gunnel,Saddleback gunnel (Pholis ornata),Pholis ornata,Pholis,0,0,,,NA,NA,0,,3.55,30,NA,20,Low,NA,NA,NA,NA,NA,Yes,NA
+102,Ribbon prickleback,Ribbon prickleback (Phytichthys chirus),Phytichthys chirus,Phytichthys,0,0,,,NA,NA,0,,2.61,20,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+105,C-O sole,C-O sole (Pleuronichthys coenosus),Pleuronichthys coenosus,Pleuronichthys,0,0,,,NA,NA,0,,3.16,36,NA,26,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+106,Sturgeon poacher,Sturgeon poacher (Podothecus accipenserinus),Podothecus accipenserinus,Podothecus,0,0,,,NA,NA,0,,3.36,30.5,NA,20.5,Low,NA,NA,NA,NA,NA,Yes,NA
+107,Whitebarred prickleback,Whitebarred prickleback (Poroclinus rothrocki),Poroclinus rothrocki,Poroclinus,0,0,,,NA,NA,0,,3.22,25,NA,15,Low,NA,NA,NA,NA,NA,Yes,NA
+108,Soft sculpin,Soft sculpin (Psychrolutes sigalutes),Psychrolutes sigalutes,Psychrolutes,0,0,,,NA,NA,0,,3.19,8.3,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+109,Slim sculpin,Slim sculpin (Radulinus asprellus),Radulinus asprellus,Radulinus,0,0,,,NA,NA,0,,3.38,15,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+110,Grunt sculpin,Grunt sculpin (Rhamphocottus richardsonii),Rhamphocottus richardsonii,Rhamphocottus,0,0,,,NA,NA,0,,3.42,8.9,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+111,Longnose snailfish,Longnose snailfish (Rhinoliparis barbulifer),Rhinoliparis barbulifer,Rhinoliparis,0,0,,,NA,NA,0,,3.36,8.8,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+112,Kelp clingfish,Kelp clingfish (Rimicola muscarum),Rimicola muscarum,Rimicola,0,0,,,NA,NA,0,,3.22,7,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+113,Northern ronquil,Northern ronquil (Ronquilus jordani),Ronquilus jordani,Ronquilus,0,0,,,*,-,0,,3.13,20,0,10,Low,NA,0,*,*,-,NA,NA
+122,Garnet lanternfish,Garnet lanternfish (Stenobrachius nannochir),Stenobrachius nannochir,Stenobrachius,0,0,,,NA,NA,0,,3.04,11,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+123,Bay pipefish,Bay pipefish (Syngnathus leptorhynchus),Syngnathus leptorhynchus,Syngnathus,0,0,,,NA,NA,0,,3.24,38.5,NA,28.5,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
+124,North Pacific lanternfish,North Pacific lanternfish (Tarletonbeania taylori),Tarletonbeania taylori,Tarletonbeania,0,0,,,NA,NA,0,,3.26,7,NA,10,Low,NA,NA,NA,NA,NA,Yes,NA
+126,Hairhead sculpin,Hairhead sculpin (Trichocottus brashnikovi),Trichocottus brashnikovi,Trichocottus,0,0,,,NA,NA,0,,3.45,22.5,NA,12.5,Low,NA,NA,NA,NA,NA,Yes,NA
+128,Blacktip poacher,Blacktip poacher (Xeneretmus latifrons),Xeneretmus latifrons,Xeneretmus,0,0,,,NA,NA,0,,3.2,19,NA,26.66,Low to moderate,NA,NA,NA,NA,NA,Yes,NA
