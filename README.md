@@ -1,6 +1,10 @@
 # Fjords_conservation
 Processing and analysis of 12S MiFish-U eDNA data for paper on fjord conservation.
 To learn more: https://fjedna.shinyapps.io/census-app1/
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="www/Figure1_map.png">
+ <img alt="C3 travel" src="www/Figure1_map.png">
+</picture>
 
 # Citation
 to come
